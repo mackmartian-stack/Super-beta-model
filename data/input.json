@@ -684,9 +684,10 @@
     }
   ],
   "players": [],
-  "generated_at": "2026-11-03T06:38:36.816876+00:00",
+  "generated_at": "2026-11-03T08:16:11.123095+00:00",
   "method": "Recent scoring margin plus opponent-strength adjustment; experimental, uncalibrated",
   "warnings": [
-    "No verified injuries, lineups, coaching adjustments, or player projections."
+    "No verified injuries, lineups, coaching adjustments, or player projections.",
+    "Player projections are unadjusted recent per-game averages, not injury/lineup/usage-adjusted forecasts."
   ]
 }

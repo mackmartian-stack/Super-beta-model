@@ -1,0 +1,6 @@
+{
+  "recorded_forecasts": 12,
+  "settled_games": 0,
+  "winner_accuracy": null,
+  "note": "Accuracy on tracked games only; not out-of-sample calibration or betting ROI."
+}
