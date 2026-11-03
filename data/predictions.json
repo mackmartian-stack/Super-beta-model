@@ -1,7 +1,7 @@
 {
   "model": "Super Beta Model 2.0",
   "status": "predictions_available",
-  "generated_at": "2026-11-03T08:16:42.717975+00:00",
+  "generated_at": "2026-11-03T08:49:46.508954+00:00",
   "experimental": true,
   "calibrated": false,
   "note": "No proven betting edge. Inputs must be verified and dated.",
@@ -163,6 +163,127 @@
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261109&limit=500"
     }
   ],
-  "player_predictions": [],
+  "player_predictions": [
+    {
+      "sport": "NFL",
+      "player": "Joe Burrow",
+      "team": "Cincinnati Bengals",
+      "stat": "passing_yards",
+      "projection": 462.0,
+      "date": "2026-11-08T14:30Z",
+      "source": "ESPN public game boxscores (unofficial)",
+      "confidence": "uncalibrated"
+    },
+    {
+      "sport": "NFL",
+      "player": "Deshaun Watson",
+      "team": "Cleveland Browns",
+      "stat": "passing_yards",
+      "projection": 324.0,
+      "date": "2026-11-08T18:00Z",
+      "source": "ESPN public game boxscores (unofficial)",
+      "confidence": "uncalibrated"
+    },
+    {
+      "sport": "NFL",
+      "player": "Patrick Mahomes",
+      "team": "Kansas City Chiefs",
+      "stat": "passing_yards",
+      "projection": 321.0,
+      "date": "2026-11-08T18:00Z",
+      "source": "ESPN public game boxscores (unofficial)",
+      "confidence": "uncalibrated"
+    },
+    {
+      "sport": "NFL",
+      "player": "Geno Smith",
+      "team": "New York Jets",
+      "stat": "passing_yards",
+      "projection": 290.0,
+      "date": "2026-11-08T18:00Z",
+      "source": "ESPN public game boxscores (unofficial)",
+      "confidence": "uncalibrated"
+    },
+    {
+      "sport": "NFL",
+      "player": "Josh Allen",
+      "team": "Buffalo Bills",
+      "stat": "passing_yards",
+      "projection": 289.0,
+      "date": "2026-11-10T01:15Z",
+      "source": "ESPN public game boxscores (unofficial)",
+      "confidence": "uncalibrated"
+    },
+    {
+      "sport": "NFL",
+      "player": "Justin Herbert",
+      "team": "Los Angeles Chargers",
+      "stat": "passing_yards",
+      "projection": 257.0,
+      "date": "2026-11-08T21:05Z",
+      "source": "ESPN public game boxscores (unofficial)",
+      "confidence": "uncalibrated"
+    },
+    {
+      "sport": "NFL",
+      "player": "Caleb Williams",
+      "team": "Chicago Bears",
+      "stat": "passing_yards",
+      "projection": 247.0,
+      "date": "2026-11-09T01:20Z",
+      "source": "ESPN public game boxscores (unofficial)",
+      "confidence": "uncalibrated"
+    },
+    {
+      "sport": "NFL",
+      "player": "Kirk Cousins",
+      "team": "Las Vegas Raiders",
+      "stat": "passing_yards",
+      "projection": 247.0,
+      "date": "2026-11-08T21:25Z",
+      "source": "ESPN public game boxscores (unofficial)",
+      "confidence": "uncalibrated"
+    },
+    {
+      "sport": "NFL",
+      "player": "Bo Nix",
+      "team": "Denver Broncos",
+      "stat": "passing_yards",
+      "projection": 222.0,
+      "date": "2026-11-08T18:00Z",
+      "source": "ESPN public game boxscores (unofficial)",
+      "confidence": "uncalibrated"
+    },
+    {
+      "sport": "NFL",
+      "player": "Jayden Daniels",
+      "team": "Washington Commanders",
+      "stat": "passing_yards",
+      "projection": 217.0,
+      "date": "2026-11-08T18:00Z",
+      "source": "ESPN public game boxscores (unofficial)",
+      "confidence": "uncalibrated"
+    },
+    {
+      "sport": "NFL",
+      "player": "Tanner McKee",
+      "team": "Philadelphia Eagles",
+      "stat": "passing_yards",
+      "projection": 212.0,
+      "date": "2026-11-08T18:00Z",
+      "source": "ESPN public game boxscores (unofficial)",
+      "confidence": "uncalibrated"
+    },
+    {
+      "sport": "NFL",
+      "player": "Malik Willis",
+      "team": "Miami Dolphins",
+      "stat": "passing_yards",
+      "projection": 211.0,
+      "date": "2026-11-08T18:00Z",
+      "source": "ESPN public game boxscores (unofficial)",
+      "confidence": "uncalibrated"
+    }
+  ],
   "errors": []
 }
