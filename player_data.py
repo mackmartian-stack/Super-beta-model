@@ -14,7 +14,7 @@ ROOT = Path(__file__).resolve().parent
 DATA = ROOT / 'data'
 PATHS = {'NBA': 'basketball/nba', 'NFL': 'football/nfl', 'CFB': 'football/college-football'}
 LIMIT = int(os.getenv('SB_BOXSCORE_LIMIT', '36'))
-MIN_SAMPLE = 3
+MIN_SAMPLE = 1
 
 def fetch(url):
     req = Request(url, headers={'User-Agent': 'SuperBetaPersonalResearch/3.0', 'Accept': 'application/json'})
