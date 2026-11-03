@@ -1,7 +1,7 @@
 {
   "model": "Super Beta Model 2.0",
   "status": "predictions_available",
-  "generated_at": "2026-11-03T09:09:46.616737+00:00",
+  "generated_at": "2026-11-03T09:19:16.512117+00:00",
   "experimental": true,
   "calibrated": false,
   "note": "No proven betting edge. Inputs must be verified and dated.",
@@ -166,26 +166,6 @@
   "player_predictions": [
     {
       "sport": "NFL",
-      "player": "Joe Burrow",
-      "team": "Cincinnati Bengals",
-      "stat": "passing_yards",
-      "projection": 377.0,
-      "date": "2026-11-08T14:30Z",
-      "source": "ESPN public game boxscores (unofficial)",
-      "confidence": "uncalibrated"
-    },
-    {
-      "sport": "NFL",
-      "player": "Brock Purdy",
-      "team": "San Francisco 49ers",
-      "stat": "passing_yards",
-      "projection": 288.0,
-      "date": "2026-11-08T21:25Z",
-      "source": "ESPN public game boxscores (unofficial)",
-      "confidence": "uncalibrated"
-    },
-    {
-      "sport": "NFL",
       "player": "Kirk Cousins",
       "team": "Las Vegas Raiders",
       "stat": "passing_yards",
@@ -216,41 +196,11 @@
     },
     {
       "sport": "NFL",
-      "player": "Caleb Williams",
-      "team": "Chicago Bears",
-      "stat": "passing_yards",
-      "projection": 276.0,
-      "date": "2026-11-09T01:20Z",
-      "source": "ESPN public game boxscores (unofficial)",
-      "confidence": "uncalibrated"
-    },
-    {
-      "sport": "NFL",
-      "player": "Josh Allen",
-      "team": "Buffalo Bills",
-      "stat": "passing_yards",
-      "projection": 272.0,
-      "date": "2026-11-10T01:15Z",
-      "source": "ESPN public game boxscores (unofficial)",
-      "confidence": "uncalibrated"
-    },
-    {
-      "sport": "NFL",
       "player": "Deshaun Watson",
       "team": "Cleveland Browns",
       "stat": "passing_yards",
       "projection": 265.33,
       "date": "2026-11-08T18:00Z",
-      "source": "ESPN public game boxscores (unofficial)",
-      "confidence": "uncalibrated"
-    },
-    {
-      "sport": "NFL",
-      "player": "Trevor Lawrence",
-      "team": "Jacksonville Jaguars",
-      "stat": "passing_yards",
-      "projection": 258.0,
-      "date": "2026-11-06T01:15Z",
       "source": "ESPN public game boxscores (unofficial)",
       "confidence": "uncalibrated"
     },
@@ -276,11 +226,61 @@
     },
     {
       "sport": "NFL",
-      "player": "J.J. McCarthy",
-      "team": "New York Giants",
+      "player": "Jacoby Brissett",
+      "team": "Arizona Cardinals",
       "stat": "passing_yards",
-      "projection": 247.5,
+      "projection": 225.25,
+      "date": "2026-11-08T21:25Z",
+      "source": "ESPN public game boxscores (unofficial)",
+      "confidence": "uncalibrated"
+    },
+    {
+      "sport": "NFL",
+      "player": "Bryce Young",
+      "team": "Carolina Panthers",
+      "stat": "passing_yards",
+      "projection": 217.67,
       "date": "2026-11-08T18:00Z",
+      "source": "ESPN public game boxscores (unofficial)",
+      "confidence": "uncalibrated"
+    },
+    {
+      "sport": "NFL",
+      "player": "Michael Penix Jr.",
+      "team": "Atlanta Falcons",
+      "stat": "passing_yards",
+      "projection": 200.75,
+      "date": "2026-11-08T14:30Z",
+      "source": "ESPN public game boxscores (unofficial)",
+      "confidence": "uncalibrated"
+    },
+    {
+      "sport": "NFL",
+      "player": "Matthew Stafford",
+      "team": "Los Angeles Rams",
+      "stat": "passing_yards",
+      "projection": 191.33,
+      "date": "2026-11-08T18:00Z",
+      "source": "ESPN public game boxscores (unofficial)",
+      "confidence": "uncalibrated"
+    },
+    {
+      "sport": "NFL",
+      "player": "Daniel Jones",
+      "team": "Indianapolis Colts",
+      "stat": "passing_yards",
+      "projection": 173.67,
+      "date": "2026-11-08T18:00Z",
+      "source": "ESPN public game boxscores (unofficial)",
+      "confidence": "uncalibrated"
+    },
+    {
+      "sport": "NFL",
+      "player": "Tyler Huntley",
+      "team": "Baltimore Ravens",
+      "stat": "passing_yards",
+      "projection": 166.0,
+      "date": "2026-11-06T01:15Z",
       "source": "ESPN public game boxscores (unofficial)",
       "confidence": "uncalibrated"
     }
