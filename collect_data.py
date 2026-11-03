@@ -139,6 +139,36 @@ def main():
         print('First collection error:', errors[0])
     if not all_games and errors:
         raise RuntimeError('No scoreboards retrieved; refusing to replace previous data with empty feed')
+    # Save verified final scores for prediction accuracy tracking.
+    completed_results = []
 
+    for game in all_games:
+        if (
+            game.get('final')
+            and game.get('home_score') is not None
+            and game.get('away_score') is not None
+        ):
+            completed_results.append({
+                'sport': game['sport'],
+                'game_id': game['game_id'],
+                'date': game['date'],
+                'home_team': game['home_team'],
+                'away_team': game['away_team'],
+                'home_score': game['home_score'],
+                'away_score': game['away_score'],
+                'status': 'STATUS_FINAL',
+                'source': game['source']
+            })
+
+    results_file = DATA / 'results.json'
+
+    results_file.write_text(
+        json.dumps({
+            'generated_at': now.isoformat(),
+            'games': completed_results
+        }, indent=2) + '\n'
+    )
+
+    print(f'Saved {len(completed_results)} completed game results')
 if __name__ == '__main__':
     main()
