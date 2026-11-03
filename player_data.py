@@ -13,7 +13,7 @@ from urllib.parse import urlencode
 ROOT = Path(__file__).resolve().parent
 DATA = ROOT / 'data'
 PATHS = {'NBA': 'basketball/nba', 'NFL': 'football/nfl', 'CFB': 'football/college-football'}
-LIMIT = int(os.getenv('SB_BOXSCORE_LIMIT', '36'))
+LIMIT = int(os.getenv('SB_BOXSCORE_LIMIT', '120'))
 MIN_SAMPLE = 1
 
 def fetch(url):
