@@ -203,6 +203,23 @@
       },
       "first_recorded_at": "2026-11-03T08:16:42.717975+00:00",
       "result": null
+    },
+    "NBA:401909934": {
+      "forecast": {
+        "sport": "NBA",
+        "game_id": "401909934",
+        "date": "2026-11-05T03:00Z",
+        "home_team": "Sacramento Kings",
+        "away_team": "Los Angeles Lakers",
+        "predicted_winner": "Los Angeles Lakers",
+        "home_win_probability": 0.1937,
+        "away_win_probability": 0.8063,
+        "projected_home_margin": -11.41,
+        "confidence": "uncalibrated",
+        "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261104&limit=500"
+      },
+      "first_recorded_at": "2026-11-04T00:43:02.331450+00:00",
+      "result": null
     }
   },
   "players": {},

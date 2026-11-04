@@ -1,401 +1,41 @@
 {
-  "collected_at": "2026-11-03T18:40:12.924161+00:00",
+  "collected_at": "2026-11-04T00:42:00.980340+00:00",
   "games": [
     {
       "sport": "CFB",
-      "game_id": "401858437",
-      "date": "2026-09-06T20:00Z",
-      "home_team": "Washington Huskies",
-      "away_team": "Washington State Cougars",
+      "game_id": "401858212",
+      "date": "2026-09-07T23:30Z",
+      "home_team": "Florida State Seminoles",
+      "away_team": "SMU Mustangs",
       "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20260906&limit=500&groups=80"
-    },
-    {
-      "sport": "CFB",
-      "game_id": "401858438",
-      "date": "2026-09-06T23:30Z",
-      "home_team": "Notre Dame Fighting Irish",
-      "away_team": "Wisconsin Badgers",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20260906&limit=500&groups=80"
-    },
-    {
-      "sport": "CFB",
-      "game_id": "401856661",
-      "date": "2026-09-06T23:30Z",
-      "home_team": "Ole Miss Rebels",
-      "away_team": "Louisville Cardinals",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20260906&limit=500&groups=80"
+      "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20260907&limit=500&groups=80"
     },
     {
       "sport": "NFL",
-      "game_id": "401872925",
-      "date": "2026-09-13T17:00Z",
-      "home_team": "Cincinnati Bengals",
-      "away_team": "Tampa Bay Buccaneers",
+      "game_id": "401872931",
+      "date": "2026-09-15T00:15Z",
+      "home_team": "Kansas City Chiefs",
+      "away_team": "Denver Broncos",
       "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20260913&limit=500"
+      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20260914&limit=500"
     },
     {
       "sport": "NFL",
-      "game_id": "401872923",
-      "date": "2026-09-13T17:00Z",
-      "home_team": "Detroit Lions",
-      "away_team": "New Orleans Saints",
+      "game_id": "401872947",
+      "date": "2026-09-22T00:15Z",
+      "home_team": "Los Angeles Rams",
+      "away_team": "New York Giants",
       "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20260913&limit=500"
+      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20260921&limit=500"
     },
     {
       "sport": "NFL",
-      "game_id": "401872924",
-      "date": "2026-09-13T17:00Z",
-      "home_team": "Tennessee Titans",
-      "away_team": "New York Jets",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20260913&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401872659",
-      "date": "2026-09-13T17:00Z",
-      "home_team": "Indianapolis Colts",
-      "away_team": "Baltimore Ravens",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20260913&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401872658",
-      "date": "2026-09-13T17:00Z",
-      "home_team": "Pittsburgh Steelers",
-      "away_team": "Atlanta Falcons",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20260913&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401872661",
-      "date": "2026-09-13T17:00Z",
-      "home_team": "Carolina Panthers",
-      "away_team": "Chicago Bears",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20260913&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401872922",
-      "date": "2026-09-13T17:00Z",
-      "home_team": "Jacksonville Jaguars",
-      "away_team": "Cleveland Browns",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20260913&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401872660",
-      "date": "2026-09-13T17:00Z",
-      "home_team": "Houston Texans",
-      "away_team": "Buffalo Bills",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20260913&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401872928",
-      "date": "2026-09-13T20:25Z",
-      "home_team": "Las Vegas Raiders",
-      "away_team": "Miami Dolphins",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20260913&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401872927",
-      "date": "2026-09-13T20:25Z",
-      "home_team": "Minnesota Vikings",
-      "away_team": "Green Bay Packers",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20260913&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401872929",
-      "date": "2026-09-13T20:25Z",
-      "home_team": "Philadelphia Eagles",
-      "away_team": "Washington Commanders",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20260913&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401872926",
-      "date": "2026-09-13T20:25Z",
-      "home_team": "Los Angeles Chargers",
-      "away_team": "Arizona Cardinals",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20260913&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401872930",
-      "date": "2026-09-14T00:20Z",
-      "home_team": "New York Giants",
-      "away_team": "Dallas Cowboys",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20260913&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401872933",
-      "date": "2026-09-20T17:00Z",
-      "home_team": "Atlanta Falcons",
-      "away_team": "Carolina Panthers",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20260920&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401872937",
-      "date": "2026-09-20T17:00Z",
+      "game_id": "401872963",
+      "date": "2026-09-29T00:15Z",
       "home_team": "Chicago Bears",
-      "away_team": "Minnesota Vikings",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20260920&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401872939",
-      "date": "2026-09-20T17:00Z",
-      "home_team": "Tennessee Titans",
       "away_team": "Philadelphia Eagles",
       "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20260920&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401872946",
-      "date": "2026-09-20T17:00Z",
-      "home_team": "New England Patriots",
-      "away_team": "Pittsburgh Steelers",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20260920&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401872936",
-      "date": "2026-09-20T17:00Z",
-      "home_team": "New York Jets",
-      "away_team": "Green Bay Packers",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20260920&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401872935",
-      "date": "2026-09-20T17:00Z",
-      "home_team": "Tampa Bay Buccaneers",
-      "away_team": "Cleveland Browns",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20260920&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401872938",
-      "date": "2026-09-20T17:00Z",
-      "home_team": "Baltimore Ravens",
-      "away_team": "New Orleans Saints",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20260920&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401872934",
-      "date": "2026-09-20T17:00Z",
-      "home_team": "Houston Texans",
-      "away_team": "Cincinnati Bengals",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20260920&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401872940",
-      "date": "2026-09-20T20:05Z",
-      "home_team": "Denver Broncos",
-      "away_team": "Jacksonville Jaguars",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20260920&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401872941",
-      "date": "2026-09-20T20:05Z",
-      "home_team": "Los Angeles Chargers",
-      "away_team": "Las Vegas Raiders",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20260920&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401872944",
-      "date": "2026-09-20T20:25Z",
-      "home_team": "Dallas Cowboys",
-      "away_team": "Washington Commanders",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20260920&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401872943",
-      "date": "2026-09-20T20:25Z",
-      "home_team": "Arizona Cardinals",
-      "away_team": "Seattle Seahawks",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20260920&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401872942",
-      "date": "2026-09-20T20:25Z",
-      "home_team": "San Francisco 49ers",
-      "away_team": "Miami Dolphins",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20260920&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401872945",
-      "date": "2026-09-21T00:20Z",
-      "home_team": "Kansas City Chiefs",
-      "away_team": "Indianapolis Colts",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20260920&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401872953",
-      "date": "2026-09-27T17:00Z",
-      "home_team": "Buffalo Bills",
-      "away_team": "Los Angeles Chargers",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20260927&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401872949",
-      "date": "2026-09-27T17:00Z",
-      "home_team": "Cleveland Browns",
-      "away_team": "Carolina Panthers",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20260927&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401872954",
-      "date": "2026-09-27T17:00Z",
-      "home_team": "Detroit Lions",
-      "away_team": "New York Jets",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20260927&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401872951",
-      "date": "2026-09-27T17:00Z",
-      "home_team": "Indianapolis Colts",
-      "away_team": "Houston Texans",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20260927&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401872952",
-      "date": "2026-09-27T17:00Z",
-      "home_team": "Miami Dolphins",
-      "away_team": "Kansas City Chiefs",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20260927&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401872956",
-      "date": "2026-09-27T17:00Z",
-      "home_team": "New York Giants",
-      "away_team": "Tennessee Titans",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20260927&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401872950",
-      "date": "2026-09-27T17:00Z",
-      "home_team": "Pittsburgh Steelers",
-      "away_team": "Cincinnati Bengals",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20260927&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401872955",
-      "date": "2026-09-27T17:00Z",
-      "home_team": "Washington Commanders",
-      "away_team": "Seattle Seahawks",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20260927&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401872957",
-      "date": "2026-09-27T17:00Z",
-      "home_team": "Jacksonville Jaguars",
-      "away_team": "New England Patriots",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20260927&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401872958",
-      "date": "2026-09-27T20:05Z",
-      "home_team": "San Francisco 49ers",
-      "away_team": "Arizona Cardinals",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20260927&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401872959",
-      "date": "2026-09-27T20:05Z",
-      "home_team": "Tampa Bay Buccaneers",
-      "away_team": "Minnesota Vikings",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20260927&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401872960",
-      "date": "2026-09-27T20:25Z",
-      "home_team": "Dallas Cowboys",
-      "away_team": "Baltimore Ravens",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20260927&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401872961",
-      "date": "2026-09-27T20:25Z",
-      "home_team": "New Orleans Saints",
-      "away_team": "Las Vegas Raiders",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20260927&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401872962",
-      "date": "2026-09-28T00:20Z",
-      "home_team": "Denver Broncos",
-      "away_team": "Los Angeles Rams",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20260927&limit=500"
+      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20260928&limit=500"
     },
     {
       "sport": "NBA",
@@ -405,123 +45,6 @@
       "away_team": "Miami Heat",
       "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261003&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401872965",
-      "date": "2026-10-04T13:30Z",
-      "home_team": "Washington Commanders",
-      "away_team": "Indianapolis Colts",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261004&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401872971",
-      "date": "2026-10-04T17:00Z",
-      "home_team": "Buffalo Bills",
-      "away_team": "New England Patriots",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261004&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401872972",
-      "date": "2026-10-04T17:00Z",
-      "home_team": "Chicago Bears",
-      "away_team": "New York Jets",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261004&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401872969",
-      "date": "2026-10-04T17:00Z",
-      "home_team": "Cincinnati Bengals",
-      "away_team": "Jacksonville Jaguars",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261004&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401872966",
-      "date": "2026-10-04T17:00Z",
-      "home_team": "New York Giants",
-      "away_team": "Arizona Cardinals",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261004&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401872970",
-      "date": "2026-10-04T17:00Z",
-      "home_team": "Philadelphia Eagles",
-      "away_team": "Los Angeles Rams",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261004&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401872968",
-      "date": "2026-10-04T17:00Z",
-      "home_team": "Tampa Bay Buccaneers",
-      "away_team": "Green Bay Packers",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261004&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401872973",
-      "date": "2026-10-04T17:00Z",
-      "home_team": "Baltimore Ravens",
-      "away_team": "Tennessee Titans",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261004&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401872967",
-      "date": "2026-10-04T17:00Z",
-      "home_team": "Houston Texans",
-      "away_team": "Dallas Cowboys",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261004&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401872974",
-      "date": "2026-10-04T20:05Z",
-      "home_team": "Minnesota Vikings",
-      "away_team": "Miami Dolphins",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261004&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401872976",
-      "date": "2026-10-04T20:25Z",
-      "home_team": "Las Vegas Raiders",
-      "away_team": "Kansas City Chiefs",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261004&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401872975",
-      "date": "2026-10-04T20:25Z",
-      "home_team": "San Francisco 49ers",
-      "away_team": "Denver Broncos",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261004&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401872977",
-      "date": "2026-10-04T20:25Z",
-      "home_team": "Seattle Seahawks",
-      "away_team": "Los Angeles Chargers",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261004&limit=500"
     },
     {
       "sport": "NBA",
@@ -540,15 +63,6 @@
       "away_team": "Golden State Warriors",
       "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261004&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401872978",
-      "date": "2026-10-05T00:20Z",
-      "home_team": "Carolina Panthers",
-      "away_team": "Detroit Lions",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261004&limit=500"
     },
     {
       "sport": "NBA",
@@ -585,6 +99,15 @@
       "away_team": "Minnesota Timberwolves",
       "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261005&limit=500"
+    },
+    {
+      "sport": "NFL",
+      "game_id": "401872979",
+      "date": "2026-10-06T00:15Z",
+      "home_team": "New Orleans Saints",
+      "away_team": "Atlanta Falcons",
+      "status": "STATUS_FINAL",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261005&limit=500"
     },
     {
       "sport": "NBA",
@@ -821,114 +344,6 @@
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261011&limit=500"
     },
     {
-      "sport": "NFL",
-      "game_id": "401872981",
-      "date": "2026-10-11T13:30Z",
-      "home_team": "Jacksonville Jaguars",
-      "away_team": "Philadelphia Eagles",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261011&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401872990",
-      "date": "2026-10-11T17:00Z",
-      "home_team": "Green Bay Packers",
-      "away_team": "Chicago Bears",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261011&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401872984",
-      "date": "2026-10-11T17:00Z",
-      "home_team": "Tennessee Titans",
-      "away_team": "Houston Texans",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261011&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401872982",
-      "date": "2026-10-11T17:00Z",
-      "home_team": "Miami Dolphins",
-      "away_team": "Cincinnati Bengals",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261011&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401872986",
-      "date": "2026-10-11T17:00Z",
-      "home_team": "New England Patriots",
-      "away_team": "Las Vegas Raiders",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261011&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401872987",
-      "date": "2026-10-11T17:00Z",
-      "home_team": "New Orleans Saints",
-      "away_team": "Minnesota Vikings",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261011&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401872983",
-      "date": "2026-10-11T17:00Z",
-      "home_team": "New York Jets",
-      "away_team": "Cleveland Browns",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261011&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401872985",
-      "date": "2026-10-11T17:00Z",
-      "home_team": "Pittsburgh Steelers",
-      "away_team": "Indianapolis Colts",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261011&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401872988",
-      "date": "2026-10-11T17:00Z",
-      "home_team": "Washington Commanders",
-      "away_team": "New York Giants",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261011&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401872989",
-      "date": "2026-10-11T20:05Z",
-      "home_team": "Los Angeles Chargers",
-      "away_team": "Denver Broncos",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261011&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401872991",
-      "date": "2026-10-11T20:25Z",
-      "home_team": "Arizona Cardinals",
-      "away_team": "Detroit Lions",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261011&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401872992",
-      "date": "2026-10-11T20:25Z",
-      "home_team": "Seattle Seahawks",
-      "away_team": "San Francisco 49ers",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261011&limit=500"
-    },
-    {
       "sport": "NBA",
       "game_id": "401898401",
       "date": "2026-10-11T22:30Z",
@@ -945,15 +360,6 @@
       "away_team": "Milwaukee Bucks",
       "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261011&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401872993",
-      "date": "2026-10-12T00:20Z",
-      "home_team": "Atlanta Falcons",
-      "away_team": "Baltimore Ravens",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261011&limit=500"
     },
     {
       "sport": "NBA",
@@ -999,6 +405,15 @@
       "away_team": "Minnesota Timberwolves",
       "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261012&limit=500"
+    },
+    {
+      "sport": "NFL",
+      "game_id": "401872994",
+      "date": "2026-10-13T00:15Z",
+      "home_team": "Los Angeles Rams",
+      "away_team": "Buffalo Bills",
+      "status": "STATUS_FINAL",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261012&limit=500"
     },
     {
       "sport": "NBA",
@@ -1245,111 +660,12 @@
     },
     {
       "sport": "NFL",
-      "game_id": "401872996",
-      "date": "2026-10-18T13:30Z",
-      "home_team": "Jacksonville Jaguars",
-      "away_team": "Houston Texans",
+      "game_id": "401873008",
+      "date": "2026-10-20T00:15Z",
+      "home_team": "San Francisco 49ers",
+      "away_team": "Washington Commanders",
       "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261018&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401872999",
-      "date": "2026-10-18T17:00Z",
-      "home_team": "Atlanta Falcons",
-      "away_team": "Chicago Bears",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261018&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401872997",
-      "date": "2026-10-18T17:00Z",
-      "home_team": "Cleveland Browns",
-      "away_team": "Baltimore Ravens",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261018&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401873003",
-      "date": "2026-10-18T17:00Z",
-      "home_team": "Indianapolis Colts",
-      "away_team": "Tennessee Titans",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261018&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401873001",
-      "date": "2026-10-18T17:00Z",
-      "home_team": "New England Patriots",
-      "away_team": "New York Jets",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261018&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401873000",
-      "date": "2026-10-18T17:00Z",
-      "home_team": "New York Giants",
-      "away_team": "New Orleans Saints",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261018&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401872998",
-      "date": "2026-10-18T17:00Z",
-      "home_team": "Philadelphia Eagles",
-      "away_team": "Carolina Panthers",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261018&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401873002",
-      "date": "2026-10-18T17:00Z",
-      "home_team": "Tampa Bay Buccaneers",
-      "away_team": "Pittsburgh Steelers",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261018&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401873004",
-      "date": "2026-10-18T20:05Z",
-      "home_team": "Los Angeles Rams",
-      "away_team": "Arizona Cardinals",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261018&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401873006",
-      "date": "2026-10-18T20:25Z",
-      "home_team": "Kansas City Chiefs",
-      "away_team": "Los Angeles Chargers",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261018&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401873005",
-      "date": "2026-10-18T20:25Z",
-      "home_team": "Las Vegas Raiders",
-      "away_team": "Buffalo Bills",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261018&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401873007",
-      "date": "2026-10-19T00:20Z",
-      "home_team": "Green Bay Packers",
-      "away_team": "Dallas Cowboys",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261018&limit=500"
+      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261019&limit=500"
     },
     {
       "sport": "NBA",
@@ -1676,105 +992,6 @@
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261024&limit=500"
     },
     {
-      "sport": "NFL",
-      "game_id": "401873011",
-      "date": "2026-10-25T13:30Z",
-      "home_team": "New Orleans Saints",
-      "away_team": "Pittsburgh Steelers",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261025&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401873017",
-      "date": "2026-10-25T17:00Z",
-      "home_team": "Atlanta Falcons",
-      "away_team": "San Francisco 49ers",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261025&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401873013",
-      "date": "2026-10-25T17:00Z",
-      "home_team": "Tennessee Titans",
-      "away_team": "Cleveland Browns",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261025&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401873014",
-      "date": "2026-10-25T17:00Z",
-      "home_team": "Minnesota Vikings",
-      "away_team": "Indianapolis Colts",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261025&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401873015",
-      "date": "2026-10-25T17:00Z",
-      "home_team": "New York Jets",
-      "away_team": "Miami Dolphins",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261025&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401873018",
-      "date": "2026-10-25T17:00Z",
-      "home_team": "Carolina Panthers",
-      "away_team": "Tampa Bay Buccaneers",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261025&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401873012",
-      "date": "2026-10-25T17:00Z",
-      "home_team": "Baltimore Ravens",
-      "away_team": "Cincinnati Bengals",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261025&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401873016",
-      "date": "2026-10-25T17:00Z",
-      "home_team": "Houston Texans",
-      "away_team": "New York Giants",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261025&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401873019",
-      "date": "2026-10-25T20:05Z",
-      "home_team": "Arizona Cardinals",
-      "away_team": "Denver Broncos",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261025&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401873020",
-      "date": "2026-10-25T20:25Z",
-      "home_team": "Detroit Lions",
-      "away_team": "Green Bay Packers",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261025&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401873021",
-      "date": "2026-10-25T20:25Z",
-      "home_team": "Las Vegas Raiders",
-      "away_team": "Los Angeles Rams",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261025&limit=500"
-    },
-    {
       "sport": "NBA",
       "game_id": "401909861",
       "date": "2026-10-25T21:00Z",
@@ -1827,15 +1044,6 @@
       "away_team": "Detroit Pistons",
       "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261025&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401873022",
-      "date": "2026-10-26T00:20Z",
-      "home_team": "Seattle Seahawks",
-      "away_team": "Kansas City Chiefs",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261025&limit=500"
     },
     {
       "sport": "NBA",
@@ -1901,6 +1109,15 @@
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261026&limit=500"
     },
     {
+      "sport": "NFL",
+      "game_id": "401873009",
+      "date": "2026-10-27T00:15Z",
+      "home_team": "Philadelphia Eagles",
+      "away_team": "Dallas Cowboys",
+      "status": "STATUS_FINAL",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261026&limit=500"
+    },
+    {
       "sport": "NBA",
       "game_id": "401909874",
       "date": "2026-10-27T00:30Z",
@@ -1928,15 +1145,6 @@
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261026&limit=500"
     },
     {
-      "sport": "CFB",
-      "game_id": "401871071",
-      "date": "2026-10-27T23:00Z",
-      "home_team": "Western Kentucky Hilltoppers",
-      "away_team": "Delaware Blue Hens",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261027&limit=500&groups=80"
-    },
-    {
       "sport": "NBA",
       "game_id": "401909877",
       "date": "2026-10-27T23:30Z",
@@ -1944,15 +1152,6 @@
       "away_team": "Brooklyn Nets",
       "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261027&limit=500"
-    },
-    {
-      "sport": "CFB",
-      "game_id": "401871072",
-      "date": "2026-10-28T00:00Z",
-      "home_team": "Missouri State Bears",
-      "away_team": "Sam Houston Bearkats",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261027&limit=500&groups=80"
     },
     {
       "sport": "NBA",
@@ -3058,7 +2257,7 @@
       "date": "2026-11-04T00:00Z",
       "home_team": "Akron Zips",
       "away_team": "Ohio Bobcats",
-      "status": "STATUS_SCHEDULED",
+      "status": "STATUS_IN_PROGRESS",
       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261103&limit=500&groups=80"
     },
     {
@@ -3405,19 +2604,19 @@
     },
     {
       "sport": "CFB",
-      "game_id": "401858512",
+      "game_id": "401856743",
       "date": "2026-11-07T17:00Z",
-      "home_team": "Minnesota Golden Gophers",
-      "away_team": "UCLA Bruins",
+      "home_team": "Missouri Tigers",
+      "away_team": "Texas Longhorns",
       "status": "STATUS_SCHEDULED",
       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261107&limit=500&groups=80"
     },
     {
       "sport": "CFB",
-      "game_id": "401856743",
+      "game_id": "401858512",
       "date": "2026-11-07T17:00Z",
-      "home_team": "Missouri Tigers",
-      "away_team": "Texas Longhorns",
+      "home_team": "Minnesota Golden Gophers",
+      "away_team": "UCLA Bruins",
       "status": "STATUS_SCHEDULED",
       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261107&limit=500&groups=80"
     },
@@ -4257,6 +3456,123 @@
       "away_team": "Oklahoma City Thunder",
       "status": "STATUS_SCHEDULED",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261110&limit=500"
+    },
+    {
+      "sport": "CFB",
+      "game_id": "401866461",
+      "date": "2026-11-11T05:00Z",
+      "home_team": "Ball State Cardinals",
+      "away_team": "Buffalo Bulls",
+      "status": "STATUS_SCHEDULED",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261111&limit=500&groups=80"
+    },
+    {
+      "sport": "CFB",
+      "game_id": "401866463",
+      "date": "2026-11-11T05:00Z",
+      "home_team": "Toledo Rockets",
+      "away_team": "Massachusetts Minutemen",
+      "status": "STATUS_SCHEDULED",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261111&limit=500&groups=80"
+    },
+    {
+      "sport": "NBA",
+      "game_id": "401909966",
+      "date": "2026-11-12T00:00Z",
+      "home_team": "Indiana Pacers",
+      "away_team": "Washington Wizards",
+      "status": "STATUS_SCHEDULED",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261111&limit=500"
+    },
+    {
+      "sport": "NBA",
+      "game_id": "401909967",
+      "date": "2026-11-12T00:00Z",
+      "home_team": "New York Knicks",
+      "away_team": "Cleveland Cavaliers",
+      "status": "STATUS_SCHEDULED",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261111&limit=500"
+    },
+    {
+      "sport": "NBA",
+      "game_id": "401909968",
+      "date": "2026-11-12T00:00Z",
+      "home_team": "Toronto Raptors",
+      "away_team": "Boston Celtics",
+      "status": "STATUS_SCHEDULED",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261111&limit=500"
+    },
+    {
+      "sport": "CFB",
+      "game_id": "401866462",
+      "date": "2026-11-12T00:30Z",
+      "home_team": "Central Michigan Chippewas",
+      "away_team": "Sacramento State Hornets",
+      "status": "STATUS_SCHEDULED",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261111&limit=500&groups=80"
+    },
+    {
+      "sport": "NBA",
+      "game_id": "401909969",
+      "date": "2026-11-12T01:00Z",
+      "home_team": "Chicago Bulls",
+      "away_team": "San Antonio Spurs",
+      "status": "STATUS_SCHEDULED",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261111&limit=500"
+    },
+    {
+      "sport": "NBA",
+      "game_id": "401909970",
+      "date": "2026-11-12T01:00Z",
+      "home_team": "Memphis Grizzlies",
+      "away_team": "Denver Nuggets",
+      "status": "STATUS_SCHEDULED",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261111&limit=500"
+    },
+    {
+      "sport": "NBA",
+      "game_id": "401909971",
+      "date": "2026-11-12T01:00Z",
+      "home_team": "Milwaukee Bucks",
+      "away_team": "Los Angeles Lakers",
+      "status": "STATUS_SCHEDULED",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261111&limit=500"
+    },
+    {
+      "sport": "NBA",
+      "game_id": "401909972",
+      "date": "2026-11-12T01:00Z",
+      "home_team": "New Orleans Pelicans",
+      "away_team": "Brooklyn Nets",
+      "status": "STATUS_SCHEDULED",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261111&limit=500"
+    },
+    {
+      "sport": "NBA",
+      "game_id": "401909973",
+      "date": "2026-11-12T02:00Z",
+      "home_team": "Utah Jazz",
+      "away_team": "Orlando Magic",
+      "status": "STATUS_SCHEDULED",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261111&limit=500"
+    },
+    {
+      "sport": "NBA",
+      "game_id": "401909974",
+      "date": "2026-11-12T02:30Z",
+      "home_team": "Houston Rockets",
+      "away_team": "Golden State Warriors",
+      "status": "STATUS_SCHEDULED",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261111&limit=500"
+    },
+    {
+      "sport": "NBA",
+      "game_id": "401909975",
+      "date": "2026-11-12T03:00Z",
+      "home_team": "Portland Trail Blazers",
+      "away_team": "Oklahoma City Thunder",
+      "status": "STATUS_SCHEDULED",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261111&limit=500"
     }
   ],
   "errors": []
