@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-04T00:42:00.980340+00:00",
+  "collected_at": "2026-11-04T06:57:15.139153+00:00",
   "games": [
     {
       "sport": "CFB",
@@ -2257,7 +2257,7 @@
       "date": "2026-11-04T00:00Z",
       "home_team": "Akron Zips",
       "away_team": "Ohio Bobcats",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261103&limit=500&groups=80"
     },
     {
@@ -2266,7 +2266,7 @@
       "date": "2026-11-04T01:00Z",
       "home_team": "Miami (OH) RedHawks",
       "away_team": "Buffalo Bulls",
-      "status": "STATUS_SCHEDULED",
+      "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261103&limit=500&groups=80"
     },
     {

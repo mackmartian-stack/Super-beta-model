@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T00:42:00.980340+00:00",
+  "generated_at": "2026-11-04T06:57:15.139153+00:00",
   "games": [
     {
       "sport": "CFB",
@@ -2750,6 +2750,28 @@
       "away_score": 117.0,
       "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261102&limit=500"
+    },
+    {
+      "sport": "CFB",
+      "game_id": "401866453",
+      "date": "2026-11-04T00:00Z",
+      "home_team": "Akron Zips",
+      "away_team": "Ohio Bobcats",
+      "home_score": 20.0,
+      "away_score": 28.0,
+      "status": "STATUS_FINAL",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261103&limit=500&groups=80"
+    },
+    {
+      "sport": "CFB",
+      "game_id": "401866454",
+      "date": "2026-11-04T01:00Z",
+      "home_team": "Miami (OH) RedHawks",
+      "away_team": "Buffalo Bulls",
+      "home_score": 31.0,
+      "away_score": 34.0,
+      "status": "STATUS_FINAL",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261103&limit=500&groups=80"
     }
   ]
 }

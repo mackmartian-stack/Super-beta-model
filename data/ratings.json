@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T00:42:00.980340+00:00",
+  "generated_at": "2026-11-04T06:57:15.139153+00:00",
   "ratings": {
     "NFL": {
       "Kansas City Chiefs": {
@@ -1025,6 +1025,30 @@
         "games": 1,
         "avg_scored": 22.0,
         "avg_allowed": 38.0
+      },
+      "Akron Zips": {
+        "rating": 94.688,
+        "games": 1,
+        "avg_scored": 20.0,
+        "avg_allowed": 28.0
+      },
+      "Ohio Bobcats": {
+        "rating": 105.312,
+        "games": 1,
+        "avg_scored": 28.0,
+        "avg_allowed": 20.0
+      },
+      "Miami (OH) RedHawks": {
+        "rating": 98.008,
+        "games": 1,
+        "avg_scored": 31.0,
+        "avg_allowed": 34.0
+      },
+      "Buffalo Bulls": {
+        "rating": 101.992,
+        "games": 1,
+        "avg_scored": 34.0,
+        "avg_allowed": 31.0
       }
     }
   },

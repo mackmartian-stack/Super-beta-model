@@ -1,7 +1,7 @@
 {
   "model": "Super Beta Model 2.0",
   "status": "predictions_available",
-  "generated_at": "2026-11-04T06:48:36.079635+00:00",
+  "generated_at": "2026-11-04T06:58:06.974526+00:00",
   "experimental": true,
   "calibrated": false,
   "note": "No proven betting edge. Inputs must be verified and dated.",
@@ -200,7 +200,7 @@
       "team": "Sacramento Kings",
       "stat": "points",
       "projection": 32.33,
-      "date": "2026-11-09T02:00Z",
+      "date": "2026-11-11T03:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "confidence": "uncalibrated"
     },
@@ -230,7 +230,7 @@
       "team": "Oklahoma City Thunder",
       "stat": "points",
       "projection": 30.0,
-      "date": "2026-11-08T01:00Z",
+      "date": "2026-11-11T04:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "confidence": "uncalibrated"
     },
@@ -240,7 +240,7 @@
       "team": "Philadelphia 76ers",
       "stat": "points",
       "projection": 29.5,
-      "date": "2026-11-08T20:30Z",
+      "date": "2026-11-11T01:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "confidence": "uncalibrated"
     },
@@ -250,7 +250,7 @@
       "team": "Miami Heat",
       "stat": "points",
       "projection": 28.33,
-      "date": "2026-11-09T02:00Z",
+      "date": "2026-11-11T02:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "confidence": "uncalibrated"
     },
@@ -280,7 +280,7 @@
       "team": "Boston Celtics",
       "stat": "points",
       "projection": 25.67,
-      "date": "2026-11-09T01:00Z",
+      "date": "2026-11-11T01:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "confidence": "uncalibrated"
     }
