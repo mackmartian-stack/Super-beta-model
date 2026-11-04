@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-04T12:48:50.631372+00:00",
+  "collected_at": "2026-11-04T18:47:13.397879+00:00",
   "games": [
     {
       "sport": "CFB",
@@ -3459,15 +3459,6 @@
     },
     {
       "sport": "CFB",
-      "game_id": "401866461",
-      "date": "2026-11-11T05:00Z",
-      "home_team": "Ball State Cardinals",
-      "away_team": "Buffalo Bulls",
-      "status": "STATUS_SCHEDULED",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261111&limit=500&groups=80"
-    },
-    {
-      "sport": "CFB",
       "game_id": "401866463",
       "date": "2026-11-11T05:00Z",
       "home_team": "Toledo Rockets",
@@ -3501,6 +3492,15 @@
       "away_team": "Boston Celtics",
       "status": "STATUS_SCHEDULED",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261111&limit=500"
+    },
+    {
+      "sport": "CFB",
+      "game_id": "401866461",
+      "date": "2026-11-12T00:30Z",
+      "home_team": "Ball State Cardinals",
+      "away_team": "Buffalo Bulls",
+      "status": "STATUS_SCHEDULED",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261111&limit=500&groups=80"
     },
     {
       "sport": "CFB",
