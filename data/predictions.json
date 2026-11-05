@@ -1,24 +1,11 @@
 {
   "model": "Super Beta Model 2.0",
   "status": "predictions_available",
-  "generated_at": "2026-11-05T00:31:54.187714+00:00",
+  "generated_at": "2026-11-05T00:48:35.127991+00:00",
   "experimental": true,
   "calibrated": false,
   "note": "No proven betting edge. Inputs must be verified and dated.",
   "team_predictions": [
-    {
-      "sport": "NBA",
-      "game_id": "401909924",
-      "date": "2026-11-05T00:30Z",
-      "home_team": "Boston Celtics",
-      "away_team": "Milwaukee Bucks",
-      "predicted_winner": "Boston Celtics",
-      "home_win_probability": 0.9016,
-      "away_win_probability": 0.0984,
-      "projected_home_margin": 17.72,
-      "confidence": "uncalibrated",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261104&limit=500"
-    },
     {
       "sport": "NBA",
       "game_id": "401909295",
@@ -161,6 +148,19 @@
       "projected_home_margin": -11.41,
       "confidence": "uncalibrated",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261104&limit=500"
+    },
+    {
+      "sport": "NBA",
+      "game_id": "401909932",
+      "date": "2026-11-05T02:00Z",
+      "home_team": "Phoenix Suns",
+      "away_team": "Portland Trail Blazers",
+      "predicted_winner": "Portland Trail Blazers",
+      "home_win_probability": 0.1953,
+      "away_win_probability": 0.8047,
+      "projected_home_margin": -11.33,
+      "confidence": "uncalibrated",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261104&limit=500"
     }
   ],
   "player_predictions": [
@@ -169,7 +169,7 @@
       "player": "Luka Doncic",
       "team": "Los Angeles Lakers",
       "stat": "points",
-      "projection": 41.33,
+      "projection": 41.25,
       "date": "2026-11-10T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "confidence": "uncalibrated"
@@ -220,7 +220,7 @@
       "team": "Toronto Raptors",
       "stat": "points",
       "projection": 30.0,
-      "date": "2026-11-10T00:30Z",
+      "date": "2026-11-12T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "confidence": "uncalibrated"
     },
@@ -256,21 +256,11 @@
     },
     {
       "sport": "NBA",
-      "player": "Cade Cunningham",
-      "team": "Detroit Pistons",
-      "stat": "points",
-      "projection": 27.67,
-      "date": "2026-11-10T00:00Z",
-      "source": "ESPN public game boxscores (unofficial)",
-      "confidence": "uncalibrated"
-    },
-    {
-      "sport": "NBA",
       "player": "Jalen Brunson",
       "team": "New York Knicks",
       "stat": "points",
-      "projection": 27.0,
-      "date": "2026-11-11T00:30Z",
+      "projection": 26.0,
+      "date": "2026-11-12T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "confidence": "uncalibrated"
     },
@@ -280,7 +270,17 @@
       "team": "Boston Celtics",
       "stat": "points",
       "projection": 25.67,
-      "date": "2026-11-11T01:00Z",
+      "date": "2026-11-12T00:00Z",
+      "source": "ESPN public game boxscores (unofficial)",
+      "confidence": "uncalibrated"
+    },
+    {
+      "sport": "NBA",
+      "player": "Cade Cunningham",
+      "team": "Detroit Pistons",
+      "stat": "points",
+      "projection": 25.5,
+      "date": "2026-11-10T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "confidence": "uncalibrated"
     }
