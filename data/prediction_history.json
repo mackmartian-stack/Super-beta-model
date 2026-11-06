@@ -78,7 +78,13 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261105&limit=500"
       },
       "first_recorded_at": "2026-11-03T08:16:42.717975+00:00",
-      "result": null
+      "result": {
+        "home_score": 10.0,
+        "away_score": 33.0,
+        "correct_winner": true,
+        "actual_home_win": false,
+        "settled_at": "2026-11-06T06:58:51.394498+00:00"
+      }
     },
     "NBA:401909943": {
       "forecast": {
@@ -362,6 +368,40 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261110&limit=500"
       },
       "first_recorded_at": "2026-11-05T07:00:44.030904+00:00",
+      "result": null
+    },
+    "NBA:401909975": {
+      "forecast": {
+        "sport": "NBA",
+        "game_id": "401909975",
+        "date": "2026-11-12T03:00Z",
+        "home_team": "Portland Trail Blazers",
+        "away_team": "Oklahoma City Thunder",
+        "predicted_winner": "Portland Trail Blazers",
+        "home_win_probability": 0.7881,
+        "away_win_probability": 0.2119,
+        "projected_home_margin": 10.51,
+        "confidence": "uncalibrated",
+        "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261111&limit=500"
+      },
+      "first_recorded_at": "2026-11-06T06:58:51.344178+00:00",
+      "result": null
+    },
+    "NBA:401909954": {
+      "forecast": {
+        "sport": "NBA",
+        "game_id": "401909954",
+        "date": "2026-11-10T00:00Z",
+        "home_team": "Detroit Pistons",
+        "away_team": "Washington Wizards",
+        "predicted_winner": "Detroit Pistons",
+        "home_win_probability": 0.7855,
+        "away_win_probability": 0.2145,
+        "projected_home_margin": 10.38,
+        "confidence": "uncalibrated",
+        "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261109&limit=500"
+      },
+      "first_recorded_at": "2026-11-06T06:58:51.344178+00:00",
       "result": null
     }
   },

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T00:46:08.614226+00:00",
+  "generated_at": "2026-11-06T06:58:07.548163+00:00",
   "games": [
     {
       "sport": "NFL",
@@ -2904,6 +2904,61 @@
       "away_score": 117.0,
       "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261104&limit=500"
+    },
+    {
+      "sport": "CFB",
+      "game_id": "401862817",
+      "date": "2026-11-06T00:30Z",
+      "home_team": "Florida Atlantic Owls",
+      "away_team": "UTSA Roadrunners",
+      "home_score": 60.0,
+      "away_score": 29.0,
+      "status": "STATUS_FINAL",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261105&limit=500&groups=80"
+    },
+    {
+      "sport": "CFB",
+      "game_id": "401869964",
+      "date": "2026-11-06T01:00Z",
+      "home_team": "Southern Miss Golden Eagles",
+      "away_team": "James Madison Dukes",
+      "home_score": 23.0,
+      "away_score": 54.0,
+      "status": "STATUS_FINAL",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261105&limit=500&groups=80"
+    },
+    {
+      "sport": "NFL",
+      "game_id": "401873037",
+      "date": "2026-11-06T01:15Z",
+      "home_team": "Baltimore Ravens",
+      "away_team": "Jacksonville Jaguars",
+      "home_score": 10.0,
+      "away_score": 33.0,
+      "status": "STATUS_FINAL",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261105&limit=500"
+    },
+    {
+      "sport": "NBA",
+      "game_id": "401909936",
+      "date": "2026-11-06T02:00Z",
+      "home_team": "Phoenix Suns",
+      "away_team": "Orlando Magic",
+      "home_score": 117.0,
+      "away_score": 104.0,
+      "status": "STATUS_FINAL",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261105&limit=500"
+    },
+    {
+      "sport": "NBA",
+      "game_id": "401909937",
+      "date": "2026-11-06T03:00Z",
+      "home_team": "Golden State Warriors",
+      "away_team": "Miami Heat",
+      "home_score": 120.0,
+      "away_score": 100.0,
+      "status": "STATUS_FINAL",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261105&limit=500"
     }
   ]
 }

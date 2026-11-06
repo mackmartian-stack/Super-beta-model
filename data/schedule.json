@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-06T00:46:08.614226+00:00",
+  "collected_at": "2026-11-06T06:58:07.548163+00:00",
   "games": [
     {
       "sport": "NFL",
@@ -2383,7 +2383,7 @@
       "date": "2026-11-06T00:30Z",
       "home_team": "Florida Atlantic Owls",
       "away_team": "UTSA Roadrunners",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261105&limit=500&groups=80"
     },
     {
@@ -2392,7 +2392,7 @@
       "date": "2026-11-06T01:00Z",
       "home_team": "Southern Miss Golden Eagles",
       "away_team": "James Madison Dukes",
-      "status": "STATUS_SCHEDULED",
+      "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261105&limit=500&groups=80"
     },
     {
@@ -2401,7 +2401,7 @@
       "date": "2026-11-06T01:15Z",
       "home_team": "Baltimore Ravens",
       "away_team": "Jacksonville Jaguars",
-      "status": "STATUS_SCHEDULED",
+      "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261105&limit=500"
     },
     {
@@ -2410,7 +2410,7 @@
       "date": "2026-11-06T02:00Z",
       "home_team": "Phoenix Suns",
       "away_team": "Orlando Magic",
-      "status": "STATUS_SCHEDULED",
+      "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261105&limit=500"
     },
     {
@@ -2419,7 +2419,7 @@
       "date": "2026-11-06T03:00Z",
       "home_team": "Golden State Warriors",
       "away_team": "Miami Heat",
-      "status": "STATUS_SCHEDULED",
+      "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261105&limit=500"
     },
     {
