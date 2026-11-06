@@ -1,6 +1,15 @@
 {
-  "collected_at": "2026-11-05T18:44:18.088426+00:00",
+  "collected_at": "2026-11-06T00:46:08.614226+00:00",
   "games": [
+    {
+      "sport": "NFL",
+      "game_id": "401872656",
+      "date": "2026-09-10T00:20Z",
+      "home_team": "Seattle Seahawks",
+      "away_team": "New England Patriots",
+      "status": "STATUS_FINAL",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20260909&limit=500"
+    },
     {
       "sport": "NBA",
       "game_id": "401902644",
@@ -83,15 +92,6 @@
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261006&limit=500"
     },
     {
-      "sport": "CFB",
-      "game_id": "401871090",
-      "date": "2026-10-07T00:00Z",
-      "home_team": "Troy Trojans",
-      "away_team": "Southern Miss Golden Eagles",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261006&limit=500&groups=80"
-    },
-    {
       "sport": "NBA",
       "game_id": "401898389",
       "date": "2026-10-07T00:00Z",
@@ -117,6 +117,15 @@
       "away_team": "Los Angeles Lakers",
       "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261006&limit=500"
+    },
+    {
+      "sport": "CFB",
+      "game_id": "401871051",
+      "date": "2026-10-07T23:00Z",
+      "home_team": "Kennesaw State Owls",
+      "away_team": "Jacksonville State Gamecocks",
+      "status": "STATUS_FINAL",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261007&limit=500&groups=80"
     },
     {
       "sport": "NBA",
@@ -153,6 +162,15 @@
       "away_team": "Phoenix Suns",
       "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261007&limit=500"
+    },
+    {
+      "sport": "CFB",
+      "game_id": "401871066",
+      "date": "2026-10-08T00:04Z",
+      "home_team": "Florida International Panthers",
+      "away_team": "New Mexico State Aggies",
+      "status": "STATUS_FINAL",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261007&limit=500&groups=80"
     },
     {
       "sport": "NBA",
@@ -380,15 +398,6 @@
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261012&limit=500"
     },
     {
-      "sport": "CFB",
-      "game_id": "401871067",
-      "date": "2026-10-13T23:00Z",
-      "home_team": "Middle Tennessee Blue Raiders",
-      "away_team": "Delaware Blue Hens",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261013&limit=500&groups=80"
-    },
-    {
       "sport": "NBA",
       "game_id": "401898403",
       "date": "2026-10-13T23:00Z",
@@ -405,15 +414,6 @@
       "away_team": "New York Knicks",
       "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261013&limit=500"
-    },
-    {
-      "sport": "CFB",
-      "game_id": "401871053",
-      "date": "2026-10-14T00:00Z",
-      "home_team": "Jacksonville State Gamecocks",
-      "away_team": "Florida International Panthers",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261013&limit=500&groups=80"
     },
     {
       "sport": "NBA",
@@ -443,6 +443,15 @@
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261013&limit=500"
     },
     {
+      "sport": "CFB",
+      "game_id": "401871054",
+      "date": "2026-10-14T23:30Z",
+      "home_team": "Missouri State Bears",
+      "away_team": "Kennesaw State Owls",
+      "status": "STATUS_FINAL",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261014&limit=500&groups=80"
+    },
+    {
       "sport": "NBA",
       "game_id": "401898404",
       "date": "2026-10-14T23:30Z",
@@ -459,6 +468,15 @@
       "away_team": "Charlotte Hornets",
       "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261014&limit=500"
+    },
+    {
+      "sport": "CFB",
+      "game_id": "401871068",
+      "date": "2026-10-15T00:00Z",
+      "home_team": "Sam Houston Bearkats",
+      "away_team": "Western Kentucky Hilltoppers",
+      "status": "STATUS_FINAL",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261014&limit=500&groups=80"
     },
     {
       "sport": "NBA",
@@ -641,24 +659,6 @@
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261020&limit=500"
     },
     {
-      "sport": "CFB",
-      "game_id": "401871055",
-      "date": "2026-10-20T23:00Z",
-      "home_team": "Florida International Panthers",
-      "away_team": "Middle Tennessee Blue Raiders",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261020&limit=500&groups=80"
-    },
-    {
-      "sport": "CFB",
-      "game_id": "401871069",
-      "date": "2026-10-20T23:00Z",
-      "home_team": "Delaware Blue Hens",
-      "away_team": "Missouri State Bears",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261020&limit=500&groups=80"
-    },
-    {
       "sport": "NBA",
       "game_id": "401909089",
       "date": "2026-10-20T23:00Z",
@@ -666,15 +666,6 @@
       "away_team": "Philadelphia 76ers",
       "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261020&limit=500"
-    },
-    {
-      "sport": "CFB",
-      "game_id": "401871092",
-      "date": "2026-10-20T23:30Z",
-      "home_team": "Marshall Thundering Herd",
-      "away_team": "South Alabama Jaguars",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261020&limit=500&groups=80"
     },
     {
       "sport": "NBA",
@@ -729,6 +720,15 @@
       "away_team": "Chicago Bulls",
       "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261021&limit=500"
+    },
+    {
+      "sport": "CFB",
+      "game_id": "401871070",
+      "date": "2026-10-22T00:00Z",
+      "home_team": "Sam Houston Bearkats",
+      "away_team": "New Mexico State Aggies",
+      "status": "STATUS_FINAL",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261021&limit=500&groups=80"
     },
     {
       "sport": "NBA",
@@ -1127,15 +1127,6 @@
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261026&limit=500"
     },
     {
-      "sport": "CFB",
-      "game_id": "401871071",
-      "date": "2026-10-27T23:00Z",
-      "home_team": "Western Kentucky Hilltoppers",
-      "away_team": "Delaware Blue Hens",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261027&limit=500&groups=80"
-    },
-    {
       "sport": "NBA",
       "game_id": "401909877",
       "date": "2026-10-27T23:30Z",
@@ -1143,15 +1134,6 @@
       "away_team": "Brooklyn Nets",
       "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261027&limit=500"
-    },
-    {
-      "sport": "CFB",
-      "game_id": "401871072",
-      "date": "2026-10-28T00:00Z",
-      "home_team": "Missouri State Bears",
-      "away_team": "Sam Houston Bearkats",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261027&limit=500&groups=80"
     },
     {
       "sport": "NBA",
@@ -1179,6 +1161,15 @@
       "away_team": "Portland Trail Blazers",
       "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261027&limit=500"
+    },
+    {
+      "sport": "CFB",
+      "game_id": "401871058",
+      "date": "2026-10-28T23:00Z",
+      "home_team": "Middle Tennessee Blue Raiders",
+      "away_team": "Kennesaw State Owls",
+      "status": "STATUS_FINAL",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261028&limit=500&groups=80"
     },
     {
       "sport": "NBA",
@@ -1224,6 +1215,15 @@
       "away_team": "Orlando Magic",
       "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261028&limit=500"
+    },
+    {
+      "sport": "CFB",
+      "game_id": "401871057",
+      "date": "2026-10-29T00:00Z",
+      "home_team": "New Mexico State Aggies",
+      "away_team": "Jacksonville State Gamecocks",
+      "status": "STATUS_FINAL",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261028&limit=500&groups=80"
     },
     {
       "sport": "NBA",
@@ -1289,24 +1289,6 @@
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261028&limit=500"
     },
     {
-      "sport": "CFB",
-      "game_id": "401862812",
-      "date": "2026-10-29T23:30Z",
-      "home_team": "North Texas Mean Green",
-      "away_team": "Florida Atlantic Owls",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261029&limit=500&groups=80"
-    },
-    {
-      "sport": "CFB",
-      "game_id": "401869963",
-      "date": "2026-10-29T23:30Z",
-      "home_team": "James Madison Dukes",
-      "away_team": "Troy Trojans",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261029&limit=500&groups=80"
-    },
-    {
       "sport": "NBA",
       "game_id": "401909893",
       "date": "2026-10-30T00:00Z",
@@ -1323,15 +1305,6 @@
       "away_team": "Sacramento Kings",
       "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261029&limit=500"
-    },
-    {
-      "sport": "NFL",
-      "game_id": "401873023",
-      "date": "2026-10-30T00:15Z",
-      "home_team": "Green Bay Packers",
-      "away_team": "Carolina Panthers",
-      "status": "STATUS_FINAL",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261029&limit=500"
     },
     {
       "sport": "NBA",
@@ -2410,7 +2383,7 @@
       "date": "2026-11-06T00:30Z",
       "home_team": "Florida Atlantic Owls",
       "away_team": "UTSA Roadrunners",
-      "status": "STATUS_SCHEDULED",
+      "status": "STATUS_IN_PROGRESS",
       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261105&limit=500&groups=80"
     },
     {
@@ -3618,6 +3591,114 @@
       "away_team": "Charlotte Hornets",
       "status": "STATUS_SCHEDULED",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261112&limit=500"
+    },
+    {
+      "sport": "CFB",
+      "game_id": "401858293",
+      "date": "2026-11-14T00:00Z",
+      "home_team": "Pittsburgh Panthers",
+      "away_team": "Florida State Seminoles",
+      "status": "STATUS_SCHEDULED",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261113&limit=500&groups=80"
+    },
+    {
+      "sport": "NBA",
+      "game_id": "401909296",
+      "date": "2026-11-14T00:00Z",
+      "home_team": "Indiana Pacers",
+      "away_team": "New York Knicks",
+      "status": "STATUS_SCHEDULED",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261113&limit=500"
+    },
+    {
+      "sport": "NBA",
+      "game_id": "401909297",
+      "date": "2026-11-14T00:00Z",
+      "home_team": "Orlando Magic",
+      "away_team": "Milwaukee Bucks",
+      "status": "STATUS_SCHEDULED",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261113&limit=500"
+    },
+    {
+      "sport": "NBA",
+      "game_id": "401909298",
+      "date": "2026-11-14T01:00Z",
+      "home_team": "Miami Heat",
+      "away_team": "Cleveland Cavaliers",
+      "status": "STATUS_SCHEDULED",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261113&limit=500"
+    },
+    {
+      "sport": "NBA",
+      "game_id": "401909299",
+      "date": "2026-11-14T01:00Z",
+      "home_team": "Chicago Bulls",
+      "away_team": "Atlanta Hawks",
+      "status": "STATUS_SCHEDULED",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261113&limit=500"
+    },
+    {
+      "sport": "NBA",
+      "game_id": "401909300",
+      "date": "2026-11-14T01:00Z",
+      "home_team": "New Orleans Pelicans",
+      "away_team": "Memphis Grizzlies",
+      "status": "STATUS_SCHEDULED",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261113&limit=500"
+    },
+    {
+      "sport": "NBA",
+      "game_id": "401909301",
+      "date": "2026-11-14T01:30Z",
+      "home_team": "Houston Rockets",
+      "away_team": "Utah Jazz",
+      "status": "STATUS_SCHEDULED",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261113&limit=500"
+    },
+    {
+      "sport": "CFB",
+      "game_id": "401858526",
+      "date": "2026-11-14T02:00Z",
+      "home_team": "UCLA Bruins",
+      "away_team": "Illinois Fighting Illini",
+      "status": "STATUS_SCHEDULED",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261113&limit=500&groups=80"
+    },
+    {
+      "sport": "NBA",
+      "game_id": "401909302",
+      "date": "2026-11-14T02:30Z",
+      "home_team": "San Antonio Spurs",
+      "away_team": "Golden State Warriors",
+      "status": "STATUS_SCHEDULED",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261113&limit=500"
+    },
+    {
+      "sport": "NBA",
+      "game_id": "401909303",
+      "date": "2026-11-14T03:00Z",
+      "home_team": "Sacramento Kings",
+      "away_team": "Portland Trail Blazers",
+      "status": "STATUS_SCHEDULED",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261113&limit=500"
+    },
+    {
+      "sport": "CFB",
+      "game_id": "401856860",
+      "date": "2026-11-14T03:15Z",
+      "home_team": "Colorado Buffaloes",
+      "away_team": "Houston Cougars",
+      "status": "STATUS_SCHEDULED",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261113&limit=500&groups=80"
+    },
+    {
+      "sport": "NBA",
+      "game_id": "401909304",
+      "date": "2026-11-14T03:30Z",
+      "home_team": "LA Clippers",
+      "away_team": "Oklahoma City Thunder",
+      "status": "STATUS_SCHEDULED",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261113&limit=500"
     }
   ],
   "errors": []

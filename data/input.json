@@ -538,6 +538,28 @@
       "away_rating": 99.002,
       "home_advantage_points": 2.0,
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261111&limit=500"
+    },
+    {
+      "sport": "NBA",
+      "game_id": "401909976",
+      "date": "2026-11-13T00:00Z",
+      "home_team": "Philadelphia 76ers",
+      "away_team": "Toronto Raptors",
+      "home_rating": 103.416,
+      "away_rating": 101.595,
+      "home_advantage_points": 2.0,
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261112&limit=500"
+    },
+    {
+      "sport": "NBA",
+      "game_id": "401909977",
+      "date": "2026-11-13T00:00Z",
+      "home_team": "Washington Wizards",
+      "away_team": "Detroit Pistons",
+      "home_rating": 98.682,
+      "away_rating": 107.058,
+      "home_advantage_points": 2.0,
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261112&limit=500"
     }
   ],
   "players": [
@@ -978,11 +1000,11 @@
       "player": "Derrick Jones Jr.",
       "team": "LA Clippers",
       "stat": "points",
-      "per_opportunity_rate": 10.3333,
+      "per_opportunity_rate": 11.5,
       "projected_opportunities": 1,
       "date": "2026-11-11T02:00Z",
       "source": "ESPN public game boxscores (unofficial)",
-      "sample_games": 3,
+      "sample_games": 4,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
     },
     {
@@ -990,11 +1012,11 @@
       "player": "Derrick Jones Jr.",
       "team": "LA Clippers",
       "stat": "rebounds",
-      "per_opportunity_rate": 5.3333,
+      "per_opportunity_rate": 5.25,
       "projected_opportunities": 1,
       "date": "2026-11-11T02:00Z",
       "source": "ESPN public game boxscores (unofficial)",
-      "sample_games": 3,
+      "sample_games": 4,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
     },
     {
@@ -1002,11 +1024,11 @@
       "player": "Derrick Jones Jr.",
       "team": "LA Clippers",
       "stat": "assists",
-      "per_opportunity_rate": 1.0,
+      "per_opportunity_rate": 0.75,
       "projected_opportunities": 1,
       "date": "2026-11-11T02:00Z",
       "source": "ESPN public game boxscores (unofficial)",
-      "sample_games": 3,
+      "sample_games": 4,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
     },
     {
@@ -1014,11 +1036,11 @@
       "player": "Derrick Jones Jr.",
       "team": "LA Clippers",
       "stat": "three_pointers_made",
-      "per_opportunity_rate": 1.6667,
+      "per_opportunity_rate": 2.0,
       "projected_opportunities": 1,
       "date": "2026-11-11T02:00Z",
       "source": "ESPN public game boxscores (unofficial)",
-      "sample_games": 3,
+      "sample_games": 4,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
     },
     {
@@ -1074,11 +1096,11 @@
       "player": "Brook Lopez",
       "team": "LA Clippers",
       "stat": "points",
-      "per_opportunity_rate": 13.0,
+      "per_opportunity_rate": 10.8,
       "projected_opportunities": 1,
       "date": "2026-11-11T02:00Z",
       "source": "ESPN public game boxscores (unofficial)",
-      "sample_games": 4,
+      "sample_games": 5,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
     },
     {
@@ -1086,11 +1108,11 @@
       "player": "Brook Lopez",
       "team": "LA Clippers",
       "stat": "rebounds",
-      "per_opportunity_rate": 5.5,
+      "per_opportunity_rate": 5.0,
       "projected_opportunities": 1,
       "date": "2026-11-11T02:00Z",
       "source": "ESPN public game boxscores (unofficial)",
-      "sample_games": 4,
+      "sample_games": 5,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
     },
     {
@@ -1098,359 +1120,359 @@
       "player": "Brook Lopez",
       "team": "LA Clippers",
       "stat": "assists",
-      "per_opportunity_rate": 0.5,
-      "projected_opportunities": 1,
-      "date": "2026-11-11T02:00Z",
-      "source": "ESPN public game boxscores (unofficial)",
-      "sample_games": 4,
-      "method": "mean of available recent appearances; no minutes/injury adjustment"
-    },
-    {
-      "sport": "NBA",
-      "player": "Brook Lopez",
-      "team": "LA Clippers",
-      "stat": "three_pointers_made",
-      "per_opportunity_rate": 1.25,
-      "projected_opportunities": 1,
-      "date": "2026-11-11T02:00Z",
-      "source": "ESPN public game boxscores (unofficial)",
-      "sample_games": 4,
-      "method": "mean of available recent appearances; no minutes/injury adjustment"
-    },
-    {
-      "sport": "NBA",
-      "player": "Kris Dunn",
-      "team": "LA Clippers",
-      "stat": "points",
-      "per_opportunity_rate": 8.5,
-      "projected_opportunities": 1,
-      "date": "2026-11-11T02:00Z",
-      "source": "ESPN public game boxscores (unofficial)",
-      "sample_games": 4,
-      "method": "mean of available recent appearances; no minutes/injury adjustment"
-    },
-    {
-      "sport": "NBA",
-      "player": "Kris Dunn",
-      "team": "LA Clippers",
-      "stat": "rebounds",
-      "per_opportunity_rate": 4.0,
-      "projected_opportunities": 1,
-      "date": "2026-11-11T02:00Z",
-      "source": "ESPN public game boxscores (unofficial)",
-      "sample_games": 4,
-      "method": "mean of available recent appearances; no minutes/injury adjustment"
-    },
-    {
-      "sport": "NBA",
-      "player": "Kris Dunn",
-      "team": "LA Clippers",
-      "stat": "assists",
-      "per_opportunity_rate": 3.75,
-      "projected_opportunities": 1,
-      "date": "2026-11-11T02:00Z",
-      "source": "ESPN public game boxscores (unofficial)",
-      "sample_games": 4,
-      "method": "mean of available recent appearances; no minutes/injury adjustment"
-    },
-    {
-      "sport": "NBA",
-      "player": "Kris Dunn",
-      "team": "LA Clippers",
-      "stat": "three_pointers_made",
-      "per_opportunity_rate": 0.5,
-      "projected_opportunities": 1,
-      "date": "2026-11-11T02:00Z",
-      "source": "ESPN public game boxscores (unofficial)",
-      "sample_games": 4,
-      "method": "mean of available recent appearances; no minutes/injury adjustment"
-    },
-    {
-      "sport": "NBA",
-      "player": "Darius Garland",
-      "team": "LA Clippers",
-      "stat": "points",
-      "per_opportunity_rate": 20.25,
-      "projected_opportunities": 1,
-      "date": "2026-11-11T02:00Z",
-      "source": "ESPN public game boxscores (unofficial)",
-      "sample_games": 4,
-      "method": "mean of available recent appearances; no minutes/injury adjustment"
-    },
-    {
-      "sport": "NBA",
-      "player": "Darius Garland",
-      "team": "LA Clippers",
-      "stat": "rebounds",
-      "per_opportunity_rate": 1.75,
-      "projected_opportunities": 1,
-      "date": "2026-11-11T02:00Z",
-      "source": "ESPN public game boxscores (unofficial)",
-      "sample_games": 4,
-      "method": "mean of available recent appearances; no minutes/injury adjustment"
-    },
-    {
-      "sport": "NBA",
-      "player": "Darius Garland",
-      "team": "LA Clippers",
-      "stat": "assists",
-      "per_opportunity_rate": 6.75,
-      "projected_opportunities": 1,
-      "date": "2026-11-11T02:00Z",
-      "source": "ESPN public game boxscores (unofficial)",
-      "sample_games": 4,
-      "method": "mean of available recent appearances; no minutes/injury adjustment"
-    },
-    {
-      "sport": "NBA",
-      "player": "Darius Garland",
-      "team": "LA Clippers",
-      "stat": "three_pointers_made",
-      "per_opportunity_rate": 2.5,
-      "projected_opportunities": 1,
-      "date": "2026-11-11T02:00Z",
-      "source": "ESPN public game boxscores (unofficial)",
-      "sample_games": 4,
-      "method": "mean of available recent appearances; no minutes/injury adjustment"
-    },
-    {
-      "sport": "NBA",
-      "player": "Isaiah Jackson",
-      "team": "LA Clippers",
-      "stat": "points",
-      "per_opportunity_rate": 9.0,
-      "projected_opportunities": 1,
-      "date": "2026-11-11T02:00Z",
-      "source": "ESPN public game boxscores (unofficial)",
-      "sample_games": 4,
-      "method": "mean of available recent appearances; no minutes/injury adjustment"
-    },
-    {
-      "sport": "NBA",
-      "player": "Isaiah Jackson",
-      "team": "LA Clippers",
-      "stat": "rebounds",
-      "per_opportunity_rate": 6.75,
-      "projected_opportunities": 1,
-      "date": "2026-11-11T02:00Z",
-      "source": "ESPN public game boxscores (unofficial)",
-      "sample_games": 4,
-      "method": "mean of available recent appearances; no minutes/injury adjustment"
-    },
-    {
-      "sport": "NBA",
-      "player": "Isaiah Jackson",
-      "team": "LA Clippers",
-      "stat": "assists",
-      "per_opportunity_rate": 2.5,
-      "projected_opportunities": 1,
-      "date": "2026-11-11T02:00Z",
-      "source": "ESPN public game boxscores (unofficial)",
-      "sample_games": 4,
-      "method": "mean of available recent appearances; no minutes/injury adjustment"
-    },
-    {
-      "sport": "NBA",
-      "player": "Isaiah Jackson",
-      "team": "LA Clippers",
-      "stat": "three_pointers_made",
-      "per_opportunity_rate": 0.25,
-      "projected_opportunities": 1,
-      "date": "2026-11-11T02:00Z",
-      "source": "ESPN public game boxscores (unofficial)",
-      "sample_games": 4,
-      "method": "mean of available recent appearances; no minutes/injury adjustment"
-    },
-    {
-      "sport": "NBA",
-      "player": "Baba Miller",
-      "team": "LA Clippers",
-      "stat": "points",
-      "per_opportunity_rate": 2.0,
-      "projected_opportunities": 1,
-      "date": "2026-11-11T02:00Z",
-      "source": "ESPN public game boxscores (unofficial)",
-      "sample_games": 4,
-      "method": "mean of available recent appearances; no minutes/injury adjustment"
-    },
-    {
-      "sport": "NBA",
-      "player": "Baba Miller",
-      "team": "LA Clippers",
-      "stat": "rebounds",
       "per_opportunity_rate": 1.0,
       "projected_opportunities": 1,
       "date": "2026-11-11T02:00Z",
       "source": "ESPN public game boxscores (unofficial)",
-      "sample_games": 4,
+      "sample_games": 5,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
     },
     {
       "sport": "NBA",
-      "player": "Baba Miller",
-      "team": "LA Clippers",
-      "stat": "assists",
-      "per_opportunity_rate": 0.75,
-      "projected_opportunities": 1,
-      "date": "2026-11-11T02:00Z",
-      "source": "ESPN public game boxscores (unofficial)",
-      "sample_games": 4,
-      "method": "mean of available recent appearances; no minutes/injury adjustment"
-    },
-    {
-      "sport": "NBA",
-      "player": "Baba Miller",
-      "team": "LA Clippers",
-      "stat": "three_pointers_made",
-      "per_opportunity_rate": 0.25,
-      "projected_opportunities": 1,
-      "date": "2026-11-11T02:00Z",
-      "source": "ESPN public game boxscores (unofficial)",
-      "sample_games": 4,
-      "method": "mean of available recent appearances; no minutes/injury adjustment"
-    },
-    {
-      "sport": "NBA",
-      "player": "Kobe Sanders",
-      "team": "LA Clippers",
-      "stat": "points",
-      "per_opportunity_rate": 13.25,
-      "projected_opportunities": 1,
-      "date": "2026-11-11T02:00Z",
-      "source": "ESPN public game boxscores (unofficial)",
-      "sample_games": 4,
-      "method": "mean of available recent appearances; no minutes/injury adjustment"
-    },
-    {
-      "sport": "NBA",
-      "player": "Kobe Sanders",
-      "team": "LA Clippers",
-      "stat": "rebounds",
-      "per_opportunity_rate": 3.25,
-      "projected_opportunities": 1,
-      "date": "2026-11-11T02:00Z",
-      "source": "ESPN public game boxscores (unofficial)",
-      "sample_games": 4,
-      "method": "mean of available recent appearances; no minutes/injury adjustment"
-    },
-    {
-      "sport": "NBA",
-      "player": "Kobe Sanders",
-      "team": "LA Clippers",
-      "stat": "assists",
-      "per_opportunity_rate": 1.5,
-      "projected_opportunities": 1,
-      "date": "2026-11-11T02:00Z",
-      "source": "ESPN public game boxscores (unofficial)",
-      "sample_games": 4,
-      "method": "mean of available recent appearances; no minutes/injury adjustment"
-    },
-    {
-      "sport": "NBA",
-      "player": "Kobe Sanders",
-      "team": "LA Clippers",
-      "stat": "three_pointers_made",
-      "per_opportunity_rate": 2.5,
-      "projected_opportunities": 1,
-      "date": "2026-11-11T02:00Z",
-      "source": "ESPN public game boxscores (unofficial)",
-      "sample_games": 4,
-      "method": "mean of available recent appearances; no minutes/injury adjustment"
-    },
-    {
-      "sport": "NBA",
-      "player": "Gradey Dick",
-      "team": "LA Clippers",
-      "stat": "points",
-      "per_opportunity_rate": 4.75,
-      "projected_opportunities": 1,
-      "date": "2026-11-11T02:00Z",
-      "source": "ESPN public game boxscores (unofficial)",
-      "sample_games": 4,
-      "method": "mean of available recent appearances; no minutes/injury adjustment"
-    },
-    {
-      "sport": "NBA",
-      "player": "Gradey Dick",
-      "team": "LA Clippers",
-      "stat": "rebounds",
-      "per_opportunity_rate": 1.75,
-      "projected_opportunities": 1,
-      "date": "2026-11-11T02:00Z",
-      "source": "ESPN public game boxscores (unofficial)",
-      "sample_games": 4,
-      "method": "mean of available recent appearances; no minutes/injury adjustment"
-    },
-    {
-      "sport": "NBA",
-      "player": "Gradey Dick",
-      "team": "LA Clippers",
-      "stat": "assists",
-      "per_opportunity_rate": 1.25,
-      "projected_opportunities": 1,
-      "date": "2026-11-11T02:00Z",
-      "source": "ESPN public game boxscores (unofficial)",
-      "sample_games": 4,
-      "method": "mean of available recent appearances; no minutes/injury adjustment"
-    },
-    {
-      "sport": "NBA",
-      "player": "Gradey Dick",
-      "team": "LA Clippers",
-      "stat": "three_pointers_made",
-      "per_opportunity_rate": 0.25,
-      "projected_opportunities": 1,
-      "date": "2026-11-11T02:00Z",
-      "source": "ESPN public game boxscores (unofficial)",
-      "sample_games": 4,
-      "method": "mean of available recent appearances; no minutes/injury adjustment"
-    },
-    {
-      "sport": "NBA",
-      "player": "Keaton Wagler",
-      "team": "LA Clippers",
-      "stat": "points",
-      "per_opportunity_rate": 9.0,
-      "projected_opportunities": 1,
-      "date": "2026-11-11T02:00Z",
-      "source": "ESPN public game boxscores (unofficial)",
-      "sample_games": 4,
-      "method": "mean of available recent appearances; no minutes/injury adjustment"
-    },
-    {
-      "sport": "NBA",
-      "player": "Keaton Wagler",
-      "team": "LA Clippers",
-      "stat": "rebounds",
-      "per_opportunity_rate": 4.0,
-      "projected_opportunities": 1,
-      "date": "2026-11-11T02:00Z",
-      "source": "ESPN public game boxscores (unofficial)",
-      "sample_games": 4,
-      "method": "mean of available recent appearances; no minutes/injury adjustment"
-    },
-    {
-      "sport": "NBA",
-      "player": "Keaton Wagler",
-      "team": "LA Clippers",
-      "stat": "assists",
-      "per_opportunity_rate": 3.0,
-      "projected_opportunities": 1,
-      "date": "2026-11-11T02:00Z",
-      "source": "ESPN public game boxscores (unofficial)",
-      "sample_games": 4,
-      "method": "mean of available recent appearances; no minutes/injury adjustment"
-    },
-    {
-      "sport": "NBA",
-      "player": "Keaton Wagler",
+      "player": "Brook Lopez",
       "team": "LA Clippers",
       "stat": "three_pointers_made",
       "per_opportunity_rate": 1.0,
       "projected_opportunities": 1,
       "date": "2026-11-11T02:00Z",
       "source": "ESPN public game boxscores (unofficial)",
-      "sample_games": 4,
+      "sample_games": 5,
+      "method": "mean of available recent appearances; no minutes/injury adjustment"
+    },
+    {
+      "sport": "NBA",
+      "player": "Kris Dunn",
+      "team": "LA Clippers",
+      "stat": "points",
+      "per_opportunity_rate": 7.8,
+      "projected_opportunities": 1,
+      "date": "2026-11-11T02:00Z",
+      "source": "ESPN public game boxscores (unofficial)",
+      "sample_games": 5,
+      "method": "mean of available recent appearances; no minutes/injury adjustment"
+    },
+    {
+      "sport": "NBA",
+      "player": "Kris Dunn",
+      "team": "LA Clippers",
+      "stat": "rebounds",
+      "per_opportunity_rate": 3.8,
+      "projected_opportunities": 1,
+      "date": "2026-11-11T02:00Z",
+      "source": "ESPN public game boxscores (unofficial)",
+      "sample_games": 5,
+      "method": "mean of available recent appearances; no minutes/injury adjustment"
+    },
+    {
+      "sport": "NBA",
+      "player": "Kris Dunn",
+      "team": "LA Clippers",
+      "stat": "assists",
+      "per_opportunity_rate": 3.6,
+      "projected_opportunities": 1,
+      "date": "2026-11-11T02:00Z",
+      "source": "ESPN public game boxscores (unofficial)",
+      "sample_games": 5,
+      "method": "mean of available recent appearances; no minutes/injury adjustment"
+    },
+    {
+      "sport": "NBA",
+      "player": "Kris Dunn",
+      "team": "LA Clippers",
+      "stat": "three_pointers_made",
+      "per_opportunity_rate": 0.6,
+      "projected_opportunities": 1,
+      "date": "2026-11-11T02:00Z",
+      "source": "ESPN public game boxscores (unofficial)",
+      "sample_games": 5,
+      "method": "mean of available recent appearances; no minutes/injury adjustment"
+    },
+    {
+      "sport": "NBA",
+      "player": "Darius Garland",
+      "team": "LA Clippers",
+      "stat": "points",
+      "per_opportunity_rate": 19.0,
+      "projected_opportunities": 1,
+      "date": "2026-11-11T02:00Z",
+      "source": "ESPN public game boxscores (unofficial)",
+      "sample_games": 5,
+      "method": "mean of available recent appearances; no minutes/injury adjustment"
+    },
+    {
+      "sport": "NBA",
+      "player": "Darius Garland",
+      "team": "LA Clippers",
+      "stat": "rebounds",
+      "per_opportunity_rate": 1.6,
+      "projected_opportunities": 1,
+      "date": "2026-11-11T02:00Z",
+      "source": "ESPN public game boxscores (unofficial)",
+      "sample_games": 5,
+      "method": "mean of available recent appearances; no minutes/injury adjustment"
+    },
+    {
+      "sport": "NBA",
+      "player": "Darius Garland",
+      "team": "LA Clippers",
+      "stat": "assists",
+      "per_opportunity_rate": 6.4,
+      "projected_opportunities": 1,
+      "date": "2026-11-11T02:00Z",
+      "source": "ESPN public game boxscores (unofficial)",
+      "sample_games": 5,
+      "method": "mean of available recent appearances; no minutes/injury adjustment"
+    },
+    {
+      "sport": "NBA",
+      "player": "Darius Garland",
+      "team": "LA Clippers",
+      "stat": "three_pointers_made",
+      "per_opportunity_rate": 2.2,
+      "projected_opportunities": 1,
+      "date": "2026-11-11T02:00Z",
+      "source": "ESPN public game boxscores (unofficial)",
+      "sample_games": 5,
+      "method": "mean of available recent appearances; no minutes/injury adjustment"
+    },
+    {
+      "sport": "NBA",
+      "player": "Isaiah Jackson",
+      "team": "LA Clippers",
+      "stat": "points",
+      "per_opportunity_rate": 8.0,
+      "projected_opportunities": 1,
+      "date": "2026-11-11T02:00Z",
+      "source": "ESPN public game boxscores (unofficial)",
+      "sample_games": 5,
+      "method": "mean of available recent appearances; no minutes/injury adjustment"
+    },
+    {
+      "sport": "NBA",
+      "player": "Isaiah Jackson",
+      "team": "LA Clippers",
+      "stat": "rebounds",
+      "per_opportunity_rate": 6.4,
+      "projected_opportunities": 1,
+      "date": "2026-11-11T02:00Z",
+      "source": "ESPN public game boxscores (unofficial)",
+      "sample_games": 5,
+      "method": "mean of available recent appearances; no minutes/injury adjustment"
+    },
+    {
+      "sport": "NBA",
+      "player": "Isaiah Jackson",
+      "team": "LA Clippers",
+      "stat": "assists",
+      "per_opportunity_rate": 2.2,
+      "projected_opportunities": 1,
+      "date": "2026-11-11T02:00Z",
+      "source": "ESPN public game boxscores (unofficial)",
+      "sample_games": 5,
+      "method": "mean of available recent appearances; no minutes/injury adjustment"
+    },
+    {
+      "sport": "NBA",
+      "player": "Isaiah Jackson",
+      "team": "LA Clippers",
+      "stat": "three_pointers_made",
+      "per_opportunity_rate": 0.2,
+      "projected_opportunities": 1,
+      "date": "2026-11-11T02:00Z",
+      "source": "ESPN public game boxscores (unofficial)",
+      "sample_games": 5,
+      "method": "mean of available recent appearances; no minutes/injury adjustment"
+    },
+    {
+      "sport": "NBA",
+      "player": "Baba Miller",
+      "team": "LA Clippers",
+      "stat": "points",
+      "per_opportunity_rate": 2.4,
+      "projected_opportunities": 1,
+      "date": "2026-11-11T02:00Z",
+      "source": "ESPN public game boxscores (unofficial)",
+      "sample_games": 5,
+      "method": "mean of available recent appearances; no minutes/injury adjustment"
+    },
+    {
+      "sport": "NBA",
+      "player": "Baba Miller",
+      "team": "LA Clippers",
+      "stat": "rebounds",
+      "per_opportunity_rate": 2.2,
+      "projected_opportunities": 1,
+      "date": "2026-11-11T02:00Z",
+      "source": "ESPN public game boxscores (unofficial)",
+      "sample_games": 5,
+      "method": "mean of available recent appearances; no minutes/injury adjustment"
+    },
+    {
+      "sport": "NBA",
+      "player": "Baba Miller",
+      "team": "LA Clippers",
+      "stat": "assists",
+      "per_opportunity_rate": 0.8,
+      "projected_opportunities": 1,
+      "date": "2026-11-11T02:00Z",
+      "source": "ESPN public game boxscores (unofficial)",
+      "sample_games": 5,
+      "method": "mean of available recent appearances; no minutes/injury adjustment"
+    },
+    {
+      "sport": "NBA",
+      "player": "Baba Miller",
+      "team": "LA Clippers",
+      "stat": "three_pointers_made",
+      "per_opportunity_rate": 0.2,
+      "projected_opportunities": 1,
+      "date": "2026-11-11T02:00Z",
+      "source": "ESPN public game boxscores (unofficial)",
+      "sample_games": 5,
+      "method": "mean of available recent appearances; no minutes/injury adjustment"
+    },
+    {
+      "sport": "NBA",
+      "player": "Kobe Sanders",
+      "team": "LA Clippers",
+      "stat": "points",
+      "per_opportunity_rate": 12.4,
+      "projected_opportunities": 1,
+      "date": "2026-11-11T02:00Z",
+      "source": "ESPN public game boxscores (unofficial)",
+      "sample_games": 5,
+      "method": "mean of available recent appearances; no minutes/injury adjustment"
+    },
+    {
+      "sport": "NBA",
+      "player": "Kobe Sanders",
+      "team": "LA Clippers",
+      "stat": "rebounds",
+      "per_opportunity_rate": 3.4,
+      "projected_opportunities": 1,
+      "date": "2026-11-11T02:00Z",
+      "source": "ESPN public game boxscores (unofficial)",
+      "sample_games": 5,
+      "method": "mean of available recent appearances; no minutes/injury adjustment"
+    },
+    {
+      "sport": "NBA",
+      "player": "Kobe Sanders",
+      "team": "LA Clippers",
+      "stat": "assists",
+      "per_opportunity_rate": 1.2,
+      "projected_opportunities": 1,
+      "date": "2026-11-11T02:00Z",
+      "source": "ESPN public game boxscores (unofficial)",
+      "sample_games": 5,
+      "method": "mean of available recent appearances; no minutes/injury adjustment"
+    },
+    {
+      "sport": "NBA",
+      "player": "Kobe Sanders",
+      "team": "LA Clippers",
+      "stat": "three_pointers_made",
+      "per_opportunity_rate": 2.2,
+      "projected_opportunities": 1,
+      "date": "2026-11-11T02:00Z",
+      "source": "ESPN public game boxscores (unofficial)",
+      "sample_games": 5,
+      "method": "mean of available recent appearances; no minutes/injury adjustment"
+    },
+    {
+      "sport": "NBA",
+      "player": "Gradey Dick",
+      "team": "LA Clippers",
+      "stat": "points",
+      "per_opportunity_rate": 4.8,
+      "projected_opportunities": 1,
+      "date": "2026-11-11T02:00Z",
+      "source": "ESPN public game boxscores (unofficial)",
+      "sample_games": 5,
+      "method": "mean of available recent appearances; no minutes/injury adjustment"
+    },
+    {
+      "sport": "NBA",
+      "player": "Gradey Dick",
+      "team": "LA Clippers",
+      "stat": "rebounds",
+      "per_opportunity_rate": 2.4,
+      "projected_opportunities": 1,
+      "date": "2026-11-11T02:00Z",
+      "source": "ESPN public game boxscores (unofficial)",
+      "sample_games": 5,
+      "method": "mean of available recent appearances; no minutes/injury adjustment"
+    },
+    {
+      "sport": "NBA",
+      "player": "Gradey Dick",
+      "team": "LA Clippers",
+      "stat": "assists",
+      "per_opportunity_rate": 1.0,
+      "projected_opportunities": 1,
+      "date": "2026-11-11T02:00Z",
+      "source": "ESPN public game boxscores (unofficial)",
+      "sample_games": 5,
+      "method": "mean of available recent appearances; no minutes/injury adjustment"
+    },
+    {
+      "sport": "NBA",
+      "player": "Gradey Dick",
+      "team": "LA Clippers",
+      "stat": "three_pointers_made",
+      "per_opportunity_rate": 0.4,
+      "projected_opportunities": 1,
+      "date": "2026-11-11T02:00Z",
+      "source": "ESPN public game boxscores (unofficial)",
+      "sample_games": 5,
+      "method": "mean of available recent appearances; no minutes/injury adjustment"
+    },
+    {
+      "sport": "NBA",
+      "player": "Keaton Wagler",
+      "team": "LA Clippers",
+      "stat": "points",
+      "per_opportunity_rate": 11.4,
+      "projected_opportunities": 1,
+      "date": "2026-11-11T02:00Z",
+      "source": "ESPN public game boxscores (unofficial)",
+      "sample_games": 5,
+      "method": "mean of available recent appearances; no minutes/injury adjustment"
+    },
+    {
+      "sport": "NBA",
+      "player": "Keaton Wagler",
+      "team": "LA Clippers",
+      "stat": "rebounds",
+      "per_opportunity_rate": 4.0,
+      "projected_opportunities": 1,
+      "date": "2026-11-11T02:00Z",
+      "source": "ESPN public game boxscores (unofficial)",
+      "sample_games": 5,
+      "method": "mean of available recent appearances; no minutes/injury adjustment"
+    },
+    {
+      "sport": "NBA",
+      "player": "Keaton Wagler",
+      "team": "LA Clippers",
+      "stat": "assists",
+      "per_opportunity_rate": 2.8,
+      "projected_opportunities": 1,
+      "date": "2026-11-11T02:00Z",
+      "source": "ESPN public game boxscores (unofficial)",
+      "sample_games": 5,
+      "method": "mean of available recent appearances; no minutes/injury adjustment"
+    },
+    {
+      "sport": "NBA",
+      "player": "Keaton Wagler",
+      "team": "LA Clippers",
+      "stat": "three_pointers_made",
+      "per_opportunity_rate": 1.4,
+      "projected_opportunities": 1,
+      "date": "2026-11-11T02:00Z",
+      "source": "ESPN public game boxscores (unofficial)",
+      "sample_games": 5,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
     },
     {
@@ -1458,11 +1480,11 @@
       "player": "Jake LaRavia",
       "team": "Los Angeles Lakers",
       "stat": "points",
-      "per_opportunity_rate": 8.5,
+      "per_opportunity_rate": 7.2,
       "projected_opportunities": 1,
       "date": "2026-11-12T01:00Z",
       "source": "ESPN public game boxscores (unofficial)",
-      "sample_games": 4,
+      "sample_games": 5,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
     },
     {
@@ -1470,11 +1492,11 @@
       "player": "Jake LaRavia",
       "team": "Los Angeles Lakers",
       "stat": "rebounds",
-      "per_opportunity_rate": 2.5,
+      "per_opportunity_rate": 4.0,
       "projected_opportunities": 1,
       "date": "2026-11-12T01:00Z",
       "source": "ESPN public game boxscores (unofficial)",
-      "sample_games": 4,
+      "sample_games": 5,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
     },
     {
@@ -1482,11 +1504,11 @@
       "player": "Jake LaRavia",
       "team": "Los Angeles Lakers",
       "stat": "assists",
-      "per_opportunity_rate": 2.0,
+      "per_opportunity_rate": 1.6,
       "projected_opportunities": 1,
       "date": "2026-11-12T01:00Z",
       "source": "ESPN public game boxscores (unofficial)",
-      "sample_games": 4,
+      "sample_games": 5,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
     },
     {
@@ -1494,11 +1516,11 @@
       "player": "Jake LaRavia",
       "team": "Los Angeles Lakers",
       "stat": "three_pointers_made",
-      "per_opportunity_rate": 1.75,
+      "per_opportunity_rate": 1.4,
       "projected_opportunities": 1,
       "date": "2026-11-12T01:00Z",
       "source": "ESPN public game boxscores (unofficial)",
-      "sample_games": 4,
+      "sample_games": 5,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
     },
     {
@@ -1506,11 +1528,11 @@
       "player": "Walker Kessler",
       "team": "Los Angeles Lakers",
       "stat": "points",
-      "per_opportunity_rate": 14.0,
+      "per_opportunity_rate": 13.4,
       "projected_opportunities": 1,
       "date": "2026-11-12T01:00Z",
       "source": "ESPN public game boxscores (unofficial)",
-      "sample_games": 4,
+      "sample_games": 5,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
     },
     {
@@ -1518,11 +1540,11 @@
       "player": "Walker Kessler",
       "team": "Los Angeles Lakers",
       "stat": "rebounds",
-      "per_opportunity_rate": 12.75,
+      "per_opportunity_rate": 12.0,
       "projected_opportunities": 1,
       "date": "2026-11-12T01:00Z",
       "source": "ESPN public game boxscores (unofficial)",
-      "sample_games": 4,
+      "sample_games": 5,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
     },
     {
@@ -1530,11 +1552,11 @@
       "player": "Walker Kessler",
       "team": "Los Angeles Lakers",
       "stat": "assists",
-      "per_opportunity_rate": 1.25,
+      "per_opportunity_rate": 1.2,
       "projected_opportunities": 1,
       "date": "2026-11-12T01:00Z",
       "source": "ESPN public game boxscores (unofficial)",
-      "sample_games": 4,
+      "sample_games": 5,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
     },
     {
@@ -1546,7 +1568,7 @@
       "projected_opportunities": 1,
       "date": "2026-11-12T01:00Z",
       "source": "ESPN public game boxscores (unofficial)",
-      "sample_games": 4,
+      "sample_games": 5,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
     },
     {
@@ -1554,11 +1576,11 @@
       "player": "Matisse Thybulle",
       "team": "Los Angeles Lakers",
       "stat": "points",
-      "per_opportunity_rate": 6.25,
+      "per_opportunity_rate": 8.0,
       "projected_opportunities": 1,
       "date": "2026-11-12T01:00Z",
       "source": "ESPN public game boxscores (unofficial)",
-      "sample_games": 4,
+      "sample_games": 5,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
     },
     {
@@ -1566,11 +1588,11 @@
       "player": "Matisse Thybulle",
       "team": "Los Angeles Lakers",
       "stat": "rebounds",
-      "per_opportunity_rate": 1.75,
+      "per_opportunity_rate": 1.6,
       "projected_opportunities": 1,
       "date": "2026-11-12T01:00Z",
       "source": "ESPN public game boxscores (unofficial)",
-      "sample_games": 4,
+      "sample_games": 5,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
     },
     {
@@ -1578,11 +1600,11 @@
       "player": "Matisse Thybulle",
       "team": "Los Angeles Lakers",
       "stat": "assists",
-      "per_opportunity_rate": 1.75,
+      "per_opportunity_rate": 1.4,
       "projected_opportunities": 1,
       "date": "2026-11-12T01:00Z",
       "source": "ESPN public game boxscores (unofficial)",
-      "sample_games": 4,
+      "sample_games": 5,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
     },
     {
@@ -1590,11 +1612,11 @@
       "player": "Matisse Thybulle",
       "team": "Los Angeles Lakers",
       "stat": "three_pointers_made",
-      "per_opportunity_rate": 1.5,
+      "per_opportunity_rate": 2.0,
       "projected_opportunities": 1,
       "date": "2026-11-12T01:00Z",
       "source": "ESPN public game boxscores (unofficial)",
-      "sample_games": 4,
+      "sample_games": 5,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
     },
     {
@@ -1650,71 +1672,71 @@
       "player": "Austin Reaves",
       "team": "Los Angeles Lakers",
       "stat": "points",
-      "per_opportunity_rate": 22.0,
+      "per_opportunity_rate": 20.8,
       "projected_opportunities": 1,
       "date": "2026-11-12T01:00Z",
       "source": "ESPN public game boxscores (unofficial)",
-      "sample_games": 4,
+      "sample_games": 5,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
     },
     {
       "sport": "NBA",
       "player": "Austin Reaves",
+      "team": "Los Angeles Lakers",
+      "stat": "rebounds",
+      "per_opportunity_rate": 3.6,
+      "projected_opportunities": 1,
+      "date": "2026-11-12T01:00Z",
+      "source": "ESPN public game boxscores (unofficial)",
+      "sample_games": 5,
+      "method": "mean of available recent appearances; no minutes/injury adjustment"
+    },
+    {
+      "sport": "NBA",
+      "player": "Austin Reaves",
+      "team": "Los Angeles Lakers",
+      "stat": "assists",
+      "per_opportunity_rate": 3.8,
+      "projected_opportunities": 1,
+      "date": "2026-11-12T01:00Z",
+      "source": "ESPN public game boxscores (unofficial)",
+      "sample_games": 5,
+      "method": "mean of available recent appearances; no minutes/injury adjustment"
+    },
+    {
+      "sport": "NBA",
+      "player": "Austin Reaves",
+      "team": "Los Angeles Lakers",
+      "stat": "three_pointers_made",
+      "per_opportunity_rate": 1.8,
+      "projected_opportunities": 1,
+      "date": "2026-11-12T01:00Z",
+      "source": "ESPN public game boxscores (unofficial)",
+      "sample_games": 5,
+      "method": "mean of available recent appearances; no minutes/injury adjustment"
+    },
+    {
+      "sport": "NBA",
+      "player": "Jarred Vanderbilt",
+      "team": "Los Angeles Lakers",
+      "stat": "points",
+      "per_opportunity_rate": 1.2,
+      "projected_opportunities": 1,
+      "date": "2026-11-12T01:00Z",
+      "source": "ESPN public game boxscores (unofficial)",
+      "sample_games": 5,
+      "method": "mean of available recent appearances; no minutes/injury adjustment"
+    },
+    {
+      "sport": "NBA",
+      "player": "Jarred Vanderbilt",
       "team": "Los Angeles Lakers",
       "stat": "rebounds",
       "per_opportunity_rate": 3.0,
       "projected_opportunities": 1,
       "date": "2026-11-12T01:00Z",
       "source": "ESPN public game boxscores (unofficial)",
-      "sample_games": 4,
-      "method": "mean of available recent appearances; no minutes/injury adjustment"
-    },
-    {
-      "sport": "NBA",
-      "player": "Austin Reaves",
-      "team": "Los Angeles Lakers",
-      "stat": "assists",
-      "per_opportunity_rate": 4.5,
-      "projected_opportunities": 1,
-      "date": "2026-11-12T01:00Z",
-      "source": "ESPN public game boxscores (unofficial)",
-      "sample_games": 4,
-      "method": "mean of available recent appearances; no minutes/injury adjustment"
-    },
-    {
-      "sport": "NBA",
-      "player": "Austin Reaves",
-      "team": "Los Angeles Lakers",
-      "stat": "three_pointers_made",
-      "per_opportunity_rate": 2.0,
-      "projected_opportunities": 1,
-      "date": "2026-11-12T01:00Z",
-      "source": "ESPN public game boxscores (unofficial)",
-      "sample_games": 4,
-      "method": "mean of available recent appearances; no minutes/injury adjustment"
-    },
-    {
-      "sport": "NBA",
-      "player": "Jarred Vanderbilt",
-      "team": "Los Angeles Lakers",
-      "stat": "points",
-      "per_opportunity_rate": 1.5,
-      "projected_opportunities": 1,
-      "date": "2026-11-12T01:00Z",
-      "source": "ESPN public game boxscores (unofficial)",
-      "sample_games": 4,
-      "method": "mean of available recent appearances; no minutes/injury adjustment"
-    },
-    {
-      "sport": "NBA",
-      "player": "Jarred Vanderbilt",
-      "team": "Los Angeles Lakers",
-      "stat": "rebounds",
-      "per_opportunity_rate": 2.0,
-      "projected_opportunities": 1,
-      "date": "2026-11-12T01:00Z",
-      "source": "ESPN public game boxscores (unofficial)",
-      "sample_games": 4,
+      "sample_games": 5,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
     },
     {
@@ -1722,11 +1744,11 @@
       "player": "Jarred Vanderbilt",
       "team": "Los Angeles Lakers",
       "stat": "assists",
-      "per_opportunity_rate": 1.0,
+      "per_opportunity_rate": 1.2,
       "projected_opportunities": 1,
       "date": "2026-11-12T01:00Z",
       "source": "ESPN public game boxscores (unofficial)",
-      "sample_games": 4,
+      "sample_games": 5,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
     },
     {
@@ -1738,7 +1760,7 @@
       "projected_opportunities": 1,
       "date": "2026-11-12T01:00Z",
       "source": "ESPN public game boxscores (unofficial)",
-      "sample_games": 4,
+      "sample_games": 5,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
     },
     {
@@ -1746,11 +1768,11 @@
       "player": "Sandro Mamukelashvili",
       "team": "Los Angeles Lakers",
       "stat": "points",
-      "per_opportunity_rate": 7.5,
+      "per_opportunity_rate": 8.6,
       "projected_opportunities": 1,
       "date": "2026-11-12T01:00Z",
       "source": "ESPN public game boxscores (unofficial)",
-      "sample_games": 4,
+      "sample_games": 5,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
     },
     {
@@ -1758,11 +1780,11 @@
       "player": "Sandro Mamukelashvili",
       "team": "Los Angeles Lakers",
       "stat": "rebounds",
-      "per_opportunity_rate": 4.25,
+      "per_opportunity_rate": 5.0,
       "projected_opportunities": 1,
       "date": "2026-11-12T01:00Z",
       "source": "ESPN public game boxscores (unofficial)",
-      "sample_games": 4,
+      "sample_games": 5,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
     },
     {
@@ -1770,11 +1792,11 @@
       "player": "Sandro Mamukelashvili",
       "team": "Los Angeles Lakers",
       "stat": "assists",
-      "per_opportunity_rate": 1.5,
+      "per_opportunity_rate": 1.8,
       "projected_opportunities": 1,
       "date": "2026-11-12T01:00Z",
       "source": "ESPN public game boxscores (unofficial)",
-      "sample_games": 4,
+      "sample_games": 5,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
     },
     {
@@ -1782,11 +1804,11 @@
       "player": "Sandro Mamukelashvili",
       "team": "Los Angeles Lakers",
       "stat": "three_pointers_made",
-      "per_opportunity_rate": 1.0,
+      "per_opportunity_rate": 0.8,
       "projected_opportunities": 1,
       "date": "2026-11-12T01:00Z",
       "source": "ESPN public game boxscores (unofficial)",
-      "sample_games": 4,
+      "sample_games": 5,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
     },
     {
@@ -1794,11 +1816,11 @@
       "player": "Collin Sexton",
       "team": "Los Angeles Lakers",
       "stat": "points",
-      "per_opportunity_rate": 7.5,
+      "per_opportunity_rate": 10.2,
       "projected_opportunities": 1,
       "date": "2026-11-12T01:00Z",
       "source": "ESPN public game boxscores (unofficial)",
-      "sample_games": 4,
+      "sample_games": 5,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
     },
     {
@@ -1806,11 +1828,11 @@
       "player": "Collin Sexton",
       "team": "Los Angeles Lakers",
       "stat": "rebounds",
-      "per_opportunity_rate": 2.25,
+      "per_opportunity_rate": 2.6,
       "projected_opportunities": 1,
       "date": "2026-11-12T01:00Z",
       "source": "ESPN public game boxscores (unofficial)",
-      "sample_games": 4,
+      "sample_games": 5,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
     },
     {
@@ -1818,11 +1840,11 @@
       "player": "Collin Sexton",
       "team": "Los Angeles Lakers",
       "stat": "assists",
-      "per_opportunity_rate": 2.5,
+      "per_opportunity_rate": 2.4,
       "projected_opportunities": 1,
       "date": "2026-11-12T01:00Z",
       "source": "ESPN public game boxscores (unofficial)",
-      "sample_games": 4,
+      "sample_games": 5,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
     },
     {
@@ -1830,11 +1852,11 @@
       "player": "Collin Sexton",
       "team": "Los Angeles Lakers",
       "stat": "three_pointers_made",
-      "per_opportunity_rate": 0.5,
+      "per_opportunity_rate": 1.2,
       "projected_opportunities": 1,
       "date": "2026-11-12T01:00Z",
       "source": "ESPN public game boxscores (unofficial)",
-      "sample_games": 4,
+      "sample_games": 5,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
     },
     {
@@ -1842,11 +1864,11 @@
       "player": "Quentin Grimes",
       "team": "Los Angeles Lakers",
       "stat": "points",
-      "per_opportunity_rate": 5.75,
+      "per_opportunity_rate": 9.2,
       "projected_opportunities": 1,
       "date": "2026-11-12T01:00Z",
       "source": "ESPN public game boxscores (unofficial)",
-      "sample_games": 4,
+      "sample_games": 5,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
     },
     {
@@ -1854,11 +1876,11 @@
       "player": "Quentin Grimes",
       "team": "Los Angeles Lakers",
       "stat": "rebounds",
-      "per_opportunity_rate": 2.25,
+      "per_opportunity_rate": 2.4,
       "projected_opportunities": 1,
       "date": "2026-11-12T01:00Z",
       "source": "ESPN public game boxscores (unofficial)",
-      "sample_games": 4,
+      "sample_games": 5,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
     },
     {
@@ -1866,11 +1888,11 @@
       "player": "Quentin Grimes",
       "team": "Los Angeles Lakers",
       "stat": "assists",
-      "per_opportunity_rate": 2.5,
+      "per_opportunity_rate": 3.0,
       "projected_opportunities": 1,
       "date": "2026-11-12T01:00Z",
       "source": "ESPN public game boxscores (unofficial)",
-      "sample_games": 4,
+      "sample_games": 5,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
     },
     {
@@ -1878,11 +1900,11 @@
       "player": "Quentin Grimes",
       "team": "Los Angeles Lakers",
       "stat": "three_pointers_made",
-      "per_opportunity_rate": 0.75,
+      "per_opportunity_rate": 0.6,
       "projected_opportunities": 1,
       "date": "2026-11-12T01:00Z",
       "source": "ESPN public game boxscores (unofficial)",
-      "sample_games": 4,
+      "sample_games": 5,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
     },
     {
@@ -1938,11 +1960,11 @@
       "player": "Jaden Hardy",
       "team": "Los Angeles Lakers",
       "stat": "points",
-      "per_opportunity_rate": 0.75,
+      "per_opportunity_rate": 1.0,
       "projected_opportunities": 1,
       "date": "2026-11-12T01:00Z",
       "source": "ESPN public game boxscores (unofficial)",
-      "sample_games": 4,
+      "sample_games": 5,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
     },
     {
@@ -1950,11 +1972,11 @@
       "player": "Jaden Hardy",
       "team": "Los Angeles Lakers",
       "stat": "rebounds",
-      "per_opportunity_rate": 0.25,
+      "per_opportunity_rate": 0.2,
       "projected_opportunities": 1,
       "date": "2026-11-12T01:00Z",
       "source": "ESPN public game boxscores (unofficial)",
-      "sample_games": 4,
+      "sample_games": 5,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
     },
     {
@@ -1962,11 +1984,11 @@
       "player": "Jaden Hardy",
       "team": "Los Angeles Lakers",
       "stat": "assists",
-      "per_opportunity_rate": 0.25,
+      "per_opportunity_rate": 0.6,
       "projected_opportunities": 1,
       "date": "2026-11-12T01:00Z",
       "source": "ESPN public game boxscores (unofficial)",
-      "sample_games": 4,
+      "sample_games": 5,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
     },
     {
@@ -1978,7 +2000,7 @@
       "projected_opportunities": 1,
       "date": "2026-11-12T01:00Z",
       "source": "ESPN public game boxscores (unofficial)",
-      "sample_games": 4,
+      "sample_games": 5,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
     },
     {
@@ -3188,7 +3210,7 @@
       "stat": "points",
       "per_opportunity_rate": 19.75,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 4,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -3200,7 +3222,7 @@
       "stat": "rebounds",
       "per_opportunity_rate": 6.0,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 4,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -3212,7 +3234,7 @@
       "stat": "assists",
       "per_opportunity_rate": 4.0,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 4,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -3224,7 +3246,7 @@
       "stat": "three_pointers_made",
       "per_opportunity_rate": 2.5,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 4,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -3236,7 +3258,7 @@
       "stat": "points",
       "per_opportunity_rate": 27.25,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 4,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -3248,7 +3270,7 @@
       "stat": "rebounds",
       "per_opportunity_rate": 8.0,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 4,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -3260,7 +3282,7 @@
       "stat": "assists",
       "per_opportunity_rate": 6.0,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 4,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -3272,7 +3294,7 @@
       "stat": "three_pointers_made",
       "per_opportunity_rate": 0.5,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 4,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -3284,7 +3306,7 @@
       "stat": "points",
       "per_opportunity_rate": 12.5,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 4,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -3296,7 +3318,7 @@
       "stat": "rebounds",
       "per_opportunity_rate": 4.5,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 4,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -3308,7 +3330,7 @@
       "stat": "assists",
       "per_opportunity_rate": 1.0,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 4,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -3320,7 +3342,7 @@
       "stat": "three_pointers_made",
       "per_opportunity_rate": 0.75,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 4,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -3332,7 +3354,7 @@
       "stat": "points",
       "per_opportunity_rate": 17.25,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 4,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -3344,7 +3366,7 @@
       "stat": "rebounds",
       "per_opportunity_rate": 4.25,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 4,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -3356,7 +3378,7 @@
       "stat": "assists",
       "per_opportunity_rate": 6.0,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 4,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -3368,7 +3390,7 @@
       "stat": "three_pointers_made",
       "per_opportunity_rate": 2.5,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 4,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -3380,7 +3402,7 @@
       "stat": "points",
       "per_opportunity_rate": 9.5,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 4,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -3392,7 +3414,7 @@
       "stat": "rebounds",
       "per_opportunity_rate": 3.5,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 4,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -3404,7 +3426,7 @@
       "stat": "assists",
       "per_opportunity_rate": 2.5,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 4,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -3416,7 +3438,7 @@
       "stat": "three_pointers_made",
       "per_opportunity_rate": 1.75,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 4,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -3428,7 +3450,7 @@
       "stat": "points",
       "per_opportunity_rate": 2.0,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -3440,7 +3462,7 @@
       "stat": "rebounds",
       "per_opportunity_rate": 1.0,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -3452,7 +3474,7 @@
       "stat": "assists",
       "per_opportunity_rate": 1.3333,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -3464,7 +3486,7 @@
       "stat": "three_pointers_made",
       "per_opportunity_rate": 0.0,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -3476,7 +3498,7 @@
       "stat": "points",
       "per_opportunity_rate": 1.5,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 4,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -3488,7 +3510,7 @@
       "stat": "rebounds",
       "per_opportunity_rate": 1.25,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 4,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -3500,7 +3522,7 @@
       "stat": "assists",
       "per_opportunity_rate": 0.0,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 4,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -3512,7 +3534,7 @@
       "stat": "three_pointers_made",
       "per_opportunity_rate": 0.0,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 4,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -3524,7 +3546,7 @@
       "stat": "points",
       "per_opportunity_rate": 10.75,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 4,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -3536,7 +3558,7 @@
       "stat": "rebounds",
       "per_opportunity_rate": 1.5,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 4,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -3548,7 +3570,7 @@
       "stat": "assists",
       "per_opportunity_rate": 0.0,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 4,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -3560,7 +3582,7 @@
       "stat": "three_pointers_made",
       "per_opportunity_rate": 2.5,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 4,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -3572,7 +3594,7 @@
       "stat": "points",
       "per_opportunity_rate": 3.75,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 4,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -3584,7 +3606,7 @@
       "stat": "rebounds",
       "per_opportunity_rate": 1.25,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 4,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -3596,7 +3618,7 @@
       "stat": "assists",
       "per_opportunity_rate": 0.75,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 4,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -3608,7 +3630,7 @@
       "stat": "three_pointers_made",
       "per_opportunity_rate": 0.5,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 4,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -3620,7 +3642,7 @@
       "stat": "points",
       "per_opportunity_rate": 5.0,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 4,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -3632,7 +3654,7 @@
       "stat": "rebounds",
       "per_opportunity_rate": 1.75,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 4,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -3644,7 +3666,7 @@
       "stat": "assists",
       "per_opportunity_rate": 6.5,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 4,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -3656,7 +3678,7 @@
       "stat": "three_pointers_made",
       "per_opportunity_rate": 0.75,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 4,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -3668,7 +3690,7 @@
       "stat": "points",
       "per_opportunity_rate": 4.3333,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -3680,7 +3702,7 @@
       "stat": "rebounds",
       "per_opportunity_rate": 1.6667,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -3692,7 +3714,7 @@
       "stat": "assists",
       "per_opportunity_rate": 1.3333,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -3704,7 +3726,7 @@
       "stat": "three_pointers_made",
       "per_opportunity_rate": 0.3333,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -11828,7 +11850,7 @@
       "stat": "points",
       "per_opportunity_rate": 16.0,
       "projected_opportunities": 1,
-      "date": "2026-11-11T01:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -11840,7 +11862,7 @@
       "stat": "rebounds",
       "per_opportunity_rate": 8.6667,
       "projected_opportunities": 1,
-      "date": "2026-11-11T01:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -11852,7 +11874,7 @@
       "stat": "assists",
       "per_opportunity_rate": 8.3333,
       "projected_opportunities": 1,
-      "date": "2026-11-11T01:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -11864,7 +11886,7 @@
       "stat": "three_pointers_made",
       "per_opportunity_rate": 1.0,
       "projected_opportunities": 1,
-      "date": "2026-11-11T01:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -11876,7 +11898,7 @@
       "stat": "points",
       "per_opportunity_rate": 17.0,
       "projected_opportunities": 1,
-      "date": "2026-11-11T01:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -11888,7 +11910,7 @@
       "stat": "rebounds",
       "per_opportunity_rate": 10.0,
       "projected_opportunities": 1,
-      "date": "2026-11-11T01:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -11900,7 +11922,7 @@
       "stat": "assists",
       "per_opportunity_rate": 4.0,
       "projected_opportunities": 1,
-      "date": "2026-11-11T01:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -11912,7 +11934,7 @@
       "stat": "three_pointers_made",
       "per_opportunity_rate": 0.0,
       "projected_opportunities": 1,
-      "date": "2026-11-11T01:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -11924,7 +11946,7 @@
       "stat": "points",
       "per_opportunity_rate": 23.6667,
       "projected_opportunities": 1,
-      "date": "2026-11-11T01:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -11936,7 +11958,7 @@
       "stat": "rebounds",
       "per_opportunity_rate": 7.3333,
       "projected_opportunities": 1,
-      "date": "2026-11-11T01:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -11948,7 +11970,7 @@
       "stat": "assists",
       "per_opportunity_rate": 3.3333,
       "projected_opportunities": 1,
-      "date": "2026-11-11T01:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -11960,7 +11982,7 @@
       "stat": "three_pointers_made",
       "per_opportunity_rate": 2.3333,
       "projected_opportunities": 1,
-      "date": "2026-11-11T01:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -11972,7 +11994,7 @@
       "stat": "points",
       "per_opportunity_rate": 27.5,
       "projected_opportunities": 1,
-      "date": "2026-11-11T01:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 4,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -11984,7 +12006,7 @@
       "stat": "rebounds",
       "per_opportunity_rate": 3.25,
       "projected_opportunities": 1,
-      "date": "2026-11-11T01:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 4,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -11996,7 +12018,7 @@
       "stat": "assists",
       "per_opportunity_rate": 6.5,
       "projected_opportunities": 1,
-      "date": "2026-11-11T01:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 4,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -12008,7 +12030,7 @@
       "stat": "three_pointers_made",
       "per_opportunity_rate": 2.75,
       "projected_opportunities": 1,
-      "date": "2026-11-11T01:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 4,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -12020,7 +12042,7 @@
       "stat": "points",
       "per_opportunity_rate": 13.75,
       "projected_opportunities": 1,
-      "date": "2026-11-11T01:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 4,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -12032,7 +12054,7 @@
       "stat": "rebounds",
       "per_opportunity_rate": 6.25,
       "projected_opportunities": 1,
-      "date": "2026-11-11T01:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 4,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -12044,7 +12066,7 @@
       "stat": "assists",
       "per_opportunity_rate": 3.25,
       "projected_opportunities": 1,
-      "date": "2026-11-11T01:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 4,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -12056,7 +12078,7 @@
       "stat": "three_pointers_made",
       "per_opportunity_rate": 1.5,
       "projected_opportunities": 1,
-      "date": "2026-11-11T01:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 4,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -12068,7 +12090,7 @@
       "stat": "points",
       "per_opportunity_rate": 3.75,
       "projected_opportunities": 1,
-      "date": "2026-11-11T01:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 4,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -12080,7 +12102,7 @@
       "stat": "rebounds",
       "per_opportunity_rate": 3.5,
       "projected_opportunities": 1,
-      "date": "2026-11-11T01:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 4,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -12092,7 +12114,7 @@
       "stat": "assists",
       "per_opportunity_rate": 3.25,
       "projected_opportunities": 1,
-      "date": "2026-11-11T01:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 4,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -12104,7 +12126,7 @@
       "stat": "three_pointers_made",
       "per_opportunity_rate": 0.5,
       "projected_opportunities": 1,
-      "date": "2026-11-11T01:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 4,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -12116,7 +12138,7 @@
       "stat": "points",
       "per_opportunity_rate": 2.5,
       "projected_opportunities": 1,
-      "date": "2026-11-11T01:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 4,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -12128,7 +12150,7 @@
       "stat": "rebounds",
       "per_opportunity_rate": 3.75,
       "projected_opportunities": 1,
-      "date": "2026-11-11T01:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 4,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -12140,7 +12162,7 @@
       "stat": "assists",
       "per_opportunity_rate": 1.0,
       "projected_opportunities": 1,
-      "date": "2026-11-11T01:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 4,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -12152,7 +12174,7 @@
       "stat": "three_pointers_made",
       "per_opportunity_rate": 0.0,
       "projected_opportunities": 1,
-      "date": "2026-11-11T01:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 4,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -12164,7 +12186,7 @@
       "stat": "points",
       "per_opportunity_rate": 4.0,
       "projected_opportunities": 1,
-      "date": "2026-11-11T01:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 4,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -12176,7 +12198,7 @@
       "stat": "rebounds",
       "per_opportunity_rate": 1.75,
       "projected_opportunities": 1,
-      "date": "2026-11-11T01:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 4,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -12188,7 +12210,7 @@
       "stat": "assists",
       "per_opportunity_rate": 1.0,
       "projected_opportunities": 1,
-      "date": "2026-11-11T01:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 4,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -12200,7 +12222,7 @@
       "stat": "three_pointers_made",
       "per_opportunity_rate": 1.0,
       "projected_opportunities": 1,
-      "date": "2026-11-11T01:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 4,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -12212,7 +12234,7 @@
       "stat": "points",
       "per_opportunity_rate": 11.5,
       "projected_opportunities": 1,
-      "date": "2026-11-11T01:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 4,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -12224,7 +12246,7 @@
       "stat": "rebounds",
       "per_opportunity_rate": 1.25,
       "projected_opportunities": 1,
-      "date": "2026-11-11T01:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 4,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -12236,7 +12258,7 @@
       "stat": "assists",
       "per_opportunity_rate": 1.0,
       "projected_opportunities": 1,
-      "date": "2026-11-11T01:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 4,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -12248,7 +12270,7 @@
       "stat": "three_pointers_made",
       "per_opportunity_rate": 2.75,
       "projected_opportunities": 1,
-      "date": "2026-11-11T01:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 4,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -12260,7 +12282,7 @@
       "stat": "points",
       "per_opportunity_rate": 22.6667,
       "projected_opportunities": 1,
-      "date": "2026-11-10T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -12272,7 +12294,7 @@
       "stat": "rebounds",
       "per_opportunity_rate": 2.3333,
       "projected_opportunities": 1,
-      "date": "2026-11-10T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -12284,7 +12306,7 @@
       "stat": "assists",
       "per_opportunity_rate": 2.3333,
       "projected_opportunities": 1,
-      "date": "2026-11-10T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -12296,7 +12318,7 @@
       "stat": "three_pointers_made",
       "per_opportunity_rate": 5.0,
       "projected_opportunities": 1,
-      "date": "2026-11-10T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -12308,7 +12330,7 @@
       "stat": "points",
       "per_opportunity_rate": 8.0,
       "projected_opportunities": 1,
-      "date": "2026-11-10T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -12320,7 +12342,7 @@
       "stat": "rebounds",
       "per_opportunity_rate": 4.3333,
       "projected_opportunities": 1,
-      "date": "2026-11-10T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -12332,7 +12354,7 @@
       "stat": "assists",
       "per_opportunity_rate": 0.3333,
       "projected_opportunities": 1,
-      "date": "2026-11-10T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -12344,7 +12366,7 @@
       "stat": "three_pointers_made",
       "per_opportunity_rate": 0.0,
       "projected_opportunities": 1,
-      "date": "2026-11-10T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -12356,7 +12378,7 @@
       "stat": "points",
       "per_opportunity_rate": 10.3333,
       "projected_opportunities": 1,
-      "date": "2026-11-10T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -12368,7 +12390,7 @@
       "stat": "rebounds",
       "per_opportunity_rate": 5.3333,
       "projected_opportunities": 1,
-      "date": "2026-11-10T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -12380,7 +12402,7 @@
       "stat": "assists",
       "per_opportunity_rate": 3.0,
       "projected_opportunities": 1,
-      "date": "2026-11-10T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -12392,7 +12414,7 @@
       "stat": "three_pointers_made",
       "per_opportunity_rate": 0.0,
       "projected_opportunities": 1,
-      "date": "2026-11-10T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -12404,7 +12426,7 @@
       "stat": "points",
       "per_opportunity_rate": 26.3333,
       "projected_opportunities": 1,
-      "date": "2026-11-10T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -12416,7 +12438,7 @@
       "stat": "rebounds",
       "per_opportunity_rate": 5.6667,
       "projected_opportunities": 1,
-      "date": "2026-11-10T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -12428,7 +12450,7 @@
       "stat": "assists",
       "per_opportunity_rate": 7.3333,
       "projected_opportunities": 1,
-      "date": "2026-11-10T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -12440,7 +12462,7 @@
       "stat": "three_pointers_made",
       "per_opportunity_rate": 2.0,
       "projected_opportunities": 1,
-      "date": "2026-11-10T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -12452,7 +12474,7 @@
       "stat": "points",
       "per_opportunity_rate": 12.0,
       "projected_opportunities": 1,
-      "date": "2026-11-10T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -12464,7 +12486,7 @@
       "stat": "rebounds",
       "per_opportunity_rate": 10.3333,
       "projected_opportunities": 1,
-      "date": "2026-11-10T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -12476,7 +12498,7 @@
       "stat": "assists",
       "per_opportunity_rate": 4.3333,
       "projected_opportunities": 1,
-      "date": "2026-11-10T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -12488,7 +12510,7 @@
       "stat": "three_pointers_made",
       "per_opportunity_rate": 0.0,
       "projected_opportunities": 1,
-      "date": "2026-11-10T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -12500,7 +12522,7 @@
       "stat": "points",
       "per_opportunity_rate": 1.0,
       "projected_opportunities": 1,
-      "date": "2026-11-10T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -12512,7 +12534,7 @@
       "stat": "rebounds",
       "per_opportunity_rate": 1.3333,
       "projected_opportunities": 1,
-      "date": "2026-11-10T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -12524,7 +12546,7 @@
       "stat": "assists",
       "per_opportunity_rate": 0.3333,
       "projected_opportunities": 1,
-      "date": "2026-11-10T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -12536,7 +12558,7 @@
       "stat": "three_pointers_made",
       "per_opportunity_rate": 0.0,
       "projected_opportunities": 1,
-      "date": "2026-11-10T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -12548,7 +12570,7 @@
       "stat": "points",
       "per_opportunity_rate": 10.6667,
       "projected_opportunities": 1,
-      "date": "2026-11-10T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -12560,7 +12582,7 @@
       "stat": "rebounds",
       "per_opportunity_rate": 2.3333,
       "projected_opportunities": 1,
-      "date": "2026-11-10T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -12572,7 +12594,7 @@
       "stat": "assists",
       "per_opportunity_rate": 0.6667,
       "projected_opportunities": 1,
-      "date": "2026-11-10T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -12584,7 +12606,7 @@
       "stat": "three_pointers_made",
       "per_opportunity_rate": 2.0,
       "projected_opportunities": 1,
-      "date": "2026-11-10T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -12596,7 +12618,7 @@
       "stat": "points",
       "per_opportunity_rate": 4.0,
       "projected_opportunities": 1,
-      "date": "2026-11-10T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -12608,7 +12630,7 @@
       "stat": "rebounds",
       "per_opportunity_rate": 2.6667,
       "projected_opportunities": 1,
-      "date": "2026-11-10T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -12620,7 +12642,7 @@
       "stat": "assists",
       "per_opportunity_rate": 0.6667,
       "projected_opportunities": 1,
-      "date": "2026-11-10T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -12632,7 +12654,7 @@
       "stat": "three_pointers_made",
       "per_opportunity_rate": 0.6667,
       "projected_opportunities": 1,
-      "date": "2026-11-10T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -12644,7 +12666,7 @@
       "stat": "points",
       "per_opportunity_rate": 8.3333,
       "projected_opportunities": 1,
-      "date": "2026-11-10T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -12656,7 +12678,7 @@
       "stat": "rebounds",
       "per_opportunity_rate": 1.3333,
       "projected_opportunities": 1,
-      "date": "2026-11-10T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -12668,7 +12690,7 @@
       "stat": "assists",
       "per_opportunity_rate": 2.0,
       "projected_opportunities": 1,
-      "date": "2026-11-10T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -12680,7 +12702,7 @@
       "stat": "three_pointers_made",
       "per_opportunity_rate": 2.3333,
       "projected_opportunities": 1,
-      "date": "2026-11-10T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -12692,7 +12714,7 @@
       "stat": "points",
       "per_opportunity_rate": 4.3333,
       "projected_opportunities": 1,
-      "date": "2026-11-10T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -12704,7 +12726,7 @@
       "stat": "rebounds",
       "per_opportunity_rate": 1.6667,
       "projected_opportunities": 1,
-      "date": "2026-11-10T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -12716,7 +12738,7 @@
       "stat": "assists",
       "per_opportunity_rate": 5.3333,
       "projected_opportunities": 1,
-      "date": "2026-11-10T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -12728,7 +12750,7 @@
       "stat": "three_pointers_made",
       "per_opportunity_rate": 1.0,
       "projected_opportunities": 1,
-      "date": "2026-11-10T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -13172,7 +13194,7 @@
       "stat": "points",
       "per_opportunity_rate": 26.0,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -13184,7 +13206,7 @@
       "stat": "rebounds",
       "per_opportunity_rate": 10.6667,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -13196,7 +13218,7 @@
       "stat": "assists",
       "per_opportunity_rate": 1.6667,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -13208,7 +13230,7 @@
       "stat": "three_pointers_made",
       "per_opportunity_rate": 0.3333,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -13220,7 +13242,7 @@
       "stat": "points",
       "per_opportunity_rate": 15.6667,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -13232,7 +13254,7 @@
       "stat": "rebounds",
       "per_opportunity_rate": 6.0,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -13244,7 +13266,7 @@
       "stat": "assists",
       "per_opportunity_rate": 2.0,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -13256,7 +13278,7 @@
       "stat": "three_pointers_made",
       "per_opportunity_rate": 0.6667,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -13268,7 +13290,7 @@
       "stat": "points",
       "per_opportunity_rate": 19.6667,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -13280,7 +13302,7 @@
       "stat": "rebounds",
       "per_opportunity_rate": 3.6667,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -13292,7 +13314,7 @@
       "stat": "assists",
       "per_opportunity_rate": 5.0,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -13304,7 +13326,7 @@
       "stat": "three_pointers_made",
       "per_opportunity_rate": 3.6667,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -13316,7 +13338,7 @@
       "stat": "points",
       "per_opportunity_rate": 18.0,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -13328,7 +13350,7 @@
       "stat": "rebounds",
       "per_opportunity_rate": 3.6667,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -13340,7 +13362,7 @@
       "stat": "assists",
       "per_opportunity_rate": 8.0,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -13352,7 +13374,7 @@
       "stat": "three_pointers_made",
       "per_opportunity_rate": 1.6667,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -13364,7 +13386,7 @@
       "stat": "points",
       "per_opportunity_rate": 4.0,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -13376,7 +13398,7 @@
       "stat": "rebounds",
       "per_opportunity_rate": 4.6667,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -13388,7 +13410,7 @@
       "stat": "assists",
       "per_opportunity_rate": 1.3333,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -13400,7 +13422,7 @@
       "stat": "three_pointers_made",
       "per_opportunity_rate": 0.0,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -13412,7 +13434,7 @@
       "stat": "points",
       "per_opportunity_rate": 4.0,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -13424,7 +13446,7 @@
       "stat": "rebounds",
       "per_opportunity_rate": 3.0,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -13436,7 +13458,7 @@
       "stat": "assists",
       "per_opportunity_rate": 2.6667,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -13448,7 +13470,7 @@
       "stat": "three_pointers_made",
       "per_opportunity_rate": 1.3333,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -13460,7 +13482,7 @@
       "stat": "points",
       "per_opportunity_rate": 4.6667,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -13472,7 +13494,7 @@
       "stat": "rebounds",
       "per_opportunity_rate": 2.6667,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -13484,7 +13506,7 @@
       "stat": "assists",
       "per_opportunity_rate": 1.6667,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -13496,7 +13518,7 @@
       "stat": "three_pointers_made",
       "per_opportunity_rate": 0.0,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -13508,7 +13530,7 @@
       "stat": "points",
       "per_opportunity_rate": 0.0,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -13520,7 +13542,7 @@
       "stat": "rebounds",
       "per_opportunity_rate": 0.0,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -13532,7 +13554,7 @@
       "stat": "assists",
       "per_opportunity_rate": 0.3333,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -13544,7 +13566,7 @@
       "stat": "three_pointers_made",
       "per_opportunity_rate": 0.0,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -13556,7 +13578,7 @@
       "stat": "points",
       "per_opportunity_rate": 3.6667,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -13568,7 +13590,7 @@
       "stat": "rebounds",
       "per_opportunity_rate": 2.3333,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -13580,7 +13602,7 @@
       "stat": "assists",
       "per_opportunity_rate": 0.0,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -13592,7 +13614,7 @@
       "stat": "three_pointers_made",
       "per_opportunity_rate": 0.3333,
       "projected_opportunities": 1,
-      "date": "2026-11-12T00:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -14516,7 +14538,7 @@
       "stat": "points",
       "per_opportunity_rate": 2.3333,
       "projected_opportunities": 1,
-      "date": "2026-11-11T01:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -14528,7 +14550,7 @@
       "stat": "rebounds",
       "per_opportunity_rate": 1.0,
       "projected_opportunities": 1,
-      "date": "2026-11-11T01:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -14540,7 +14562,7 @@
       "stat": "assists",
       "per_opportunity_rate": 0.0,
       "projected_opportunities": 1,
-      "date": "2026-11-11T01:00Z",
+      "date": "2026-11-13T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
@@ -14552,13 +14574,109 @@
       "stat": "three_pointers_made",
       "per_opportunity_rate": 0.3333,
       "projected_opportunities": 1,
-      "date": "2026-11-11T01:00Z",
+      "date": "2026-11-13T00:00Z",
+      "source": "ESPN public game boxscores (unofficial)",
+      "sample_games": 3,
+      "method": "mean of available recent appearances; no minutes/injury adjustment"
+    },
+    {
+      "sport": "NBA",
+      "player": "Nick Martinelli",
+      "team": "LA Clippers",
+      "stat": "points",
+      "per_opportunity_rate": 5.0,
+      "projected_opportunities": 1,
+      "date": "2026-11-11T02:00Z",
+      "source": "ESPN public game boxscores (unofficial)",
+      "sample_games": 3,
+      "method": "mean of available recent appearances; no minutes/injury adjustment"
+    },
+    {
+      "sport": "NBA",
+      "player": "Nick Martinelli",
+      "team": "LA Clippers",
+      "stat": "rebounds",
+      "per_opportunity_rate": 2.0,
+      "projected_opportunities": 1,
+      "date": "2026-11-11T02:00Z",
+      "source": "ESPN public game boxscores (unofficial)",
+      "sample_games": 3,
+      "method": "mean of available recent appearances; no minutes/injury adjustment"
+    },
+    {
+      "sport": "NBA",
+      "player": "Nick Martinelli",
+      "team": "LA Clippers",
+      "stat": "assists",
+      "per_opportunity_rate": 0.3333,
+      "projected_opportunities": 1,
+      "date": "2026-11-11T02:00Z",
+      "source": "ESPN public game boxscores (unofficial)",
+      "sample_games": 3,
+      "method": "mean of available recent appearances; no minutes/injury adjustment"
+    },
+    {
+      "sport": "NBA",
+      "player": "Nick Martinelli",
+      "team": "LA Clippers",
+      "stat": "three_pointers_made",
+      "per_opportunity_rate": 0.6667,
+      "projected_opportunities": 1,
+      "date": "2026-11-11T02:00Z",
+      "source": "ESPN public game boxscores (unofficial)",
+      "sample_games": 3,
+      "method": "mean of available recent appearances; no minutes/injury adjustment"
+    },
+    {
+      "sport": "NBA",
+      "player": "Cam Christie",
+      "team": "LA Clippers",
+      "stat": "points",
+      "per_opportunity_rate": 2.3333,
+      "projected_opportunities": 1,
+      "date": "2026-11-11T02:00Z",
+      "source": "ESPN public game boxscores (unofficial)",
+      "sample_games": 3,
+      "method": "mean of available recent appearances; no minutes/injury adjustment"
+    },
+    {
+      "sport": "NBA",
+      "player": "Cam Christie",
+      "team": "LA Clippers",
+      "stat": "rebounds",
+      "per_opportunity_rate": 0.6667,
+      "projected_opportunities": 1,
+      "date": "2026-11-11T02:00Z",
+      "source": "ESPN public game boxscores (unofficial)",
+      "sample_games": 3,
+      "method": "mean of available recent appearances; no minutes/injury adjustment"
+    },
+    {
+      "sport": "NBA",
+      "player": "Cam Christie",
+      "team": "LA Clippers",
+      "stat": "assists",
+      "per_opportunity_rate": 0.3333,
+      "projected_opportunities": 1,
+      "date": "2026-11-11T02:00Z",
+      "source": "ESPN public game boxscores (unofficial)",
+      "sample_games": 3,
+      "method": "mean of available recent appearances; no minutes/injury adjustment"
+    },
+    {
+      "sport": "NBA",
+      "player": "Cam Christie",
+      "team": "LA Clippers",
+      "stat": "three_pointers_made",
+      "per_opportunity_rate": 0.3333,
+      "projected_opportunities": 1,
+      "date": "2026-11-11T02:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "sample_games": 3,
       "method": "mean of available recent appearances; no minutes/injury adjustment"
     }
   ],
-  "generated_at": "2026-11-05T18:44:18.088426+00:00",
+  "generated_at": "2026-11-06T00:46:08.614226+00:00",
   "method": "Recent scoring margin plus opponent-strength adjustment; experimental, uncalibrated",
   "warnings": [
     "No verified injuries, lineups, coaching adjustments, or player projections.",
