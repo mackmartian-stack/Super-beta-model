@@ -1,7 +1,7 @@
 {
   "model": "Super Beta Model 2.0",
   "status": "predictions_available",
-  "generated_at": "2026-11-07T00:26:16.509100+00:00",
+  "generated_at": "2026-11-07T00:44:27.196876+00:00",
   "experimental": true,
   "calibrated": false,
   "note": "No proven betting edge. Inputs must be verified and dated.",
@@ -99,19 +99,6 @@
     },
     {
       "sport": "NBA",
-      "game_id": "401909288",
-      "date": "2026-11-07T00:00Z",
-      "home_team": "Charlotte Hornets",
-      "away_team": "Boston Celtics",
-      "predicted_winner": "Boston Celtics",
-      "home_win_probability": 0.1727,
-      "away_win_probability": 0.8273,
-      "projected_home_margin": -12.53,
-      "confidence": "uncalibrated",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261106&limit=500"
-    },
-    {
-      "sport": "NBA",
       "game_id": "401909971",
       "date": "2026-11-12T01:00Z",
       "home_team": "Milwaukee Bucks",
@@ -161,6 +148,19 @@
       "projected_home_margin": 10.38,
       "confidence": "uncalibrated",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261109&limit=500"
+    },
+    {
+      "sport": "NBA",
+      "game_id": "401909291",
+      "date": "2026-11-07T01:00Z",
+      "home_team": "Memphis Grizzlies",
+      "away_team": "Oklahoma City Thunder",
+      "predicted_winner": "Memphis Grizzlies",
+      "home_win_probability": 0.7801,
+      "away_win_probability": 0.2199,
+      "projected_home_margin": 10.13,
+      "confidence": "uncalibrated",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261106&limit=500"
     }
   ],
   "player_predictions": [
@@ -276,11 +276,11 @@
     },
     {
       "sport": "NBA",
-      "player": "Anthony Davis",
-      "team": "Washington Wizards",
+      "player": "Jayson Tatum",
+      "team": "Boston Celtics",
       "stat": "points",
-      "projection": 26.0,
-      "date": "2026-11-13T00:00Z",
+      "projection": 25.67,
+      "date": "2026-11-12T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "confidence": "uncalibrated"
     }
