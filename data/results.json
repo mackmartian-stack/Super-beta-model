@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T06:43:52.923078+00:00",
+  "generated_at": "2026-11-07T12:36:56.514972+00:00",
   "games": [
     {
       "sport": "CFB",
@@ -3377,6 +3377,17 @@
       "away_score": 124.0,
       "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261106&limit=500"
+    },
+    {
+      "sport": "CFB",
+      "game_id": "401856855",
+      "date": "2026-11-07T03:15Z",
+      "home_team": "Arizona Wildcats",
+      "away_team": "TCU Horned Frogs",
+      "home_score": 29.0,
+      "away_score": 28.0,
+      "status": "STATUS_FINAL",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261106&limit=500&groups=80"
     }
   ]
 }

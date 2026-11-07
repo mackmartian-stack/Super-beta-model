@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T06:43:52.923078+00:00",
+  "generated_at": "2026-11-07T12:36:56.514972+00:00",
   "ratings": {
     "NFL": {
       "Los Angeles Rams": {
@@ -667,16 +667,16 @@
         "avg_allowed": 13.0
       },
       "Texas Tech Red Raiders": {
-        "rating": 105.312,
+        "rating": 106.171,
         "games": 1,
         "avg_scored": 34.0,
         "avg_allowed": 26.0
       },
       "Arizona Wildcats": {
-        "rating": 94.688,
-        "games": 1,
-        "avg_scored": 26.0,
-        "avg_allowed": 34.0
+        "rating": 98.901,
+        "games": 2,
+        "avg_scored": 27.5,
+        "avg_allowed": 31.0
       },
       "SMU Mustangs": {
         "rating": 109.224,
@@ -853,13 +853,13 @@
         "avg_allowed": 34.0
       },
       "TCU Horned Frogs": {
-        "rating": 103.984,
-        "games": 1,
-        "avg_scored": 22.0,
-        "avg_allowed": 16.0
+        "rating": 100.599,
+        "games": 2,
+        "avg_scored": 25.0,
+        "avg_allowed": 22.5
       },
       "Kansas Jayhawks": {
-        "rating": 96.016,
+        "rating": 95.329,
         "games": 1,
         "avg_scored": 16.0,
         "avg_allowed": 22.0

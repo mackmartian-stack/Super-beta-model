@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-07T06:43:52.923078+00:00",
+  "collected_at": "2026-11-07T12:36:56.514972+00:00",
   "games": [
     {
       "sport": "CFB",
@@ -2770,7 +2770,7 @@
       "date": "2026-11-07T03:15Z",
       "home_team": "Arizona Wildcats",
       "away_team": "TCU Horned Frogs",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261106&limit=500&groups=80"
     },
     {
