@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-07T00:43:13.415811+00:00",
+  "collected_at": "2026-11-07T06:43:52.923078+00:00",
   "games": [
     {
       "sport": "CFB",
@@ -2653,7 +2653,7 @@
       "date": "2026-11-07T00:00Z",
       "home_team": "SMU Mustangs",
       "away_team": "Virginia Tech Hokies",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261106&limit=500&groups=80"
     },
     {
@@ -2662,7 +2662,7 @@
       "date": "2026-11-07T00:00Z",
       "home_team": "Atlanta Hawks",
       "away_team": "Washington Wizards",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261106&limit=500"
     },
     {
@@ -2671,7 +2671,7 @@
       "date": "2026-11-07T00:00Z",
       "home_team": "Charlotte Hornets",
       "away_team": "Boston Celtics",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261106&limit=500"
     },
     {
@@ -2680,7 +2680,7 @@
       "date": "2026-11-07T00:30Z",
       "home_team": "East Carolina Pirates",
       "away_team": "South Florida Bulls",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261106&limit=500&groups=80"
     },
     {
@@ -2689,7 +2689,7 @@
       "date": "2026-11-07T00:30Z",
       "home_team": "Cleveland Cavaliers",
       "away_team": "Philadelphia 76ers",
-      "status": "STATUS_SCHEDULED",
+      "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261106&limit=500"
     },
     {
@@ -2698,7 +2698,7 @@
       "date": "2026-11-07T01:00Z",
       "home_team": "Illinois Fighting Illini",
       "away_team": "Nebraska Cornhuskers",
-      "status": "STATUS_SCHEDULED",
+      "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261106&limit=500&groups=80"
     },
     {
@@ -2707,7 +2707,7 @@
       "date": "2026-11-07T01:00Z",
       "home_team": "Dallas Mavericks",
       "away_team": "Utah Jazz",
-      "status": "STATUS_SCHEDULED",
+      "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261106&limit=500"
     },
     {
@@ -2716,7 +2716,7 @@
       "date": "2026-11-07T01:00Z",
       "home_team": "Memphis Grizzlies",
       "away_team": "Oklahoma City Thunder",
-      "status": "STATUS_SCHEDULED",
+      "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261106&limit=500"
     },
     {
@@ -2725,7 +2725,7 @@
       "date": "2026-11-07T01:00Z",
       "home_team": "Milwaukee Bucks",
       "away_team": "Toronto Raptors",
-      "status": "STATUS_SCHEDULED",
+      "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261106&limit=500"
     },
     {
@@ -2734,7 +2734,7 @@
       "date": "2026-11-07T01:00Z",
       "home_team": "New Orleans Pelicans",
       "away_team": "Minnesota Timberwolves",
-      "status": "STATUS_SCHEDULED",
+      "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261106&limit=500"
     },
     {
@@ -2743,7 +2743,7 @@
       "date": "2026-11-07T02:00Z",
       "home_team": "Nevada Wolf Pack",
       "away_team": "New Mexico Lobos",
-      "status": "STATUS_SCHEDULED",
+      "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261106&limit=500&groups=80"
     },
     {
@@ -2752,7 +2752,7 @@
       "date": "2026-11-07T03:00Z",
       "home_team": "Los Angeles Lakers",
       "away_team": "Portland Trail Blazers",
-      "status": "STATUS_SCHEDULED",
+      "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261106&limit=500"
     },
     {
@@ -2761,7 +2761,7 @@
       "date": "2026-11-07T03:00Z",
       "home_team": "Sacramento Kings",
       "away_team": "San Antonio Spurs",
-      "status": "STATUS_SCHEDULED",
+      "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261106&limit=500"
     },
     {
@@ -2770,7 +2770,7 @@
       "date": "2026-11-07T03:15Z",
       "home_team": "Arizona Wildcats",
       "away_team": "TCU Horned Frogs",
-      "status": "STATUS_SCHEDULED",
+      "status": "STATUS_IN_PROGRESS",
       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261106&limit=500&groups=80"
     },
     {
