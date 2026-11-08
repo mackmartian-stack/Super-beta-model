@@ -107,7 +107,13 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261107&limit=500"
       },
       "first_recorded_at": "2026-11-03T08:16:42.717975+00:00",
-      "result": null
+      "result": {
+        "home_score": 102.0,
+        "away_score": 99.0,
+        "correct_winner": false,
+        "actual_home_win": true,
+        "settled_at": "2026-11-08T06:46:08.455961+00:00"
+      }
     },
     "NBA:401909947": {
       "forecast": {
@@ -375,7 +381,13 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261107&limit=500"
       },
       "first_recorded_at": "2026-11-05T07:00:44.030904+00:00",
-      "result": null
+      "result": {
+        "home_score": 126.0,
+        "away_score": 119.0,
+        "correct_winner": true,
+        "actual_home_win": true,
+        "settled_at": "2026-11-08T06:46:08.455952+00:00"
+      }
     },
     "NBA:401909965": {
       "forecast": {
@@ -511,6 +523,40 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261112&limit=500"
       },
       "first_recorded_at": "2026-11-07T06:45:23.400779+00:00",
+      "result": null
+    },
+    "NBA:401909984": {
+      "forecast": {
+        "sport": "NBA",
+        "game_id": "401909984",
+        "date": "2026-11-15T01:00Z",
+        "home_team": "Minnesota Timberwolves",
+        "away_team": "Chicago Bulls",
+        "predicted_winner": "Minnesota Timberwolves",
+        "home_win_probability": 0.9187,
+        "away_win_probability": 0.0813,
+        "projected_home_margin": 19.4,
+        "confidence": "uncalibrated",
+        "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261114&limit=500"
+      },
+      "first_recorded_at": "2026-11-08T06:46:08.416781+00:00",
+      "result": null
+    },
+    "NBA:401909977": {
+      "forecast": {
+        "sport": "NBA",
+        "game_id": "401909977",
+        "date": "2026-11-13T00:00Z",
+        "home_team": "Washington Wizards",
+        "away_team": "Detroit Pistons",
+        "predicted_winner": "Detroit Pistons",
+        "home_win_probability": 0.196,
+        "away_win_probability": 0.804,
+        "projected_home_margin": -11.29,
+        "confidence": "uncalibrated",
+        "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261112&limit=500"
+      },
+      "first_recorded_at": "2026-11-08T06:46:08.416781+00:00",
       "result": null
     }
   },
