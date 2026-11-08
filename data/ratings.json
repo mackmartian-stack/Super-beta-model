@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T06:44:56.598671+00:00",
+  "generated_at": "2026-11-08T12:35:51.935632+00:00",
   "ratings": {
     "NFL": {
       "Buffalo Bills": {
@@ -349,13 +349,13 @@
     },
     "CFB": {
       "Eastern Michigan Eagles": {
-        "rating": 86.373,
+        "rating": 86.363,
         "games": 2,
         "avg_scored": 14.0,
         "avg_allowed": 31.0
       },
       "San Jos\u00e9 State Spartans": {
-        "rating": 103.677,
+        "rating": 103.535,
         "games": 3,
         "avg_scored": 23.33,
         "avg_allowed": 18.67
@@ -529,13 +529,13 @@
         "avg_allowed": 84.0
       },
       "Temple Owls": {
-        "rating": 95.623,
+        "rating": 95.622,
         "games": 2,
         "avg_scored": 26.0,
         "avg_allowed": 31.5
       },
       "Army Black Knights": {
-        "rating": 101.461,
+        "rating": 101.446,
         "games": 3,
         "avg_scored": 26.67,
         "avg_allowed": 25.33
@@ -643,10 +643,10 @@
         "avg_allowed": 17.0
       },
       "Wyoming Cowboys": {
-        "rating": 108.339,
-        "games": 2,
-        "avg_scored": 22.0,
-        "avg_allowed": 13.5
+        "rating": 106.193,
+        "games": 3,
+        "avg_scored": 28.33,
+        "avg_allowed": 20.67
       },
       "BYU Cougars": {
         "rating": 99.78,
@@ -703,13 +703,13 @@
         "avg_allowed": 32.5
       },
       "Tulsa Golden Hurricane": {
-        "rating": 123.961,
+        "rating": 123.96,
         "games": 2,
         "avg_scored": 47.5,
         "avg_allowed": 24.0
       },
       "Air Force Falcons": {
-        "rating": 98.605,
+        "rating": 98.465,
         "games": 2,
         "avg_scored": 19.0,
         "avg_allowed": 24.5
@@ -775,7 +775,7 @@
         "avg_allowed": 31.0
       },
       "Central Michigan Chippewas": {
-        "rating": 119.624,
+        "rating": 119.623,
         "games": 1,
         "avg_scored": 35.0,
         "avg_allowed": 7.0
@@ -1027,7 +1027,7 @@
         "avg_allowed": 52.0
       },
       "Northern Illinois Huskies": {
-        "rating": 91.953,
+        "rating": 91.922,
         "games": 1,
         "avg_scored": 19.0,
         "avg_allowed": 30.0
@@ -1187,6 +1187,24 @@
         "games": 1,
         "avg_scored": 17.0,
         "avg_allowed": 14.0
+      },
+      "Oregon State Beavers": {
+        "rating": 86.056,
+        "games": 1,
+        "avg_scored": 21.0,
+        "avg_allowed": 42.0
+      },
+      "Texas State Bobcats": {
+        "rating": 113.944,
+        "games": 1,
+        "avg_scored": 42.0,
+        "avg_allowed": 21.0
+      },
+      "UNLV Rebels": {
+        "rating": 96.443,
+        "games": 1,
+        "avg_scored": 35.0,
+        "avg_allowed": 41.0
       }
     }
   },

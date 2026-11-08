@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T06:44:56.598671+00:00",
+  "generated_at": "2026-11-08T12:35:51.935632+00:00",
   "games": [
     {
       "sport": "CFB",
@@ -3531,6 +3531,28 @@
       "away_score": 125.0,
       "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261107&limit=500"
+    },
+    {
+      "sport": "CFB",
+      "game_id": "401860912",
+      "date": "2026-11-08T03:30Z",
+      "home_team": "Oregon State Beavers",
+      "away_team": "Texas State Bobcats",
+      "home_score": 21.0,
+      "away_score": 42.0,
+      "status": "STATUS_FINAL",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261107&limit=500&groups=80"
+    },
+    {
+      "sport": "CFB",
+      "game_id": "401864535",
+      "date": "2026-11-08T03:30Z",
+      "home_team": "UNLV Rebels",
+      "away_team": "Wyoming Cowboys",
+      "home_score": 35.0,
+      "away_score": 41.0,
+      "status": "STATUS_FINAL",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261107&limit=500&groups=80"
     }
   ]
 }
