@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T12:35:51.935632+00:00",
+  "generated_at": "2026-11-08T18:30:23.382706+00:00",
   "ratings": {
     "NFL": {
       "Buffalo Bills": {
@@ -15,13 +15,13 @@
         "avg_allowed": 34.5
       },
       "Cincinnati Bengals": {
-        "rating": 104.648,
-        "games": 1,
-        "avg_scored": 43.0,
-        "avg_allowed": 36.0
+        "rating": 109.123,
+        "games": 2,
+        "avg_scored": 38.5,
+        "avg_allowed": 26.5
       },
       "Tennessee Titans": {
-        "rating": 95.352,
+        "rating": 96.27,
         "games": 1,
         "avg_scored": 36.0,
         "avg_allowed": 43.0
@@ -75,16 +75,16 @@
         "avg_allowed": 27.0
       },
       "Tampa Bay Buccaneers": {
-        "rating": 110.624,
+        "rating": 110.479,
         "games": 1,
         "avg_scored": 16.0,
         "avg_allowed": 0.0
       },
       "Atlanta Falcons": {
-        "rating": 89.376,
-        "games": 1,
-        "avg_scored": 0.0,
-        "avg_allowed": 16.0
+        "rating": 88.627,
+        "games": 2,
+        "avg_scored": 8.5,
+        "avg_allowed": 25.0
       },
       "Jacksonville Jaguars": {
         "rating": 117.815,

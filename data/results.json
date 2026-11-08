@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T12:35:51.935632+00:00",
+  "generated_at": "2026-11-08T18:30:23.382706+00:00",
   "games": [
     {
       "sport": "CFB",
@@ -3553,6 +3553,17 @@
       "away_score": 41.0,
       "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261107&limit=500&groups=80"
+    },
+    {
+      "sport": "NFL",
+      "game_id": "401873038",
+      "date": "2026-11-08T14:30Z",
+      "home_team": "Atlanta Falcons",
+      "away_team": "Cincinnati Bengals",
+      "home_score": 17.0,
+      "away_score": 34.0,
+      "status": "STATUS_FINAL",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261108&limit=500"
     }
   ]
 }
