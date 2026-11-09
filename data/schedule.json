@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-09T00:44:57.662148+00:00",
+  "collected_at": "2026-11-09T07:10:36.782587+00:00",
   "games": [
     {
       "sport": "CFB",
@@ -7306,7 +7306,7 @@
       "date": "2026-11-08T23:00Z",
       "home_team": "Detroit Pistons",
       "away_team": "Los Angeles Lakers",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261108&limit=500"
     },
     {
@@ -7315,7 +7315,7 @@
       "date": "2026-11-09T00:00Z",
       "home_team": "Minnesota Timberwolves",
       "away_team": "Utah Jazz",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261108&limit=500"
     },
     {
@@ -7324,7 +7324,7 @@
       "date": "2026-11-09T00:30Z",
       "home_team": "Dallas Mavericks",
       "away_team": "Brooklyn Nets",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261108&limit=500"
     },
     {
@@ -7333,7 +7333,7 @@
       "date": "2026-11-09T01:00Z",
       "home_team": "Milwaukee Bucks",
       "away_team": "Boston Celtics",
-      "status": "STATUS_SCHEDULED",
+      "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261108&limit=500"
     },
     {
@@ -7342,7 +7342,7 @@
       "date": "2026-11-09T01:20Z",
       "home_team": "Chicago Bears",
       "away_team": "Tampa Bay Buccaneers",
-      "status": "STATUS_SCHEDULED",
+      "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261108&limit=500"
     },
     {
@@ -7351,7 +7351,7 @@
       "date": "2026-11-09T02:00Z",
       "home_team": "LA Clippers",
       "away_team": "New Orleans Pelicans",
-      "status": "STATUS_SCHEDULED",
+      "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261108&limit=500"
     },
     {
@@ -7360,7 +7360,7 @@
       "date": "2026-11-09T02:00Z",
       "home_team": "Sacramento Kings",
       "away_team": "Miami Heat",
-      "status": "STATUS_SCHEDULED",
+      "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261108&limit=500"
     },
     {

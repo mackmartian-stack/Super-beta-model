@@ -1,7 +1,7 @@
 {
   "model": "Super Beta Model 2.0",
   "status": "predictions_available",
-  "generated_at": "2026-11-09T06:56:44.770075+00:00",
+  "generated_at": "2026-11-09T07:11:55.710472+00:00",
   "experimental": true,
   "calibrated": false,
   "note": "No proven betting edge. Inputs must be verified and dated.",
@@ -33,6 +33,19 @@
       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261114&limit=500&groups=80"
     },
     {
+      "sport": "NBA",
+      "game_id": "401909984",
+      "date": "2026-11-15T01:00Z",
+      "home_team": "Minnesota Timberwolves",
+      "away_team": "Chicago Bulls",
+      "predicted_winner": "Minnesota Timberwolves",
+      "home_win_probability": 0.9225,
+      "away_win_probability": 0.0775,
+      "projected_home_margin": 19.82,
+      "confidence": "uncalibrated",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261114&limit=500"
+    },
+    {
       "sport": "CFB",
       "game_id": "401866462",
       "date": "2026-11-12T00:30Z",
@@ -60,16 +73,16 @@
     },
     {
       "sport": "NBA",
-      "game_id": "401909984",
-      "date": "2026-11-15T01:00Z",
-      "home_team": "Minnesota Timberwolves",
-      "away_team": "Chicago Bulls",
-      "predicted_winner": "Minnesota Timberwolves",
-      "home_win_probability": 0.9144,
-      "away_win_probability": 0.0856,
-      "projected_home_margin": 18.95,
+      "game_id": "401909969",
+      "date": "2026-11-12T01:00Z",
+      "home_team": "Chicago Bulls",
+      "away_team": "San Antonio Spurs",
+      "predicted_winner": "San Antonio Spurs",
+      "home_win_probability": 0.0854,
+      "away_win_probability": 0.9146,
+      "projected_home_margin": -18.97,
       "confidence": "uncalibrated",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261114&limit=500"
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261111&limit=500"
     },
     {
       "sport": "CFB",
@@ -83,19 +96,6 @@
       "projected_home_margin": -18.86,
       "confidence": "uncalibrated",
       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261114&limit=500&groups=80"
-    },
-    {
-      "sport": "NBA",
-      "game_id": "401909969",
-      "date": "2026-11-12T01:00Z",
-      "home_team": "Chicago Bulls",
-      "away_team": "San Antonio Spurs",
-      "predicted_winner": "San Antonio Spurs",
-      "home_win_probability": 0.0873,
-      "away_win_probability": 0.9127,
-      "projected_home_margin": -18.78,
-      "confidence": "uncalibrated",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261111&limit=500"
     },
     {
       "sport": "CFB",
@@ -189,8 +189,8 @@
       "player": "Shai Gilgeous-Alexander",
       "team": "Oklahoma City Thunder",
       "stat": "points",
-      "projection": 33.8,
-      "date": "2026-11-14T03:30Z",
+      "projection": 33.33,
+      "date": "2026-11-16T02:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "confidence": "uncalibrated"
     },
@@ -206,11 +206,21 @@
     },
     {
       "sport": "NBA",
-      "player": "Jayson Tatum",
-      "team": "Boston Celtics",
+      "player": "Austin Reaves",
+      "team": "Los Angeles Lakers",
       "stat": "points",
-      "projection": 28.33,
-      "date": "2026-11-15T23:00Z",
+      "projection": 29.0,
+      "date": "2026-11-15T21:00Z",
+      "source": "ESPN public game boxscores (unofficial)",
+      "confidence": "uncalibrated"
+    },
+    {
+      "sport": "NBA",
+      "player": "Donovan Mitchell",
+      "team": "Cleveland Cavaliers",
+      "stat": "points",
+      "projection": 29.0,
+      "date": "2026-11-15T00:30Z",
       "source": "ESPN public game boxscores (unofficial)",
       "confidence": "uncalibrated"
     },
@@ -250,7 +260,17 @@
       "team": "Atlanta Hawks",
       "stat": "points",
       "projection": 27.0,
-      "date": "2026-11-14T01:00Z",
+      "date": "2026-11-16T01:00Z",
+      "source": "ESPN public game boxscores (unofficial)",
+      "confidence": "uncalibrated"
+    },
+    {
+      "sport": "NBA",
+      "player": "Giannis Antetokounmpo",
+      "team": "Miami Heat",
+      "stat": "points",
+      "projection": 26.5,
+      "date": "2026-11-15T01:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "confidence": "uncalibrated"
     },
@@ -261,26 +281,6 @@
       "stat": "points",
       "projection": 26.0,
       "date": "2026-11-15T18:00Z",
-      "source": "ESPN public game boxscores (unofficial)",
-      "confidence": "uncalibrated"
-    },
-    {
-      "sport": "NBA",
-      "player": "Donovan Mitchell",
-      "team": "Cleveland Cavaliers",
-      "stat": "points",
-      "projection": 26.0,
-      "date": "2026-11-15T00:30Z",
-      "source": "ESPN public game boxscores (unofficial)",
-      "confidence": "uncalibrated"
-    },
-    {
-      "sport": "NBA",
-      "player": "Nikola Jokic",
-      "team": "Denver Nuggets",
-      "stat": "points",
-      "projection": 25.67,
-      "date": "2026-11-15T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "confidence": "uncalibrated"
     }

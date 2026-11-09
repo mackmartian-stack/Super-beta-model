@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T00:44:57.662148+00:00",
+  "generated_at": "2026-11-09T07:10:36.782587+00:00",
   "games": [
     {
       "sport": "CFB",
@@ -8921,6 +8921,83 @@
       "away_score": 3.0,
       "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261108&limit=500"
+    },
+    {
+      "sport": "NBA",
+      "game_id": "401909946",
+      "date": "2026-11-08T23:00Z",
+      "home_team": "Detroit Pistons",
+      "away_team": "Los Angeles Lakers",
+      "home_score": 116.0,
+      "away_score": 121.0,
+      "status": "STATUS_FINAL",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261108&limit=500"
+    },
+    {
+      "sport": "NBA",
+      "game_id": "401909947",
+      "date": "2026-11-09T00:00Z",
+      "home_team": "Minnesota Timberwolves",
+      "away_team": "Utah Jazz",
+      "home_score": 115.0,
+      "away_score": 100.0,
+      "status": "STATUS_FINAL",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261108&limit=500"
+    },
+    {
+      "sport": "NBA",
+      "game_id": "401909948",
+      "date": "2026-11-09T00:30Z",
+      "home_team": "Dallas Mavericks",
+      "away_team": "Brooklyn Nets",
+      "home_score": 130.0,
+      "away_score": 93.0,
+      "status": "STATUS_FINAL",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261108&limit=500"
+    },
+    {
+      "sport": "NBA",
+      "game_id": "401909949",
+      "date": "2026-11-09T01:00Z",
+      "home_team": "Milwaukee Bucks",
+      "away_team": "Boston Celtics",
+      "home_score": 97.0,
+      "away_score": 117.0,
+      "status": "STATUS_FINAL",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261108&limit=500"
+    },
+    {
+      "sport": "NFL",
+      "game_id": "401873050",
+      "date": "2026-11-09T01:20Z",
+      "home_team": "Chicago Bears",
+      "away_team": "Tampa Bay Buccaneers",
+      "home_score": 27.0,
+      "away_score": 24.0,
+      "status": "STATUS_FINAL",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261108&limit=500"
+    },
+    {
+      "sport": "NBA",
+      "game_id": "401909950",
+      "date": "2026-11-09T02:00Z",
+      "home_team": "LA Clippers",
+      "away_team": "New Orleans Pelicans",
+      "home_score": 139.0,
+      "away_score": 123.0,
+      "status": "STATUS_FINAL",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261108&limit=500"
+    },
+    {
+      "sport": "NBA",
+      "game_id": "401909951",
+      "date": "2026-11-09T02:00Z",
+      "home_team": "Sacramento Kings",
+      "away_team": "Miami Heat",
+      "home_score": 108.0,
+      "away_score": 114.0,
+      "status": "STATUS_FINAL",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261108&limit=500"
     }
   ]
 }
