@@ -347,7 +347,13 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261108&limit=500"
       },
       "first_recorded_at": "2026-11-05T07:00:44.030904+00:00",
-      "result": null
+      "result": {
+        "home_score": 121.0,
+        "away_score": 127.0,
+        "correct_winner": true,
+        "actual_home_win": false,
+        "settled_at": "2026-11-09T00:46:22.609855+00:00"
+      }
     },
     "NBA:401909971": {
       "forecast": {
@@ -557,6 +563,176 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261112&limit=500"
       },
       "first_recorded_at": "2026-11-08T06:46:08.416781+00:00",
+      "result": null
+    },
+    "CFB:401871061": {
+      "forecast": {
+        "sport": "CFB",
+        "game_id": "401871061",
+        "date": "2026-11-14T20:30Z",
+        "home_team": "Liberty Flames",
+        "away_team": "Middle Tennessee Blue Raiders",
+        "predicted_winner": "Liberty Flames",
+        "home_win_probability": 0.9737,
+        "away_win_probability": 0.0263,
+        "projected_home_margin": 28.9,
+        "confidence": "uncalibrated",
+        "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261114&limit=500&groups=80"
+      },
+      "first_recorded_at": "2026-11-09T00:46:22.574250+00:00",
+      "result": null
+    },
+    "CFB:401858294": {
+      "forecast": {
+        "sport": "CFB",
+        "game_id": "401858294",
+        "date": "2026-11-14T20:30Z",
+        "home_team": "Notre Dame Fighting Irish",
+        "away_team": "Boston College Eagles",
+        "predicted_winner": "Notre Dame Fighting Irish",
+        "home_win_probability": 0.948,
+        "away_win_probability": 0.052,
+        "projected_home_margin": 23.22,
+        "confidence": "uncalibrated",
+        "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261114&limit=500&groups=80"
+      },
+      "first_recorded_at": "2026-11-09T00:46:22.574250+00:00",
+      "result": null
+    },
+    "CFB:401866462": {
+      "forecast": {
+        "sport": "CFB",
+        "game_id": "401866462",
+        "date": "2026-11-12T00:30Z",
+        "home_team": "Central Michigan Chippewas",
+        "away_team": "Sacramento State Hornets",
+        "predicted_winner": "Central Michigan Chippewas",
+        "home_win_probability": 0.9219,
+        "away_win_probability": 0.0781,
+        "projected_home_margin": 19.75,
+        "confidence": "uncalibrated",
+        "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261111&limit=500&groups=80"
+      },
+      "first_recorded_at": "2026-11-09T00:46:22.574250+00:00",
+      "result": null
+    },
+    "CFB:401871099": {
+      "forecast": {
+        "sport": "CFB",
+        "game_id": "401871099",
+        "date": "2026-11-14T22:00Z",
+        "home_team": "Louisiana Tech Bulldogs",
+        "away_team": "Southern Miss Golden Eagles",
+        "predicted_winner": "Louisiana Tech Bulldogs",
+        "home_win_probability": 0.9187,
+        "away_win_probability": 0.0813,
+        "projected_home_margin": 19.4,
+        "confidence": "uncalibrated",
+        "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261114&limit=500&groups=80"
+      },
+      "first_recorded_at": "2026-11-09T00:46:22.574250+00:00",
+      "result": null
+    },
+    "CFB:401862825": {
+      "forecast": {
+        "sport": "CFB",
+        "game_id": "401862825",
+        "date": "2026-11-14T18:00Z",
+        "home_team": "Charlotte 49ers",
+        "away_team": "East Carolina Pirates",
+        "predicted_winner": "East Carolina Pirates",
+        "home_win_probability": 0.0865,
+        "away_win_probability": 0.9135,
+        "projected_home_margin": -18.86,
+        "confidence": "uncalibrated",
+        "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261114&limit=500&groups=80"
+      },
+      "first_recorded_at": "2026-11-09T00:46:22.574250+00:00",
+      "result": null
+    },
+    "CFB:401870752": {
+      "forecast": {
+        "sport": "CFB",
+        "game_id": "401870752",
+        "date": "2026-11-14T20:30Z",
+        "home_team": "Western Kentucky Hilltoppers",
+        "away_team": "Jacksonville State Gamecocks",
+        "predicted_winner": "Jacksonville State Gamecocks",
+        "home_win_probability": 0.0927,
+        "away_win_probability": 0.9073,
+        "projected_home_margin": -18.25,
+        "confidence": "uncalibrated",
+        "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261114&limit=500&groups=80"
+      },
+      "first_recorded_at": "2026-11-09T00:46:22.574250+00:00",
+      "result": null
+    },
+    "CFB:401861967": {
+      "forecast": {
+        "sport": "CFB",
+        "game_id": "401861967",
+        "date": "2026-11-14T17:00Z",
+        "home_team": "UConn Huskies",
+        "away_team": "James Madison Dukes",
+        "predicted_winner": "James Madison Dukes",
+        "home_win_probability": 0.0947,
+        "away_win_probability": 0.9053,
+        "projected_home_margin": -18.06,
+        "confidence": "uncalibrated",
+        "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261114&limit=500&groups=80"
+      },
+      "first_recorded_at": "2026-11-09T00:46:22.574250+00:00",
+      "result": null
+    },
+    "CFB:401858301": {
+      "forecast": {
+        "sport": "CFB",
+        "game_id": "401858301",
+        "date": "2026-11-14T17:00Z",
+        "home_team": "SMU Mustangs",
+        "away_team": "Wake Forest Demon Deacons",
+        "predicted_winner": "Wake Forest Demon Deacons",
+        "home_win_probability": 0.0971,
+        "away_win_probability": 0.9029,
+        "projected_home_margin": -17.84,
+        "confidence": "uncalibrated",
+        "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261114&limit=500&groups=80"
+      },
+      "first_recorded_at": "2026-11-09T00:46:22.574250+00:00",
+      "result": null
+    },
+    "CFB:401858299": {
+      "forecast": {
+        "sport": "CFB",
+        "game_id": "401858299",
+        "date": "2026-11-15T00:30Z",
+        "home_team": "Virginia Tech Hokies",
+        "away_team": "Stanford Cardinal",
+        "predicted_winner": "Virginia Tech Hokies",
+        "home_win_probability": 0.9013,
+        "away_win_probability": 0.0987,
+        "projected_home_margin": 17.69,
+        "confidence": "uncalibrated",
+        "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261114&limit=500&groups=80"
+      },
+      "first_recorded_at": "2026-11-09T00:46:22.574250+00:00",
+      "result": null
+    },
+    "CFB:401858297": {
+      "forecast": {
+        "sport": "CFB",
+        "game_id": "401858297",
+        "date": "2026-11-14T17:30Z",
+        "home_team": "Clemson Tigers",
+        "away_team": "Georgia Tech Yellow Jackets",
+        "predicted_winner": "Clemson Tigers",
+        "home_win_probability": 0.9011,
+        "away_win_probability": 0.0989,
+        "projected_home_margin": 17.67,
+        "confidence": "uncalibrated",
+        "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261114&limit=500&groups=80"
+      },
+      "first_recorded_at": "2026-11-09T00:46:22.574250+00:00",
       "result": null
     }
   },
