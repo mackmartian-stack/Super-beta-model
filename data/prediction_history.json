@@ -746,6 +746,108 @@
       },
       "first_recorded_at": "2026-11-09T00:46:22.574250+00:00",
       "result": null
+    },
+    "NBA:401909988": {
+      "forecast": {
+        "sport": "NBA",
+        "game_id": "401909988",
+        "date": "2026-11-15T22:00Z",
+        "home_team": "Utah Jazz",
+        "away_team": "San Antonio Spurs",
+        "predicted_winner": "San Antonio Spurs",
+        "home_win_probability": 0.1104,
+        "away_win_probability": 0.8896,
+        "projected_home_margin": -16.7,
+        "confidence": "uncalibrated",
+        "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261115&limit=500"
+      },
+      "first_recorded_at": "2026-11-10T00:44:20.846546+00:00",
+      "result": null
+    },
+    "NBA:401909994": {
+      "forecast": {
+        "sport": "NBA",
+        "game_id": "401909994",
+        "date": "2026-11-17T00:00Z",
+        "home_team": "Boston Celtics",
+        "away_team": "Orlando Magic",
+        "predicted_winner": "Boston Celtics",
+        "home_win_probability": 0.8841,
+        "away_win_probability": 0.1159,
+        "projected_home_margin": 16.25,
+        "confidence": "uncalibrated",
+        "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261116&limit=500"
+      },
+      "first_recorded_at": "2026-11-10T00:44:20.846546+00:00",
+      "result": null
+    },
+    "NBA:401909995": {
+      "forecast": {
+        "sport": "NBA",
+        "game_id": "401909995",
+        "date": "2026-11-17T00:00Z",
+        "home_team": "Cleveland Cavaliers",
+        "away_team": "Chicago Bulls",
+        "predicted_winner": "Cleveland Cavaliers",
+        "home_win_probability": 0.8691,
+        "away_win_probability": 0.1309,
+        "projected_home_margin": 15.15,
+        "confidence": "uncalibrated",
+        "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261116&limit=500"
+      },
+      "first_recorded_at": "2026-11-10T00:44:20.846546+00:00",
+      "result": null
+    },
+    "NFL:401873057": {
+      "forecast": {
+        "sport": "NFL",
+        "game_id": "401873057",
+        "date": "2026-11-15T18:00Z",
+        "home_team": "Tennessee Titans",
+        "away_team": "Jacksonville Jaguars",
+        "predicted_winner": "Jacksonville Jaguars",
+        "home_win_probability": 0.1337,
+        "away_win_probability": 0.8663,
+        "projected_home_margin": -14.95,
+        "confidence": "uncalibrated",
+        "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261115&limit=500"
+      },
+      "first_recorded_at": "2026-11-10T00:44:20.846546+00:00",
+      "result": null
+    },
+    "NBA:401909993": {
+      "forecast": {
+        "sport": "NBA",
+        "game_id": "401909993",
+        "date": "2026-11-16T02:00Z",
+        "home_team": "Sacramento Kings",
+        "away_team": "Oklahoma City Thunder",
+        "predicted_winner": "Oklahoma City Thunder",
+        "home_win_probability": 0.135,
+        "away_win_probability": 0.865,
+        "projected_home_margin": -14.86,
+        "confidence": "uncalibrated",
+        "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261115&limit=500"
+      },
+      "first_recorded_at": "2026-11-10T00:44:20.846546+00:00",
+      "result": null
+    },
+    "NBA:401909987": {
+      "forecast": {
+        "sport": "NBA",
+        "game_id": "401909987",
+        "date": "2026-11-15T21:30Z",
+        "home_team": "LA Clippers",
+        "away_team": "Charlotte Hornets",
+        "predicted_winner": "LA Clippers",
+        "home_win_probability": 0.834,
+        "away_win_probability": 0.166,
+        "projected_home_margin": 12.91,
+        "confidence": "uncalibrated",
+        "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261115&limit=500"
+      },
+      "first_recorded_at": "2026-11-10T00:44:20.846546+00:00",
+      "result": null
     }
   },
   "players": {},
