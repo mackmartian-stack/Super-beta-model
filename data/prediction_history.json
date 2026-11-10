@@ -245,7 +245,13 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261109&limit=500"
       },
       "first_recorded_at": "2026-11-03T08:16:42.717975+00:00",
-      "result": null
+      "result": {
+        "home_score": 110.0,
+        "away_score": 100.0,
+        "correct_winner": true,
+        "actual_home_win": true,
+        "settled_at": "2026-11-10T06:53:56.188735+00:00"
+      }
     },
     "NBA:401909958": {
       "forecast": {
@@ -262,7 +268,13 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261109&limit=500"
       },
       "first_recorded_at": "2026-11-03T08:16:42.717975+00:00",
-      "result": null
+      "result": {
+        "home_score": 96.0,
+        "away_score": 122.0,
+        "correct_winner": true,
+        "actual_home_win": false,
+        "settled_at": "2026-11-10T06:53:56.188739+00:00"
+      }
     },
     "NBA:401909934": {
       "forecast": {
@@ -456,7 +468,13 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261109&limit=500"
       },
       "first_recorded_at": "2026-11-06T06:58:51.344178+00:00",
-      "result": null
+      "result": {
+        "home_score": 122.0,
+        "away_score": 111.0,
+        "correct_winner": true,
+        "actual_home_win": true,
+        "settled_at": "2026-11-10T06:53:56.188731+00:00"
+      }
     },
     "NBA:401909301": {
       "forecast": {
@@ -490,7 +508,13 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261109&limit=500"
       },
       "first_recorded_at": "2026-11-07T06:45:23.400779+00:00",
-      "result": null
+      "result": {
+        "home_score": 124.0,
+        "away_score": 112.0,
+        "correct_winner": false,
+        "actual_home_win": true,
+        "settled_at": "2026-11-10T06:53:56.188723+00:00"
+      }
     },
     "NBA:401909303": {
       "forecast": {
@@ -847,6 +871,57 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261115&limit=500"
       },
       "first_recorded_at": "2026-11-10T00:44:20.846546+00:00",
+      "result": null
+    },
+    "NBA:401910000": {
+      "forecast": {
+        "sport": "NBA",
+        "game_id": "401910000",
+        "date": "2026-11-17T01:00Z",
+        "home_team": "New Orleans Pelicans",
+        "away_team": "Golden State Warriors",
+        "predicted_winner": "Golden State Warriors",
+        "home_win_probability": 0.1154,
+        "away_win_probability": 0.8846,
+        "projected_home_margin": -16.29,
+        "confidence": "uncalibrated",
+        "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261116&limit=500"
+      },
+      "first_recorded_at": "2026-11-10T06:53:56.148822+00:00",
+      "result": null
+    },
+    "NFL:401873054": {
+      "forecast": {
+        "sport": "NFL",
+        "game_id": "401873054",
+        "date": "2026-11-15T18:00Z",
+        "home_team": "New York Jets",
+        "away_team": "Buffalo Bills",
+        "predicted_winner": "Buffalo Bills",
+        "home_win_probability": 0.152,
+        "away_win_probability": 0.848,
+        "projected_home_margin": -13.75,
+        "confidence": "uncalibrated",
+        "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261115&limit=500"
+      },
+      "first_recorded_at": "2026-11-10T06:53:56.148822+00:00",
+      "result": null
+    },
+    "NBA:401909983": {
+      "forecast": {
+        "sport": "NBA",
+        "game_id": "401909983",
+        "date": "2026-11-15T01:00Z",
+        "home_team": "Memphis Grizzlies",
+        "away_team": "Brooklyn Nets",
+        "predicted_winner": "Memphis Grizzlies",
+        "home_win_probability": 0.8386,
+        "away_win_probability": 0.1614,
+        "projected_home_margin": 13.18,
+        "confidence": "uncalibrated",
+        "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261114&limit=500"
+      },
+      "first_recorded_at": "2026-11-10T06:53:56.148822+00:00",
       "result": null
     }
   },
