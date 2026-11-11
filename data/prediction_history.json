@@ -354,7 +354,13 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261110&limit=500"
       },
       "first_recorded_at": "2026-11-05T07:00:44.030904+00:00",
-      "result": null
+      "result": {
+        "home_score": 117.0,
+        "away_score": 85.0,
+        "correct_winner": true,
+        "actual_home_win": true,
+        "settled_at": "2026-11-11T06:58:39.957104+00:00"
+      }
     },
     "NBA:401909945": {
       "forecast": {
@@ -434,7 +440,13 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261110&limit=500"
       },
       "first_recorded_at": "2026-11-05T07:00:44.030904+00:00",
-      "result": null
+      "result": {
+        "home_score": 123.0,
+        "away_score": 103.0,
+        "correct_winner": true,
+        "actual_home_win": true,
+        "settled_at": "2026-11-11T06:58:39.957113+00:00"
+      }
     },
     "NBA:401909975": {
       "forecast": {
@@ -939,6 +951,23 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261115&limit=500"
       },
       "first_recorded_at": "2026-11-11T00:44:04.561359+00:00",
+      "result": null
+    },
+    "NBA:401910005": {
+      "forecast": {
+        "sport": "NBA",
+        "game_id": "401910005",
+        "date": "2026-11-18T04:00Z",
+        "home_team": "Los Angeles Lakers",
+        "away_team": "Charlotte Hornets",
+        "predicted_winner": "Los Angeles Lakers",
+        "home_win_probability": 0.9043,
+        "away_win_probability": 0.0957,
+        "projected_home_margin": 17.97,
+        "confidence": "uncalibrated",
+        "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261117&limit=500"
+      },
+      "first_recorded_at": "2026-11-11T06:58:39.909532+00:00",
       "result": null
     }
   },

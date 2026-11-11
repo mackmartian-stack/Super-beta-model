@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-11T00:43:17.343279+00:00",
+  "collected_at": "2026-11-11T06:57:21.221928+00:00",
   "games": [
     {
       "sport": "CFB",
@@ -2761,7 +2761,7 @@
       "date": "2026-11-11T00:00Z",
       "home_team": "Akron Zips",
       "away_team": "Western Michigan Broncos",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261110&limit=500&groups=80"
     },
     {
@@ -2770,7 +2770,7 @@
       "date": "2026-11-11T00:00Z",
       "home_team": "Bowling Green Falcons",
       "away_team": "Kent State Golden Flashes",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261110&limit=500&groups=80"
     },
     {
@@ -2779,7 +2779,7 @@
       "date": "2026-11-11T00:30Z",
       "home_team": "New York Knicks",
       "away_team": "Milwaukee Bucks",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261110&limit=500"
     },
     {
@@ -2788,7 +2788,7 @@
       "date": "2026-11-11T01:00Z",
       "home_team": "Miami (OH) RedHawks",
       "away_team": "Ohio Bobcats",
-      "status": "STATUS_SCHEDULED",
+      "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261110&limit=500&groups=80"
     },
     {
@@ -2797,7 +2797,7 @@
       "date": "2026-11-11T01:00Z",
       "home_team": "Philadelphia 76ers",
       "away_team": "Boston Celtics",
-      "status": "STATUS_SCHEDULED",
+      "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261110&limit=500"
     },
     {
@@ -2806,7 +2806,7 @@
       "date": "2026-11-11T02:00Z",
       "home_team": "Phoenix Suns",
       "away_team": "LA Clippers",
-      "status": "STATUS_SCHEDULED",
+      "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261110&limit=500"
     },
     {
@@ -2815,7 +2815,7 @@
       "date": "2026-11-11T02:00Z",
       "home_team": "Utah Jazz",
       "away_team": "Miami Heat",
-      "status": "STATUS_SCHEDULED",
+      "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261110&limit=500"
     },
     {
@@ -2824,7 +2824,7 @@
       "date": "2026-11-11T03:00Z",
       "home_team": "Sacramento Kings",
       "away_team": "Orlando Magic",
-      "status": "STATUS_SCHEDULED",
+      "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261110&limit=500"
     },
     {
@@ -2833,7 +2833,7 @@
       "date": "2026-11-11T04:00Z",
       "home_team": "Portland Trail Blazers",
       "away_team": "Oklahoma City Thunder",
-      "status": "STATUS_SCHEDULED",
+      "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261110&limit=500"
     },
     {
@@ -3135,19 +3135,19 @@
     },
     {
       "sport": "CFB",
-      "game_id": "401858522",
+      "game_id": "401858301",
       "date": "2026-11-14T17:00Z",
-      "home_team": "Ohio State Buckeyes",
-      "away_team": "Northwestern Wildcats",
+      "home_team": "SMU Mustangs",
+      "away_team": "Wake Forest Demon Deacons",
       "status": "STATUS_SCHEDULED",
       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261114&limit=500&groups=80"
     },
     {
       "sport": "CFB",
-      "game_id": "401858301",
+      "game_id": "401858522",
       "date": "2026-11-14T17:00Z",
-      "home_team": "SMU Mustangs",
-      "away_team": "Wake Forest Demon Deacons",
+      "home_team": "Ohio State Buckeyes",
+      "away_team": "Northwestern Wildcats",
       "status": "STATUS_SCHEDULED",
       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261114&limit=500&groups=80"
     },
@@ -3315,6 +3315,15 @@
     },
     {
       "sport": "CFB",
+      "game_id": "401858294",
+      "date": "2026-11-14T20:30Z",
+      "home_team": "Notre Dame Fighting Irish",
+      "away_team": "Boston College Eagles",
+      "status": "STATUS_SCHEDULED",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261114&limit=500&groups=80"
+    },
+    {
+      "sport": "CFB",
       "game_id": "401858518",
       "date": "2026-11-14T20:30Z",
       "home_team": "Indiana Hoosiers",
@@ -3328,15 +3337,6 @@
       "date": "2026-11-14T20:30Z",
       "home_team": "BYU Cougars",
       "away_team": "Baylor Bears",
-      "status": "STATUS_SCHEDULED",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261114&limit=500&groups=80"
-    },
-    {
-      "sport": "CFB",
-      "game_id": "401858294",
-      "date": "2026-11-14T20:30Z",
-      "home_team": "Notre Dame Fighting Irish",
-      "away_team": "Boston College Eagles",
       "status": "STATUS_SCHEDULED",
       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261114&limit=500&groups=80"
     },
