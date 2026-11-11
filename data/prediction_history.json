@@ -923,6 +923,23 @@
       },
       "first_recorded_at": "2026-11-10T06:53:56.148822+00:00",
       "result": null
+    },
+    "NBA:401909991": {
+      "forecast": {
+        "sport": "NBA",
+        "game_id": "401909991",
+        "date": "2026-11-16T00:00Z",
+        "home_team": "Washington Wizards",
+        "away_team": "Houston Rockets",
+        "predicted_winner": "Houston Rockets",
+        "home_win_probability": 0.185,
+        "away_win_probability": 0.815,
+        "projected_home_margin": -11.86,
+        "confidence": "uncalibrated",
+        "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261115&limit=500"
+      },
+      "first_recorded_at": "2026-11-11T00:44:04.561359+00:00",
+      "result": null
     }
   },
   "players": {},
