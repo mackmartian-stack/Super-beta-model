@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-11T12:53:53.159822+00:00",
+  "collected_at": "2026-11-11T18:46:05.586858+00:00",
   "games": [
     {
       "sport": "CFB",
@@ -3945,19 +3945,19 @@
     },
     {
       "sport": "CFB",
-      "game_id": "401866464",
-      "date": "2026-11-18T00:00Z",
-      "home_team": "Ohio Bobcats",
-      "away_team": "Ball State Cardinals",
+      "game_id": "401866465",
+      "date": "2026-11-17T23:00Z",
+      "home_team": "Western Michigan Broncos",
+      "away_team": "Eastern Michigan Eagles",
       "status": "STATUS_SCHEDULED",
       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261117&limit=500&groups=80"
     },
     {
       "sport": "CFB",
-      "game_id": "401866465",
+      "game_id": "401866464",
       "date": "2026-11-18T00:00Z",
-      "home_team": "Western Michigan Broncos",
-      "away_team": "Eastern Michigan Eagles",
+      "home_team": "Ohio Bobcats",
+      "away_team": "Ball State Cardinals",
       "status": "STATUS_SCHEDULED",
       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261117&limit=500&groups=80"
     },
