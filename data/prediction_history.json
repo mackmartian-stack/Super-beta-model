@@ -337,7 +337,13 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261111&limit=500"
       },
       "first_recorded_at": "2026-11-05T07:00:44.030904+00:00",
-      "result": null
+      "result": {
+        "home_score": 119.0,
+        "away_score": 124.0,
+        "correct_winner": true,
+        "actual_home_win": false,
+        "settled_at": "2026-11-12T06:59:45.324730+00:00"
+      }
     },
     "NBA:401909960": {
       "forecast": {
@@ -400,7 +406,13 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261111&limit=500"
       },
       "first_recorded_at": "2026-11-05T07:00:44.030904+00:00",
-      "result": null
+      "result": {
+        "home_score": 112.0,
+        "away_score": 123.0,
+        "correct_winner": true,
+        "actual_home_win": false,
+        "settled_at": "2026-11-12T06:59:45.324735+00:00"
+      }
     },
     "NBA:401909942": {
       "forecast": {
@@ -463,7 +475,13 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261111&limit=500"
       },
       "first_recorded_at": "2026-11-06T06:58:51.344178+00:00",
-      "result": null
+      "result": {
+        "home_score": 118.0,
+        "away_score": 108.0,
+        "correct_winner": true,
+        "actual_home_win": true,
+        "settled_at": "2026-11-12T06:59:45.324739+00:00"
+      }
     },
     "NBA:401909954": {
       "forecast": {
@@ -662,7 +680,13 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261111&limit=500&groups=80"
       },
       "first_recorded_at": "2026-11-09T00:46:22.574250+00:00",
-      "result": null
+      "result": {
+        "home_score": 28.0,
+        "away_score": 7.0,
+        "correct_winner": true,
+        "actual_home_win": true,
+        "settled_at": "2026-11-12T06:59:45.324720+00:00"
+      }
     },
     "CFB:401871099": {
       "forecast": {
@@ -985,6 +1009,57 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261118&limit=500"
       },
       "first_recorded_at": "2026-11-12T00:56:11.648170+00:00",
+      "result": null
+    },
+    "NBA:401910017": {
+      "forecast": {
+        "sport": "NBA",
+        "game_id": "401910017",
+        "date": "2026-11-19T03:00Z",
+        "home_team": "Los Angeles Lakers",
+        "away_team": "Utah Jazz",
+        "predicted_winner": "Los Angeles Lakers",
+        "home_win_probability": 0.8965,
+        "away_win_probability": 0.1035,
+        "projected_home_margin": 17.27,
+        "confidence": "uncalibrated",
+        "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261118&limit=500"
+      },
+      "first_recorded_at": "2026-11-12T06:59:45.270865+00:00",
+      "result": null
+    },
+    "NBA:401910013": {
+      "forecast": {
+        "sport": "NBA",
+        "game_id": "401910013",
+        "date": "2026-11-19T01:00Z",
+        "home_team": "New Orleans Pelicans",
+        "away_team": "Detroit Pistons",
+        "predicted_winner": "Detroit Pistons",
+        "home_win_probability": 0.1466,
+        "away_win_probability": 0.8534,
+        "projected_home_margin": -14.09,
+        "confidence": "uncalibrated",
+        "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261118&limit=500"
+      },
+      "first_recorded_at": "2026-11-12T06:59:45.270865+00:00",
+      "result": null
+    },
+    "NBA:401909297": {
+      "forecast": {
+        "sport": "NBA",
+        "game_id": "401909297",
+        "date": "2026-11-14T00:00Z",
+        "home_team": "Orlando Magic",
+        "away_team": "Milwaukee Bucks",
+        "predicted_winner": "Orlando Magic",
+        "home_win_probability": 0.8158,
+        "away_win_probability": 0.1842,
+        "projected_home_margin": 11.91,
+        "confidence": "uncalibrated",
+        "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261113&limit=500"
+      },
+      "first_recorded_at": "2026-11-12T06:59:45.270865+00:00",
       "result": null
     }
   },
