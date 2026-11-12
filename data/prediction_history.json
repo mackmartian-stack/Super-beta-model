@@ -969,6 +969,23 @@
       },
       "first_recorded_at": "2026-11-11T06:58:39.909532+00:00",
       "result": null
+    },
+    "NBA:401910009": {
+      "forecast": {
+        "sport": "NBA",
+        "game_id": "401910009",
+        "date": "2026-11-19T00:00Z",
+        "home_team": "Miami Heat",
+        "away_team": "Milwaukee Bucks",
+        "predicted_winner": "Miami Heat",
+        "home_win_probability": 0.8306,
+        "away_win_probability": 0.1694,
+        "projected_home_margin": 12.72,
+        "confidence": "uncalibrated",
+        "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261118&limit=500"
+      },
+      "first_recorded_at": "2026-11-12T00:56:11.648170+00:00",
+      "result": null
     }
   },
   "players": {},
