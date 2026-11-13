@@ -595,7 +595,13 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261112&limit=500"
       },
       "first_recorded_at": "2026-11-07T06:45:23.400779+00:00",
-      "result": null
+      "result": {
+        "home_score": 101.0,
+        "away_score": 96.0,
+        "correct_winner": true,
+        "actual_home_win": true,
+        "settled_at": "2026-11-13T06:58:57.034790+00:00"
+      }
     },
     "NBA:401909984": {
       "forecast": {
@@ -629,7 +635,13 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261112&limit=500"
       },
       "first_recorded_at": "2026-11-08T06:46:08.416781+00:00",
-      "result": null
+      "result": {
+        "home_score": 140.0,
+        "away_score": 144.0,
+        "correct_winner": true,
+        "actual_home_win": false,
+        "settled_at": "2026-11-13T06:58:57.034784+00:00"
+      }
     },
     "CFB:401871061": {
       "forecast": {
@@ -1077,6 +1089,40 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261114&limit=500&groups=80"
       },
       "first_recorded_at": "2026-11-13T00:51:35.495612+00:00",
+      "result": null
+    },
+    "NBA:401910022": {
+      "forecast": {
+        "sport": "NBA",
+        "game_id": "401910022",
+        "date": "2026-11-20T01:00Z",
+        "home_team": "San Antonio Spurs",
+        "away_team": "LA Clippers",
+        "predicted_winner": "San Antonio Spurs",
+        "home_win_probability": 0.9034,
+        "away_win_probability": 0.0966,
+        "projected_home_margin": 17.88,
+        "confidence": "uncalibrated",
+        "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261119&limit=500"
+      },
+      "first_recorded_at": "2026-11-13T06:58:56.998001+00:00",
+      "result": null
+    },
+    "NBA:401910020": {
+      "forecast": {
+        "sport": "NBA",
+        "game_id": "401910020",
+        "date": "2026-11-20T01:00Z",
+        "home_team": "Milwaukee Bucks",
+        "away_team": "Portland Trail Blazers",
+        "predicted_winner": "Portland Trail Blazers",
+        "home_win_probability": 0.1384,
+        "away_win_probability": 0.8616,
+        "projected_home_margin": -14.63,
+        "confidence": "uncalibrated",
+        "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261119&limit=500"
+      },
+      "first_recorded_at": "2026-11-13T06:58:56.998001+00:00",
       "result": null
     }
   },

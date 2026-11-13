@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T00:50:09.224621+00:00",
+  "generated_at": "2026-11-13T06:57:45.559130+00:00",
   "games": [
     {
       "sport": "NFL",
@@ -3564,6 +3564,83 @@
       "away_score": 108.0,
       "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261111&limit=500"
+    },
+    {
+      "sport": "NBA",
+      "game_id": "401909976",
+      "date": "2026-11-13T00:00Z",
+      "home_team": "Philadelphia 76ers",
+      "away_team": "Toronto Raptors",
+      "home_score": 123.0,
+      "away_score": 112.0,
+      "status": "STATUS_FINAL",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261112&limit=500"
+    },
+    {
+      "sport": "NBA",
+      "game_id": "401909977",
+      "date": "2026-11-13T00:00Z",
+      "home_team": "Washington Wizards",
+      "away_team": "Detroit Pistons",
+      "home_score": 140.0,
+      "away_score": 144.0,
+      "status": "STATUS_FINAL",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261112&limit=500"
+    },
+    {
+      "sport": "CFB",
+      "game_id": "401862824",
+      "date": "2026-11-13T01:00Z",
+      "home_team": "South Florida Bulls",
+      "away_team": "Memphis Tigers",
+      "home_score": 41.0,
+      "away_score": 52.0,
+      "status": "STATUS_FINAL",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261112&limit=500&groups=80"
+    },
+    {
+      "sport": "NBA",
+      "game_id": "401909978",
+      "date": "2026-11-13T01:00Z",
+      "home_team": "Minnesota Timberwolves",
+      "away_team": "Dallas Mavericks",
+      "home_score": 133.0,
+      "away_score": 94.0,
+      "status": "STATUS_FINAL",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261112&limit=500"
+    },
+    {
+      "sport": "NFL",
+      "game_id": "401873052",
+      "date": "2026-11-13T01:15Z",
+      "home_team": "New York Giants",
+      "away_team": "Washington Commanders",
+      "home_score": 21.0,
+      "away_score": 24.0,
+      "status": "STATUS_FINAL",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261112&limit=500"
+    },
+    {
+      "sport": "CFB",
+      "game_id": "401869969",
+      "date": "2026-11-13T02:00Z",
+      "home_team": "UL Monroe Warhawks",
+      "away_team": "Louisiana Ragin' Cajuns",
+      "home_score": 21.0,
+      "away_score": 42.0,
+      "status": "STATUS_FINAL",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261112&limit=500&groups=80"
+    },
+    {
+      "sport": "NBA",
+      "game_id": "401909979",
+      "date": "2026-11-13T02:00Z",
+      "home_team": "Phoenix Suns",
+      "away_team": "Charlotte Hornets",
+      "home_score": 101.0,
+      "away_score": 96.0,
+      "status": "STATUS_FINAL",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261112&limit=500"
     }
   ]
 }
