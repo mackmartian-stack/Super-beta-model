@@ -1061,6 +1061,23 @@
       },
       "first_recorded_at": "2026-11-12T06:59:45.270865+00:00",
       "result": null
+    },
+    "CFB:401870769": {
+      "forecast": {
+        "sport": "CFB",
+        "game_id": "401870769",
+        "date": "2026-11-14T19:00Z",
+        "home_team": "Sam Houston Bearkats",
+        "away_team": "Kennesaw State Owls",
+        "predicted_winner": "Kennesaw State Owls",
+        "home_win_probability": 0.1036,
+        "away_win_probability": 0.8964,
+        "projected_home_margin": -17.26,
+        "confidence": "uncalibrated",
+        "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261114&limit=500&groups=80"
+      },
+      "first_recorded_at": "2026-11-13T00:51:35.495612+00:00",
+      "result": null
     }
   },
   "players": {},

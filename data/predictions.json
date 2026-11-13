@@ -1,7 +1,7 @@
 {
   "model": "Super Beta Model 2.0",
   "status": "predictions_available",
-  "generated_at": "2026-11-13T00:33:15.637762+00:00",
+  "generated_at": "2026-11-13T00:51:35.495612+00:00",
   "experimental": true,
   "calibrated": false,
   "note": "No proven betting edge. Inputs must be verified and dated.",
@@ -85,6 +85,19 @@
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261118&limit=500"
     },
     {
+      "sport": "CFB",
+      "game_id": "401870769",
+      "date": "2026-11-14T19:00Z",
+      "home_team": "Sam Houston Bearkats",
+      "away_team": "Kennesaw State Owls",
+      "predicted_winner": "Kennesaw State Owls",
+      "home_win_probability": 0.1036,
+      "away_win_probability": 0.8964,
+      "projected_home_margin": -17.26,
+      "confidence": "uncalibrated",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261114&limit=500&groups=80"
+    },
+    {
       "sport": "NBA",
       "game_id": "401910013",
       "date": "2026-11-19T01:00Z",
@@ -148,19 +161,6 @@
       "projected_home_margin": 12.25,
       "confidence": "uncalibrated",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261118&limit=500"
-    },
-    {
-      "sport": "NBA",
-      "game_id": "401909297",
-      "date": "2026-11-14T00:00Z",
-      "home_team": "Orlando Magic",
-      "away_team": "Milwaukee Bucks",
-      "predicted_winner": "Orlando Magic",
-      "home_win_probability": 0.8158,
-      "away_win_probability": 0.1842,
-      "projected_home_margin": 11.91,
-      "confidence": "uncalibrated",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261113&limit=500"
     }
   ],
   "player_predictions": [

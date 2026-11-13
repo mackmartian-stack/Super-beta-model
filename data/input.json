@@ -2,28 +2,6 @@
   "games": [
     {
       "sport": "NBA",
-      "game_id": "401909976",
-      "date": "2026-11-13T00:00Z",
-      "home_team": "Philadelphia 76ers",
-      "away_team": "Toronto Raptors",
-      "home_rating": 98.461,
-      "away_rating": 98.718,
-      "home_advantage_points": 2.0,
-      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261112&limit=500"
-    },
-    {
-      "sport": "NBA",
-      "game_id": "401909977",
-      "date": "2026-11-13T00:00Z",
-      "home_team": "Washington Wizards",
-      "away_team": "Detroit Pistons",
-      "home_rating": 91.924,
-      "away_rating": 105.747,
-      "home_advantage_points": 2.0,
-      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261112&limit=500"
-    },
-    {
-      "sport": "NBA",
       "game_id": "401909978",
       "date": "2026-11-13T01:00Z",
       "home_team": "Minnesota Timberwolves",
@@ -145,12 +123,12 @@
     },
     {
       "sport": "CFB",
-      "game_id": "401871060",
-      "date": "2026-11-14T20:00Z",
-      "home_team": "Delaware Blue Hens",
-      "away_team": "Florida International Panthers",
-      "home_rating": 106.026,
-      "away_rating": 100.851,
+      "game_id": "401870769",
+      "date": "2026-11-14T19:00Z",
+      "home_team": "Sam Houston Bearkats",
+      "away_team": "Kennesaw State Owls",
+      "home_rating": 84.491,
+      "away_rating": 104.252,
       "home_advantage_points": 2.5,
       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261114&limit=500&groups=80"
     },
@@ -13450,7 +13428,7 @@
       "method": "mean of available recent appearances; no minutes/injury adjustment"
     }
   ],
-  "generated_at": "2026-11-12T18:44:38.707309+00:00",
+  "generated_at": "2026-11-13T00:50:09.224621+00:00",
   "method": "Recent scoring margin plus opponent-strength adjustment; experimental, uncalibrated",
   "warnings": [
     "No verified injuries, lineups, coaching adjustments, or player projections.",
