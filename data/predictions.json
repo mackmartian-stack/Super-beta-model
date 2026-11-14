@@ -1,7 +1,7 @@
 {
   "model": "Super Beta Model 2.0",
   "status": "predictions_available",
-  "generated_at": "2026-11-14T18:22:47.543065+00:00",
+  "generated_at": "2026-11-14T18:31:43.688924+00:00",
   "experimental": true,
   "calibrated": false,
   "note": "No proven betting edge. Inputs must be verified and dated.",
@@ -44,6 +44,19 @@
       "projected_home_margin": 20.18,
       "confidence": "uncalibrated",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261114&limit=500"
+    },
+    {
+      "sport": "CFB",
+      "game_id": "401871080",
+      "date": "2026-11-21T18:00Z",
+      "home_team": "Liberty Flames",
+      "away_team": "Western Kentucky Hilltoppers",
+      "predicted_winner": "Liberty Flames",
+      "home_win_probability": 0.9234,
+      "away_win_probability": 0.0766,
+      "projected_home_margin": 19.91,
+      "confidence": "uncalibrated",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261121&limit=500&groups=80"
     },
     {
       "sport": "NBA",
@@ -148,19 +161,6 @@
       "projected_home_margin": 13.61,
       "confidence": "uncalibrated",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261118&limit=500"
-    },
-    {
-      "sport": "NBA",
-      "game_id": "401909980",
-      "date": "2026-11-15T00:00Z",
-      "home_team": "New Orleans Pelicans",
-      "away_team": "Denver Nuggets",
-      "predicted_winner": "Denver Nuggets",
-      "home_win_probability": 0.1592,
-      "away_win_probability": 0.8408,
-      "projected_home_margin": -13.31,
-      "confidence": "uncalibrated",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261114&limit=500"
     }
   ],
   "player_predictions": [
@@ -270,7 +270,7 @@
       "team": "Philadelphia 76ers",
       "stat": "points",
       "projection": 26.0,
-      "date": "2026-11-19T00:00Z",
+      "date": "2026-11-21T18:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "confidence": "uncalibrated"
     },

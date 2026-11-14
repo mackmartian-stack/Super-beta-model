@@ -1199,6 +1199,23 @@
       },
       "first_recorded_at": "2026-11-14T06:48:02.157226+00:00",
       "result": null
+    },
+    "CFB:401871080": {
+      "forecast": {
+        "sport": "CFB",
+        "game_id": "401871080",
+        "date": "2026-11-21T18:00Z",
+        "home_team": "Liberty Flames",
+        "away_team": "Western Kentucky Hilltoppers",
+        "predicted_winner": "Liberty Flames",
+        "home_win_probability": 0.9234,
+        "away_win_probability": 0.0766,
+        "projected_home_margin": 19.91,
+        "confidence": "uncalibrated",
+        "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261121&limit=500&groups=80"
+      },
+      "first_recorded_at": "2026-11-14T18:31:43.688924+00:00",
+      "result": null
     }
   },
   "players": {},

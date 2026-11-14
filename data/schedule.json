@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-14T12:36:31.505389+00:00",
+  "collected_at": "2026-11-14T18:30:47.193096+00:00",
   "games": [
     {
       "sport": "CFB",
@@ -3202,7 +3202,7 @@
       "date": "2026-11-14T17:00Z",
       "home_team": "Miami Hurricanes",
       "away_team": "Duke Blue Devils",
-      "status": "STATUS_SCHEDULED",
+      "status": "STATUS_IN_PROGRESS",
       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261114&limit=500&groups=80"
     },
     {
@@ -3211,7 +3211,7 @@
       "date": "2026-11-14T17:00Z",
       "home_team": "SMU Mustangs",
       "away_team": "Wake Forest Demon Deacons",
-      "status": "STATUS_SCHEDULED",
+      "status": "STATUS_IN_PROGRESS",
       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261114&limit=500&groups=80"
     },
     {
@@ -3220,7 +3220,7 @@
       "date": "2026-11-14T17:00Z",
       "home_team": "Ohio State Buckeyes",
       "away_team": "Northwestern Wildcats",
-      "status": "STATUS_SCHEDULED",
+      "status": "STATUS_IN_PROGRESS",
       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261114&limit=500&groups=80"
     },
     {
@@ -3229,7 +3229,7 @@
       "date": "2026-11-14T17:00Z",
       "home_team": "Iowa State Cyclones",
       "away_team": "Cincinnati Bearcats",
-      "status": "STATUS_SCHEDULED",
+      "status": "STATUS_IN_PROGRESS",
       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261114&limit=500&groups=80"
     },
     {
@@ -3238,7 +3238,7 @@
       "date": "2026-11-14T17:00Z",
       "home_team": "NC State Wolfpack",
       "away_team": "Syracuse Orange",
-      "status": "STATUS_SCHEDULED",
+      "status": "STATUS_HALFTIME",
       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261114&limit=500&groups=80"
     },
     {
@@ -3247,7 +3247,7 @@
       "date": "2026-11-14T17:00Z",
       "home_team": "Maryland Terrapins",
       "away_team": "Wisconsin Badgers",
-      "status": "STATUS_SCHEDULED",
+      "status": "STATUS_IN_PROGRESS",
       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261114&limit=500&groups=80"
     },
     {
@@ -3256,7 +3256,7 @@
       "date": "2026-11-14T17:00Z",
       "home_team": "UConn Huskies",
       "away_team": "James Madison Dukes",
-      "status": "STATUS_SCHEDULED",
+      "status": "STATUS_IN_PROGRESS",
       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261114&limit=500&groups=80"
     },
     {
@@ -3265,7 +3265,7 @@
       "date": "2026-11-14T17:30Z",
       "home_team": "Clemson Tigers",
       "away_team": "Georgia Tech Yellow Jackets",
-      "status": "STATUS_SCHEDULED",
+      "status": "STATUS_IN_PROGRESS",
       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261114&limit=500&groups=80"
     },
     {
@@ -3274,7 +3274,7 @@
       "date": "2026-11-14T17:30Z",
       "home_team": "Rutgers Scarlet Knights",
       "away_team": "Nebraska Cornhuskers",
-      "status": "STATUS_SCHEDULED",
+      "status": "STATUS_IN_PROGRESS",
       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261114&limit=500&groups=80"
     },
     {
@@ -3283,7 +3283,7 @@
       "date": "2026-11-14T17:45Z",
       "home_team": "Vanderbilt Commodores",
       "away_team": "Alabama Crimson Tide",
-      "status": "STATUS_SCHEDULED",
+      "status": "STATUS_IN_PROGRESS",
       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261114&limit=500&groups=80"
     },
     {
@@ -3292,7 +3292,7 @@
       "date": "2026-11-14T18:00Z",
       "home_team": "Charlotte 49ers",
       "away_team": "East Carolina Pirates",
-      "status": "STATUS_SCHEDULED",
+      "status": "STATUS_IN_PROGRESS",
       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261114&limit=500&groups=80"
     },
     {
@@ -3301,7 +3301,7 @@
       "date": "2026-11-14T18:00Z",
       "home_team": "Temple Owls",
       "away_team": "UAB Blazers",
-      "status": "STATUS_SCHEDULED",
+      "status": "STATUS_IN_PROGRESS",
       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261114&limit=500&groups=80"
     },
     {
@@ -3310,7 +3310,7 @@
       "date": "2026-11-14T18:00Z",
       "home_team": "Coastal Carolina Chanticleers",
       "away_team": "Arkansas State Red Wolves",
-      "status": "STATUS_SCHEDULED",
+      "status": "STATUS_IN_PROGRESS",
       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261114&limit=500&groups=80"
     },
     {
