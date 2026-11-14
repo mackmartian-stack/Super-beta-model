@@ -1,7 +1,7 @@
 {
   "model": "Super Beta Model 2.0",
   "status": "predictions_available",
-  "generated_at": "2026-11-14T00:28:01.843009+00:00",
+  "generated_at": "2026-11-14T00:44:52.594096+00:00",
   "experimental": true,
   "calibrated": false,
   "note": "No proven betting edge. Inputs must be verified and dated.",
@@ -70,19 +70,6 @@
       "projected_home_margin": 17.86,
       "confidence": "uncalibrated",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261113&limit=500"
-    },
-    {
-      "sport": "CFB",
-      "game_id": "401870769",
-      "date": "2026-11-14T19:00Z",
-      "home_team": "Sam Houston Bearkats",
-      "away_team": "Kennesaw State Owls",
-      "predicted_winner": "Kennesaw State Owls",
-      "home_win_probability": 0.1036,
-      "away_win_probability": 0.8964,
-      "projected_home_margin": -17.26,
-      "confidence": "uncalibrated",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261114&limit=500&groups=80"
     },
     {
       "sport": "NBA",
@@ -161,6 +148,19 @@
       "projected_home_margin": -13.26,
       "confidence": "uncalibrated",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261118&limit=500"
+    },
+    {
+      "sport": "NBA",
+      "game_id": "401909991",
+      "date": "2026-11-16T00:00Z",
+      "home_team": "Washington Wizards",
+      "away_team": "Houston Rockets",
+      "predicted_winner": "Houston Rockets",
+      "home_win_probability": 0.1792,
+      "away_win_probability": 0.8208,
+      "projected_home_margin": -12.17,
+      "confidence": "uncalibrated",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261115&limit=500"
     }
   ],
   "player_predictions": [
@@ -171,6 +171,16 @@
       "stat": "points",
       "projection": 39.0,
       "date": "2026-11-19T03:00Z",
+      "source": "ESPN public game boxscores (unofficial)",
+      "confidence": "uncalibrated"
+    },
+    {
+      "sport": "NBA",
+      "player": "Franz Wagner",
+      "team": "Orlando Magic",
+      "stat": "points",
+      "projection": 33.67,
+      "date": "2026-11-21T00:30Z",
       "source": "ESPN public game boxscores (unofficial)",
       "confidence": "uncalibrated"
     },
@@ -191,16 +201,6 @@
       "stat": "points",
       "projection": 31.67,
       "date": "2026-11-19T00:30Z",
-      "source": "ESPN public game boxscores (unofficial)",
-      "confidence": "uncalibrated"
-    },
-    {
-      "sport": "NBA",
-      "player": "Franz Wagner",
-      "team": "Orlando Magic",
-      "stat": "points",
-      "projection": 29.0,
-      "date": "2026-11-19T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "confidence": "uncalibrated"
     },
@@ -240,7 +240,7 @@
       "team": "Detroit Pistons",
       "stat": "points",
       "projection": 27.67,
-      "date": "2026-11-19T01:00Z",
+      "date": "2026-11-21T00:30Z",
       "source": "ESPN public game boxscores (unofficial)",
       "confidence": "uncalibrated"
     },
@@ -270,7 +270,7 @@
       "team": "Indiana Pacers",
       "stat": "points",
       "projection": 26.67,
-      "date": "2026-11-19T00:00Z",
+      "date": "2026-11-21T00:30Z",
       "source": "ESPN public game boxscores (unofficial)",
       "confidence": "uncalibrated"
     },
@@ -279,7 +279,7 @@
       "player": "Devin Booker",
       "team": "Phoenix Suns",
       "stat": "points",
-      "projection": 26.6,
+      "projection": 25.75,
       "date": "2026-11-19T03:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "confidence": "uncalibrated"
