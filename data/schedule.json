@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-14T06:46:52.901119+00:00",
+  "collected_at": "2026-11-14T12:36:31.505389+00:00",
   "games": [
     {
       "sport": "CFB",
@@ -3184,7 +3184,7 @@
       "date": "2026-11-14T03:15Z",
       "home_team": "Colorado Buffaloes",
       "away_team": "Houston Cougars",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261113&limit=500&groups=80"
     },
     {
@@ -3396,6 +3396,15 @@
     },
     {
       "sport": "CFB",
+      "game_id": "401856861",
+      "date": "2026-11-14T20:30Z",
+      "home_team": "West Virginia Mountaineers",
+      "away_team": "Kansas Jayhawks",
+      "status": "STATUS_SCHEDULED",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261114&limit=500&groups=80"
+    },
+    {
+      "sport": "CFB",
       "game_id": "401858295",
       "date": "2026-11-14T20:30Z",
       "home_team": "Virginia Cavaliers",
@@ -3436,15 +3445,6 @@
       "date": "2026-11-14T20:30Z",
       "home_team": "Liberty Flames",
       "away_team": "Middle Tennessee Blue Raiders",
-      "status": "STATUS_SCHEDULED",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261114&limit=500&groups=80"
-    },
-    {
-      "sport": "CFB",
-      "game_id": "401856861",
-      "date": "2026-11-14T20:30Z",
-      "home_team": "West Virginia Mountaineers",
-      "away_team": "Kansas Jayhawks",
       "status": "STATUS_SCHEDULED",
       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261114&limit=500&groups=80"
     },
@@ -3752,7 +3752,7 @@
       "home_team": "Oklahoma Sooners",
       "away_team": "Ole Miss Rebels",
       "status": "STATUS_SCHEDULED",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261114&limit=500&groups=80"
+      "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261115&limit=500&groups=80"
     },
     {
       "sport": "NBA",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T06:46:52.901119+00:00",
+  "generated_at": "2026-11-14T12:36:31.505389+00:00",
   "ratings": {
     "NFL": {
       "Los Angeles Rams": {
@@ -751,13 +751,13 @@
         "avg_allowed": 77.0
       },
       "Houston Cougars": {
-        "rating": 104.648,
-        "games": 1,
-        "avg_scored": 31.0,
-        "avg_allowed": 24.0
+        "rating": 96.484,
+        "games": 2,
+        "avg_scored": 31.5,
+        "avg_allowed": 33.0
       },
       "Cincinnati Bearcats": {
-        "rating": 95.352,
+        "rating": 93.694,
         "games": 1,
         "avg_scored": 24.0,
         "avg_allowed": 31.0
@@ -931,16 +931,16 @@
         "avg_allowed": 10.0
       },
       "Arizona State Sun Devils": {
-        "rating": 106.64,
+        "rating": 108.556,
         "games": 1,
         "avg_scored": 20.0,
         "avg_allowed": 10.0
       },
       "Colorado Buffaloes": {
-        "rating": 93.36,
-        "games": 1,
-        "avg_scored": 10.0,
-        "avg_allowed": 20.0
+        "rating": 102.766,
+        "games": 2,
+        "avg_scored": 26.0,
+        "avg_allowed": 26.0
       },
       "Georgia Tech Yellow Jackets": {
         "rating": 82.072,
