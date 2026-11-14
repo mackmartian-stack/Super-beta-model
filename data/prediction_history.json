@@ -521,7 +521,13 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261113&limit=500"
       },
       "first_recorded_at": "2026-11-07T06:45:23.400779+00:00",
-      "result": null
+      "result": {
+        "home_score": 125.0,
+        "away_score": 118.0,
+        "correct_winner": true,
+        "actual_home_win": true,
+        "settled_at": "2026-11-14T06:48:02.194093+00:00"
+      }
     },
     "NBA:401909953": {
       "forecast": {
@@ -561,7 +567,13 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261113&limit=500"
       },
       "first_recorded_at": "2026-11-07T06:45:23.400779+00:00",
-      "result": null
+      "result": {
+        "home_score": 107.0,
+        "away_score": 120.0,
+        "correct_winner": true,
+        "actual_home_win": false,
+        "settled_at": "2026-11-14T06:48:02.194096+00:00"
+      }
     },
     "NBA:401909299": {
       "forecast": {
@@ -578,7 +590,13 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261113&limit=500"
       },
       "first_recorded_at": "2026-11-07T06:45:23.400779+00:00",
-      "result": null
+      "result": {
+        "home_score": 125.0,
+        "away_score": 117.0,
+        "correct_winner": false,
+        "actual_home_win": true,
+        "settled_at": "2026-11-14T06:48:02.194090+00:00"
+      }
     },
     "NBA:401909979": {
       "forecast": {
@@ -1072,7 +1090,13 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261113&limit=500"
       },
       "first_recorded_at": "2026-11-12T06:59:45.270865+00:00",
-      "result": null
+      "result": {
+        "home_score": 107.0,
+        "away_score": 99.0,
+        "correct_winner": true,
+        "actual_home_win": true,
+        "settled_at": "2026-11-14T06:48:02.194080+00:00"
+      }
     },
     "CFB:401870769": {
       "forecast": {
@@ -1123,6 +1147,57 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261119&limit=500"
       },
       "first_recorded_at": "2026-11-13T06:58:56.998001+00:00",
+      "result": null
+    },
+    "NBA:401909310": {
+      "forecast": {
+        "sport": "NBA",
+        "game_id": "401909310",
+        "date": "2026-11-21T01:00Z",
+        "home_team": "Oklahoma City Thunder",
+        "away_team": "New Orleans Pelicans",
+        "predicted_winner": "Oklahoma City Thunder",
+        "home_win_probability": 0.8986,
+        "away_win_probability": 0.1014,
+        "projected_home_margin": 17.45,
+        "confidence": "uncalibrated",
+        "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261120&limit=500"
+      },
+      "first_recorded_at": "2026-11-14T06:48:02.157226+00:00",
+      "result": null
+    },
+    "NBA:401909313": {
+      "forecast": {
+        "sport": "NBA",
+        "game_id": "401909313",
+        "date": "2026-11-21T03:00Z",
+        "home_team": "Los Angeles Lakers",
+        "away_team": "Sacramento Kings",
+        "predicted_winner": "Los Angeles Lakers",
+        "home_win_probability": 0.8812,
+        "away_win_probability": 0.1188,
+        "projected_home_margin": 16.03,
+        "confidence": "uncalibrated",
+        "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261120&limit=500"
+      },
+      "first_recorded_at": "2026-11-14T06:48:02.157226+00:00",
+      "result": null
+    },
+    "NBA:401909980": {
+      "forecast": {
+        "sport": "NBA",
+        "game_id": "401909980",
+        "date": "2026-11-15T00:00Z",
+        "home_team": "New Orleans Pelicans",
+        "away_team": "Denver Nuggets",
+        "predicted_winner": "Denver Nuggets",
+        "home_win_probability": 0.1592,
+        "away_win_probability": 0.8408,
+        "projected_home_margin": -13.31,
+        "confidence": "uncalibrated",
+        "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261114&limit=500"
+      },
+      "first_recorded_at": "2026-11-14T06:48:02.157226+00:00",
       "result": null
     }
   },
