@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T12:37:51.278781+00:00",
+  "generated_at": "2026-11-15T18:33:51.859730+00:00",
   "ratings": {
     "NFL": {
       "Atlanta Falcons": {
@@ -39,16 +39,16 @@
         "avg_allowed": 35.0
       },
       "Miami Dolphins": {
-        "rating": 93.36,
+        "rating": 94.766,
         "games": 1,
         "avg_scored": 9.0,
         "avg_allowed": 19.0
       },
       "Detroit Lions": {
-        "rating": 106.64,
-        "games": 1,
-        "avg_scored": 19.0,
-        "avg_allowed": 9.0
+        "rating": 113.52,
+        "games": 2,
+        "avg_scored": 27.0,
+        "avg_allowed": 9.5
       },
       "New Orleans Saints": {
         "rating": 100.664,
@@ -111,13 +111,13 @@
         "avg_allowed": 22.0
       },
       "New England Patriots": {
-        "rating": 88.048,
-        "games": 1,
-        "avg_scored": 27.0,
-        "avg_allowed": 45.0
+        "rating": 84.481,
+        "games": 2,
+        "avg_scored": 18.5,
+        "avg_allowed": 40.0
       },
       "Green Bay Packers": {
-        "rating": 111.952,
+        "rating": 111.233,
         "games": 1,
         "avg_scored": 45.0,
         "avg_allowed": 27.0

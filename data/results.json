@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T12:37:51.278781+00:00",
+  "generated_at": "2026-11-15T18:33:51.859730+00:00",
   "games": [
     {
       "sport": "CFB",
@@ -4103,6 +4103,17 @@
       "away_score": 21.0,
       "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261114&limit=500&groups=80"
+    },
+    {
+      "sport": "NFL",
+      "game_id": "401873053",
+      "date": "2026-11-15T14:30Z",
+      "home_team": "Detroit Lions",
+      "away_team": "New England Patriots",
+      "home_score": 35.0,
+      "away_score": 10.0,
+      "status": "STATUS_FINAL",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261115&limit=500"
     }
   ]
 }

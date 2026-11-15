@@ -1,7 +1,7 @@
 {
   "model": "Super Beta Model 2.0",
   "status": "predictions_available",
-  "generated_at": "2026-11-15T18:23:46.654019+00:00",
+  "generated_at": "2026-11-15T18:34:40.612462+00:00",
   "experimental": true,
   "calibrated": false,
   "note": "No proven betting edge. Inputs must be verified and dated.",
@@ -226,21 +226,21 @@
     },
     {
       "sport": "NBA",
-      "player": "Jalen Brunson",
-      "team": "New York Knicks",
-      "stat": "points",
-      "projection": 28.5,
-      "date": "2026-11-22T00:30Z",
-      "source": "ESPN public game boxscores (unofficial)",
-      "confidence": "uncalibrated"
-    },
-    {
-      "sport": "NBA",
       "player": "Victor Wembanyama",
       "team": "San Antonio Spurs",
       "stat": "points",
       "projection": 28.25,
       "date": "2026-11-22T01:00Z",
+      "source": "ESPN public game boxscores (unofficial)",
+      "confidence": "uncalibrated"
+    },
+    {
+      "sport": "NBA",
+      "player": "Jalen Brunson",
+      "team": "New York Knicks",
+      "stat": "points",
+      "projection": 27.67,
+      "date": "2026-11-22T00:30Z",
       "source": "ESPN public game boxscores (unofficial)",
       "confidence": "uncalibrated"
     },
