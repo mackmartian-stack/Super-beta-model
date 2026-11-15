@@ -1,7 +1,7 @@
 {
   "model": "Super Beta Model 2.0",
   "status": "predictions_available",
-  "generated_at": "2026-11-15T00:25:29.242189+00:00",
+  "generated_at": "2026-11-15T00:45:14.300083+00:00",
   "experimental": true,
   "calibrated": false,
   "note": "No proven betting edge. Inputs must be verified and dated.",
@@ -44,19 +44,6 @@
       "projected_home_margin": 20.18,
       "confidence": "uncalibrated",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261114&limit=500"
-    },
-    {
-      "sport": "CFB",
-      "game_id": "401871080",
-      "date": "2026-11-21T18:00Z",
-      "home_team": "Liberty Flames",
-      "away_team": "Western Kentucky Hilltoppers",
-      "predicted_winner": "Liberty Flames",
-      "home_win_probability": 0.9234,
-      "away_win_probability": 0.0766,
-      "projected_home_margin": 19.91,
-      "confidence": "uncalibrated",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261121&limit=500&groups=80"
     },
     {
       "sport": "NBA",
@@ -161,9 +148,32 @@
       "projected_home_margin": 13.61,
       "confidence": "uncalibrated",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261118&limit=500"
+    },
+    {
+      "sport": "NBA",
+      "game_id": "401910023",
+      "date": "2026-11-21T18:00Z",
+      "home_team": "Philadelphia 76ers",
+      "away_team": "Milwaukee Bucks",
+      "predicted_winner": "Philadelphia 76ers",
+      "home_win_probability": 0.8395,
+      "away_win_probability": 0.1605,
+      "projected_home_margin": 13.24,
+      "confidence": "uncalibrated",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261121&limit=500"
     }
   ],
   "player_predictions": [
+    {
+      "sport": "NBA",
+      "player": "Luka Doncic",
+      "team": "Los Angeles Lakers",
+      "stat": "points",
+      "projection": 39.0,
+      "date": "2026-11-21T03:00Z",
+      "source": "ESPN public game boxscores (unofficial)",
+      "confidence": "uncalibrated"
+    },
     {
       "sport": "NBA",
       "player": "Franz Wagner",
@@ -206,11 +216,11 @@
     },
     {
       "sport": "NBA",
-      "player": "Jalen Brunson",
-      "team": "New York Knicks",
+      "player": "Austin Reaves",
+      "team": "Los Angeles Lakers",
       "stat": "points",
-      "projection": 28.5,
-      "date": "2026-11-20T01:00Z",
+      "projection": 28.67,
+      "date": "2026-11-21T03:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "confidence": "uncalibrated"
     },
@@ -219,8 +229,18 @@
       "player": "Victor Wembanyama",
       "team": "San Antonio Spurs",
       "stat": "points",
-      "projection": 28.25,
+      "projection": 28.6,
       "date": "2026-11-20T01:00Z",
+      "source": "ESPN public game boxscores (unofficial)",
+      "confidence": "uncalibrated"
+    },
+    {
+      "sport": "NBA",
+      "player": "Jalen Brunson",
+      "team": "New York Knicks",
+      "stat": "points",
+      "projection": 28.5,
+      "date": "2026-11-22T00:30Z",
       "source": "ESPN public game boxscores (unofficial)",
       "confidence": "uncalibrated"
     },
@@ -250,17 +270,7 @@
       "team": "Dallas Mavericks",
       "stat": "points",
       "projection": 26.67,
-      "date": "2026-11-19T02:30Z",
-      "source": "ESPN public game boxscores (unofficial)",
-      "confidence": "uncalibrated"
-    },
-    {
-      "sport": "NBA",
-      "player": "Darius Acuff Jr.",
-      "team": "Sacramento Kings",
-      "stat": "points",
-      "projection": 26.0,
-      "date": "2026-11-21T03:00Z",
+      "date": "2026-11-19T01:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "confidence": "uncalibrated"
     },
@@ -271,16 +281,6 @@
       "stat": "points",
       "projection": 26.0,
       "date": "2026-11-21T18:00Z",
-      "source": "ESPN public game boxscores (unofficial)",
-      "confidence": "uncalibrated"
-    },
-    {
-      "sport": "NBA",
-      "player": "Devin Booker",
-      "team": "Phoenix Suns",
-      "stat": "points",
-      "projection": 25.75,
-      "date": "2026-11-21T02:30Z",
       "source": "ESPN public game boxscores (unofficial)",
       "confidence": "uncalibrated"
     }

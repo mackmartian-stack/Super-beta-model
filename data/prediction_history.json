@@ -676,7 +676,13 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261114&limit=500&groups=80"
       },
       "first_recorded_at": "2026-11-09T00:46:22.574250+00:00",
-      "result": null
+      "result": {
+        "home_score": 28.0,
+        "away_score": 23.0,
+        "correct_winner": true,
+        "actual_home_win": true,
+        "settled_at": "2026-11-15T00:45:14.340724+00:00"
+      }
     },
     "CFB:401858294": {
       "forecast": {
@@ -693,7 +699,13 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261114&limit=500&groups=80"
       },
       "first_recorded_at": "2026-11-09T00:46:22.574250+00:00",
-      "result": null
+      "result": {
+        "home_score": 41.0,
+        "away_score": 7.0,
+        "correct_winner": true,
+        "actual_home_win": true,
+        "settled_at": "2026-11-15T00:45:14.340717+00:00"
+      }
     },
     "CFB:401866462": {
       "forecast": {
@@ -750,7 +762,13 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261114&limit=500&groups=80"
       },
       "first_recorded_at": "2026-11-09T00:46:22.574250+00:00",
-      "result": null
+      "result": {
+        "home_score": 16.0,
+        "away_score": 17.0,
+        "correct_winner": true,
+        "actual_home_win": false,
+        "settled_at": "2026-11-15T00:45:14.340712+00:00"
+      }
     },
     "CFB:401870752": {
       "forecast": {
@@ -767,7 +785,13 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261114&limit=500&groups=80"
       },
       "first_recorded_at": "2026-11-09T00:46:22.574250+00:00",
-      "result": null
+      "result": {
+        "home_score": 35.0,
+        "away_score": 24.0,
+        "correct_winner": false,
+        "actual_home_win": true,
+        "settled_at": "2026-11-15T00:45:14.340720+00:00"
+      }
     },
     "CFB:401861967": {
       "forecast": {
@@ -784,7 +808,13 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261114&limit=500&groups=80"
       },
       "first_recorded_at": "2026-11-09T00:46:22.574250+00:00",
-      "result": null
+      "result": {
+        "home_score": 46.0,
+        "away_score": 22.0,
+        "correct_winner": false,
+        "actual_home_win": true,
+        "settled_at": "2026-11-15T00:45:14.340706+00:00"
+      }
     },
     "CFB:401858301": {
       "forecast": {
@@ -801,7 +831,13 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261114&limit=500&groups=80"
       },
       "first_recorded_at": "2026-11-09T00:46:22.574250+00:00",
-      "result": null
+      "result": {
+        "home_score": 7.0,
+        "away_score": 49.0,
+        "correct_winner": true,
+        "actual_home_win": false,
+        "settled_at": "2026-11-15T00:45:14.340699+00:00"
+      }
     },
     "CFB:401858299": {
       "forecast": {
@@ -835,7 +871,13 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261114&limit=500&groups=80"
       },
       "first_recorded_at": "2026-11-09T00:46:22.574250+00:00",
-      "result": null
+      "result": {
+        "home_score": 6.0,
+        "away_score": 20.0,
+        "correct_winner": false,
+        "actual_home_win": false,
+        "settled_at": "2026-11-15T00:45:14.340709+00:00"
+      }
     },
     "NBA:401909988": {
       "forecast": {
@@ -1113,7 +1155,13 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261114&limit=500&groups=80"
       },
       "first_recorded_at": "2026-11-13T00:51:35.495612+00:00",
-      "result": null
+      "result": {
+        "home_score": 7.0,
+        "away_score": 26.0,
+        "correct_winner": true,
+        "actual_home_win": false,
+        "settled_at": "2026-11-15T00:45:14.340715+00:00"
+      }
     },
     "NBA:401910022": {
       "forecast": {
@@ -1215,6 +1263,23 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261121&limit=500&groups=80"
       },
       "first_recorded_at": "2026-11-14T18:31:43.688924+00:00",
+      "result": null
+    },
+    "NBA:401910023": {
+      "forecast": {
+        "sport": "NBA",
+        "game_id": "401910023",
+        "date": "2026-11-21T18:00Z",
+        "home_team": "Philadelphia 76ers",
+        "away_team": "Milwaukee Bucks",
+        "predicted_winner": "Philadelphia 76ers",
+        "home_win_probability": 0.8395,
+        "away_win_probability": 0.1605,
+        "projected_home_margin": 13.24,
+        "confidence": "uncalibrated",
+        "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261121&limit=500"
+      },
+      "first_recorded_at": "2026-11-15T00:45:14.300083+00:00",
       "result": null
     }
   },
