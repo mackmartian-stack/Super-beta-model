@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T06:51:16.277084+00:00",
+  "generated_at": "2026-11-15T12:37:51.278781+00:00",
   "games": [
     {
       "sport": "CFB",
@@ -4068,6 +4068,39 @@
       "away_team": "Wyoming Cowboys",
       "home_score": 15.0,
       "away_score": 27.0,
+      "status": "STATUS_FINAL",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261114&limit=500&groups=80"
+    },
+    {
+      "sport": "CFB",
+      "game_id": "401856864",
+      "date": "2026-11-15T03:30Z",
+      "home_team": "Arizona Wildcats",
+      "away_team": "Utah Utes",
+      "home_score": 39.0,
+      "away_score": 40.0,
+      "status": "STATUS_FINAL",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261114&limit=500&groups=80"
+    },
+    {
+      "sport": "CFB",
+      "game_id": "401860917",
+      "date": "2026-11-15T03:45Z",
+      "home_team": "Washington State Cougars",
+      "away_team": "Colorado State Rams",
+      "home_score": 73.0,
+      "away_score": 7.0,
+      "status": "STATUS_FINAL",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261114&limit=500&groups=80"
+    },
+    {
+      "sport": "CFB",
+      "game_id": "401864537",
+      "date": "2026-11-15T04:00Z",
+      "home_team": "Hawai'i Rainbow Warriors",
+      "away_team": "North Dakota State Bison",
+      "home_score": 13.0,
+      "away_score": 21.0,
       "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261114&limit=500&groups=80"
     }

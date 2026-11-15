@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T06:51:16.277084+00:00",
+  "generated_at": "2026-11-15T12:37:51.278781+00:00",
   "ratings": {
     "NFL": {
       "Atlanta Falcons": {
@@ -559,16 +559,16 @@
         "avg_allowed": 15.5
       },
       "Utah State Aggies": {
-        "rating": 92.696,
+        "rating": 94.838,
         "games": 2,
         "avg_scored": 15.0,
         "avg_allowed": 23.0
       },
       "Washington State Cougars": {
-        "rating": 97.704,
-        "games": 1,
-        "avg_scored": 16.0,
-        "avg_allowed": 17.0
+        "rating": 128.198,
+        "games": 2,
+        "avg_scored": 44.5,
+        "avg_allowed": 12.0
       },
       "San Jos\u00e9 State Spartans": {
         "rating": 89.439,
@@ -733,13 +733,13 @@
         "avg_allowed": 12.0
       },
       "Arizona Wildcats": {
-        "rating": 101.661,
-        "games": 1,
-        "avg_scored": 29.0,
-        "avg_allowed": 28.0
+        "rating": 100.127,
+        "games": 2,
+        "avg_scored": 34.0,
+        "avg_allowed": 34.0
       },
       "TCU Horned Frogs": {
-        "rating": 104.205,
+        "rating": 104.104,
         "games": 2,
         "avg_scored": 24.0,
         "avg_allowed": 19.5
@@ -883,7 +883,7 @@
         "avg_allowed": 28.0
       },
       "Kansas State Wildcats": {
-        "rating": 92.861,
+        "rating": 92.838,
         "games": 1,
         "avg_scored": 10.0,
         "avg_allowed": 20.0
@@ -1159,7 +1159,7 @@
         "avg_allowed": 52.0
       },
       "San Diego State Aztecs": {
-        "rating": 112.104,
+        "rating": 112.483,
         "games": 1,
         "avg_scored": 30.0,
         "avg_allowed": 13.0
@@ -1169,6 +1169,30 @@
         "games": 1,
         "avg_scored": 15.0,
         "avg_allowed": 27.0
+      },
+      "Utah Utes": {
+        "rating": 100.816,
+        "games": 1,
+        "avg_scored": 40.0,
+        "avg_allowed": 39.0
+      },
+      "Colorado State Rams": {
+        "rating": 52.963,
+        "games": 1,
+        "avg_scored": 7.0,
+        "avg_allowed": 73.0
+      },
+      "Hawai'i Rainbow Warriors": {
+        "rating": 94.688,
+        "games": 1,
+        "avg_scored": 13.0,
+        "avg_allowed": 21.0
+      },
+      "North Dakota State Bison": {
+        "rating": 105.312,
+        "games": 1,
+        "avg_scored": 21.0,
+        "avg_allowed": 13.0
       }
     }
   },
