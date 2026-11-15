@@ -636,7 +636,13 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261114&limit=500"
       },
       "first_recorded_at": "2026-11-08T06:46:08.416781+00:00",
-      "result": null
+      "result": {
+        "home_score": 106.0,
+        "away_score": 117.0,
+        "correct_winner": false,
+        "actual_home_win": false,
+        "settled_at": "2026-11-15T06:52:15.013756+00:00"
+      }
     },
     "NBA:401909977": {
       "forecast": {
@@ -745,7 +751,13 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261114&limit=500&groups=80"
       },
       "first_recorded_at": "2026-11-09T00:46:22.574250+00:00",
-      "result": null
+      "result": {
+        "home_score": 63.0,
+        "away_score": 31.0,
+        "correct_winner": true,
+        "actual_home_win": true,
+        "settled_at": "2026-11-15T06:52:15.013736+00:00"
+      }
     },
     "CFB:401862825": {
       "forecast": {
@@ -854,7 +866,13 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261114&limit=500&groups=80"
       },
       "first_recorded_at": "2026-11-09T00:46:22.574250+00:00",
-      "result": null
+      "result": {
+        "home_score": 22.0,
+        "away_score": 40.0,
+        "correct_winner": false,
+        "actual_home_win": false,
+        "settled_at": "2026-11-15T06:52:15.013751+00:00"
+      }
     },
     "CFB:401858297": {
       "forecast": {
@@ -1030,7 +1048,13 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261114&limit=500"
       },
       "first_recorded_at": "2026-11-10T06:53:56.148822+00:00",
-      "result": null
+      "result": {
+        "home_score": 129.0,
+        "away_score": 110.0,
+        "correct_winner": true,
+        "actual_home_win": true,
+        "settled_at": "2026-11-15T06:52:15.013754+00:00"
+      }
     },
     "NBA:401909991": {
       "forecast": {
@@ -1246,7 +1270,13 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261114&limit=500"
       },
       "first_recorded_at": "2026-11-14T06:48:02.157226+00:00",
-      "result": null
+      "result": {
+        "home_score": 108.0,
+        "away_score": 116.0,
+        "correct_winner": true,
+        "actual_home_win": false,
+        "settled_at": "2026-11-15T06:52:15.013746+00:00"
+      }
     },
     "CFB:401871080": {
       "forecast": {
@@ -1280,6 +1310,57 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261121&limit=500"
       },
       "first_recorded_at": "2026-11-15T00:45:14.300083+00:00",
+      "result": null
+    },
+    "NBA:401910027": {
+      "forecast": {
+        "sport": "NBA",
+        "game_id": "401910027",
+        "date": "2026-11-22T01:00Z",
+        "home_team": "San Antonio Spurs",
+        "away_team": "New Orleans Pelicans",
+        "predicted_winner": "San Antonio Spurs",
+        "home_win_probability": 0.9742,
+        "away_win_probability": 0.0258,
+        "projected_home_margin": 29.06,
+        "confidence": "uncalibrated",
+        "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261121&limit=500"
+      },
+      "first_recorded_at": "2026-11-15T06:52:14.970600+00:00",
+      "result": null
+    },
+    "NBA:401910028": {
+      "forecast": {
+        "sport": "NBA",
+        "game_id": "401910028",
+        "date": "2026-11-22T03:00Z",
+        "home_team": "Sacramento Kings",
+        "away_team": "Boston Celtics",
+        "predicted_winner": "Boston Celtics",
+        "home_win_probability": 0.1215,
+        "away_win_probability": 0.8785,
+        "projected_home_margin": -15.82,
+        "confidence": "uncalibrated",
+        "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261121&limit=500"
+      },
+      "first_recorded_at": "2026-11-15T06:52:14.970600+00:00",
+      "result": null
+    },
+    "NBA:401910004": {
+      "forecast": {
+        "sport": "NBA",
+        "game_id": "401910004",
+        "date": "2026-11-18T01:00Z",
+        "home_team": "San Antonio Spurs",
+        "away_team": "Detroit Pistons",
+        "predicted_winner": "San Antonio Spurs",
+        "home_win_probability": 0.8597,
+        "away_win_probability": 0.1403,
+        "projected_home_margin": 14.5,
+        "confidence": "uncalibrated",
+        "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261117&limit=500"
+      },
+      "first_recorded_at": "2026-11-15T06:52:14.970600+00:00",
       "result": null
     }
   },
