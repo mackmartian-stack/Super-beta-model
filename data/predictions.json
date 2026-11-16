@@ -1,7 +1,7 @@
 {
   "model": "Super Beta Model 2.0",
   "status": "predictions_available",
-  "generated_at": "2026-11-16T07:49:18.285282+00:00",
+  "generated_at": "2026-11-16T08:23:59.719474+00:00",
   "experimental": true,
   "calibrated": false,
   "note": "No proven betting edge. Inputs must be verified and dated.",
@@ -26,9 +26,9 @@
       "home_team": "San Antonio Spurs",
       "away_team": "New Orleans Pelicans",
       "predicted_winner": "San Antonio Spurs",
-      "home_win_probability": 0.9704,
-      "away_win_probability": 0.0296,
-      "projected_home_margin": 27.93,
+      "home_win_probability": 0.9701,
+      "away_win_probability": 0.0299,
+      "projected_home_margin": 27.83,
       "confidence": "uncalibrated",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261121&limit=500"
     },
@@ -98,6 +98,19 @@
       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261120&limit=500&groups=80"
     },
     {
+      "sport": "NBA",
+      "game_id": "401910028",
+      "date": "2026-11-22T03:00Z",
+      "home_team": "Sacramento Kings",
+      "away_team": "Boston Celtics",
+      "predicted_winner": "Boston Celtics",
+      "home_win_probability": 0.0738,
+      "away_win_probability": 0.9262,
+      "projected_home_margin": -20.24,
+      "confidence": "uncalibrated",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261121&limit=500"
+    },
+    {
       "sport": "CFB",
       "game_id": "401862835",
       "date": "2026-11-21T17:00Z",
@@ -109,6 +122,19 @@
       "projected_home_margin": -19.79,
       "confidence": "uncalibrated",
       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261121&limit=500&groups=80"
+    },
+    {
+      "sport": "NBA",
+      "game_id": "401909310",
+      "date": "2026-11-21T01:00Z",
+      "home_team": "Oklahoma City Thunder",
+      "away_team": "New Orleans Pelicans",
+      "predicted_winner": "Oklahoma City Thunder",
+      "home_win_probability": 0.9169,
+      "away_win_probability": 0.0831,
+      "projected_home_margin": 19.2,
+      "confidence": "uncalibrated",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261120&limit=500"
     },
     {
       "sport": "CFB",
@@ -124,19 +150,6 @@
       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261121&limit=500&groups=80"
     },
     {
-      "sport": "NBA",
-      "game_id": "401910022",
-      "date": "2026-11-20T01:00Z",
-      "home_team": "San Antonio Spurs",
-      "away_team": "LA Clippers",
-      "predicted_winner": "San Antonio Spurs",
-      "home_win_probability": 0.911,
-      "away_win_probability": 0.089,
-      "projected_home_margin": 18.6,
-      "confidence": "uncalibrated",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261119&limit=500"
-    },
-    {
       "sport": "CFB",
       "game_id": "401862834",
       "date": "2026-11-21T17:00Z",
@@ -146,19 +159,6 @@
       "home_win_probability": 0.0891,
       "away_win_probability": 0.9109,
       "projected_home_margin": -18.6,
-      "confidence": "uncalibrated",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261121&limit=500&groups=80"
-    },
-    {
-      "sport": "CFB",
-      "game_id": "401869953",
-      "date": "2026-11-21T21:00Z",
-      "home_team": "Troy Trojans",
-      "away_team": "Georgia Southern Eagles",
-      "predicted_winner": "Georgia Southern Eagles",
-      "home_win_probability": 0.0902,
-      "away_win_probability": 0.9098,
-      "projected_home_margin": -18.49,
       "confidence": "uncalibrated",
       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261121&limit=500&groups=80"
     }
@@ -186,11 +186,11 @@
     },
     {
       "sport": "NBA",
-      "player": "Giannis Antetokounmpo",
-      "team": "Miami Heat",
+      "player": "Cade Cunningham",
+      "team": "Detroit Pistons",
       "stat": "points",
-      "projection": 32.5,
-      "date": "2026-11-22T23:00Z",
+      "projection": 34.0,
+      "date": "2026-11-22T20:30Z",
       "source": "ESPN public game boxscores (unofficial)",
       "confidence": "uncalibrated"
     },
@@ -199,18 +199,18 @@
       "player": "Shai Gilgeous-Alexander",
       "team": "Oklahoma City Thunder",
       "stat": "points",
-      "projection": 32.33,
+      "projection": 33.5,
       "date": "2026-11-22T23:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "confidence": "uncalibrated"
     },
     {
       "sport": "NBA",
-      "player": "Anthony Davis",
-      "team": "Washington Wizards",
+      "player": "Giannis Antetokounmpo",
+      "team": "Miami Heat",
       "stat": "points",
-      "projection": 31.67,
-      "date": "2026-11-23T00:00Z",
+      "projection": 32.5,
+      "date": "2026-11-22T23:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "confidence": "uncalibrated"
     },
@@ -226,21 +226,11 @@
     },
     {
       "sport": "NBA",
-      "player": "Cade Cunningham",
-      "team": "Detroit Pistons",
+      "player": "Deni Avdija",
+      "team": "Portland Trail Blazers",
       "stat": "points",
-      "projection": 29.0,
-      "date": "2026-11-22T20:30Z",
-      "source": "ESPN public game boxscores (unofficial)",
-      "confidence": "uncalibrated"
-    },
-    {
-      "sport": "NBA",
-      "player": "Victor Wembanyama",
-      "team": "San Antonio Spurs",
-      "stat": "points",
-      "projection": 27.8,
-      "date": "2026-11-22T01:00Z",
+      "projection": 28.67,
+      "date": "2026-11-22T00:30Z",
       "source": "ESPN public game boxscores (unofficial)",
       "confidence": "uncalibrated"
     },
@@ -249,18 +239,28 @@
       "player": "Jalen Brunson",
       "team": "New York Knicks",
       "stat": "points",
-      "projection": 27.67,
+      "projection": 27.75,
       "date": "2026-11-23T01:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "confidence": "uncalibrated"
     },
     {
       "sport": "NBA",
-      "player": "Alperen Sengun",
-      "team": "Houston Rockets",
+      "player": "Victor Wembanyama",
+      "team": "San Antonio Spurs",
       "stat": "points",
-      "projection": 27.33,
-      "date": "2026-11-21T03:00Z",
+      "projection": 27.5,
+      "date": "2026-11-22T01:00Z",
+      "source": "ESPN public game boxscores (unofficial)",
+      "confidence": "uncalibrated"
+    },
+    {
+      "sport": "NBA",
+      "player": "Anthony Davis",
+      "team": "Washington Wizards",
+      "stat": "points",
+      "projection": 27.25,
+      "date": "2026-11-23T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "confidence": "uncalibrated"
     },
@@ -276,11 +276,11 @@
     },
     {
       "sport": "NBA",
-      "player": "Tyrese Maxey",
-      "team": "Philadelphia 76ers",
+      "player": "Kyrie Irving",
+      "team": "Dallas Mavericks",
       "stat": "points",
-      "projection": 26.25,
-      "date": "2026-11-21T18:00Z",
+      "projection": 26.33,
+      "date": "2026-11-23T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "confidence": "uncalibrated"
     }

@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-16T01:01:50.972704+00:00",
+  "collected_at": "2026-11-16T08:23:17.780447+00:00",
   "games": [
     {
       "sport": "CFB",
@@ -7648,7 +7648,7 @@
       "date": "2026-11-15T23:00Z",
       "home_team": "Boston Celtics",
       "away_team": "Dallas Mavericks",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261115&limit=500"
     },
     {
@@ -7657,7 +7657,7 @@
       "date": "2026-11-15T23:00Z",
       "home_team": "Toronto Raptors",
       "away_team": "New York Knicks",
-      "status": "STATUS_END_PERIOD",
+      "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261115&limit=500"
     },
     {
@@ -7666,7 +7666,7 @@
       "date": "2026-11-16T00:00Z",
       "home_team": "Washington Wizards",
       "away_team": "Houston Rockets",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261115&limit=500"
     },
     {
@@ -7675,7 +7675,7 @@
       "date": "2026-11-16T01:00Z",
       "home_team": "Milwaukee Bucks",
       "away_team": "Atlanta Hawks",
-      "status": "STATUS_SCHEDULED",
+      "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261115&limit=500"
     },
     {
@@ -7684,7 +7684,7 @@
       "date": "2026-11-16T01:20Z",
       "home_team": "Cincinnati Bengals",
       "away_team": "Pittsburgh Steelers",
-      "status": "STATUS_SCHEDULED",
+      "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261115&limit=500"
     },
     {
@@ -7693,7 +7693,7 @@
       "date": "2026-11-16T02:00Z",
       "home_team": "Sacramento Kings",
       "away_team": "Oklahoma City Thunder",
-      "status": "STATUS_SCHEDULED",
+      "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261115&limit=500"
     },
     {
