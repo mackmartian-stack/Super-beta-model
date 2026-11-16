@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-16T08:23:17.780447+00:00",
+  "collected_at": "2026-11-16T14:50:22.923945+00:00",
   "games": [
     {
       "sport": "CFB",
@@ -8202,15 +8202,6 @@
     },
     {
       "sport": "CFB",
-      "game_id": "401862835",
-      "date": "2026-11-21T17:00Z",
-      "home_team": "Tulane Green Wave",
-      "away_team": "North Texas Mean Green",
-      "status": "STATUS_SCHEDULED",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261121&limit=500&groups=80"
-    },
-    {
-      "sport": "CFB",
       "game_id": "401856748",
       "date": "2026-11-21T17:00Z",
       "home_team": "Florida Gators",
@@ -8269,6 +8260,15 @@
       "date": "2026-11-21T17:00Z",
       "home_team": "Navy Midshipmen",
       "away_team": "Memphis Tigers",
+      "status": "STATUS_SCHEDULED",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261121&limit=500&groups=80"
+    },
+    {
+      "sport": "CFB",
+      "game_id": "401862835",
+      "date": "2026-11-21T17:00Z",
+      "home_team": "Tulane Green Wave",
+      "away_team": "North Texas Mean Green",
       "status": "STATUS_SCHEDULED",
       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261121&limit=500&groups=80"
     },

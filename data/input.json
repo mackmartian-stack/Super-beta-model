@@ -585,17 +585,6 @@
     },
     {
       "sport": "CFB",
-      "game_id": "401862835",
-      "date": "2026-11-21T17:00Z",
-      "home_team": "Tulane Green Wave",
-      "away_team": "North Texas Mean Green",
-      "home_rating": 88.221,
-      "away_rating": 110.507,
-      "home_advantage_points": 2.5,
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261121&limit=500&groups=80"
-    },
-    {
-      "sport": "CFB",
       "game_id": "401856748",
       "date": "2026-11-21T17:00Z",
       "home_team": "Florida Gators",
@@ -668,6 +657,17 @@
       "away_team": "Memphis Tigers",
       "home_rating": 97.226,
       "away_rating": 118.327,
+      "home_advantage_points": 2.5,
+      "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261121&limit=500&groups=80"
+    },
+    {
+      "sport": "CFB",
+      "game_id": "401862835",
+      "date": "2026-11-21T17:00Z",
+      "home_team": "Tulane Green Wave",
+      "away_team": "North Texas Mean Green",
+      "home_rating": 88.221,
+      "away_rating": 110.507,
       "home_advantage_points": 2.5,
       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261121&limit=500&groups=80"
     },
@@ -14538,7 +14538,7 @@
       "method": "mean of available recent appearances; no minutes/injury adjustment"
     }
   ],
-  "generated_at": "2026-11-16T08:23:17.780447+00:00",
+  "generated_at": "2026-11-16T14:50:22.923945+00:00",
   "method": "Recent scoring margin plus opponent-strength adjustment; experimental, uncalibrated",
   "warnings": [
     "No verified injuries, lineups, coaching adjustments, or player projections.",
