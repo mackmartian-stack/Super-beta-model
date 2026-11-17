@@ -1568,6 +1568,40 @@
       },
       "first_recorded_at": "2026-11-16T01:03:11.340842+00:00",
       "result": null
+    },
+    "NFL:401873067": {
+      "forecast": {
+        "sport": "NFL",
+        "game_id": "401873067",
+        "date": "2026-11-22T18:00Z",
+        "home_team": "Kansas City Chiefs",
+        "away_team": "Arizona Cardinals",
+        "predicted_winner": "Kansas City Chiefs",
+        "home_win_probability": 0.8938,
+        "away_win_probability": 0.1062,
+        "projected_home_margin": 17.04,
+        "confidence": "uncalibrated",
+        "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261122&limit=500"
+      },
+      "first_recorded_at": "2026-11-17T00:49:40.157396+00:00",
+      "result": null
+    },
+    "NFL:401873070": {
+      "forecast": {
+        "sport": "NFL",
+        "game_id": "401873070",
+        "date": "2026-11-22T18:00Z",
+        "home_team": "Buffalo Bills",
+        "away_team": "Miami Dolphins",
+        "predicted_winner": "Buffalo Bills",
+        "home_win_probability": 0.868,
+        "away_win_probability": 0.132,
+        "projected_home_margin": 15.07,
+        "confidence": "uncalibrated",
+        "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261122&limit=500"
+      },
+      "first_recorded_at": "2026-11-17T00:49:40.157396+00:00",
+      "result": null
     }
   },
   "players": {},
