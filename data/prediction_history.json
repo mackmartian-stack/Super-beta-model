@@ -1142,7 +1142,13 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261117&limit=500"
       },
       "first_recorded_at": "2026-11-11T06:58:39.909532+00:00",
-      "result": null
+      "result": {
+        "home_score": 118.0,
+        "away_score": 114.0,
+        "correct_winner": true,
+        "actual_home_win": true,
+        "settled_at": "2026-11-18T12:58:24.392881+00:00"
+      }
     },
     "NBA:401910009": {
       "forecast": {

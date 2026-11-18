@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-18T07:00:22.577687+00:00",
+  "collected_at": "2026-11-18T12:57:34.793151+00:00",
   "games": [
     {
       "sport": "NFL",
@@ -3301,7 +3301,7 @@
       "date": "2026-11-18T04:00Z",
       "home_team": "Los Angeles Lakers",
       "away_team": "Charlotte Hornets",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261117&limit=500"
     },
     {

@@ -1,6 +1,6 @@
 {
   "recorded_forecasts": 83,
-  "settled_games": 53,
-  "winner_accuracy": 0.7547,
+  "settled_games": 54,
+  "winner_accuracy": 0.7593,
   "note": "Accuracy on tracked games only; not out-of-sample calibration or betting ROI."
 }

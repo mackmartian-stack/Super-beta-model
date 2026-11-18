@@ -1,7 +1,7 @@
 {
   "model": "Super Beta Model 2.0",
   "status": "predictions_available",
-  "generated_at": "2026-11-18T12:47:48.783308+00:00",
+  "generated_at": "2026-11-18T12:58:24.356150+00:00",
   "experimental": true,
   "calibrated": false,
   "note": "No proven betting edge. Inputs must be verified and dated.",
@@ -28,7 +28,7 @@
       "predicted_winner": "Boston Celtics",
       "home_win_probability": 0.0877,
       "away_win_probability": 0.9123,
-      "projected_home_margin": -18.73,
+      "projected_home_margin": -18.74,
       "confidence": "uncalibrated",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261124&limit=500"
     },
@@ -39,9 +39,9 @@
       "home_team": "Miami Heat",
       "away_team": "Milwaukee Bucks",
       "predicted_winner": "Miami Heat",
-      "home_win_probability": 0.9053,
-      "away_win_probability": 0.0947,
-      "projected_home_margin": 18.06,
+      "home_win_probability": 0.9055,
+      "away_win_probability": 0.0945,
+      "projected_home_margin": 18.08,
       "confidence": "uncalibrated",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261118&limit=500"
     },
@@ -52,24 +52,11 @@
       "home_team": "San Antonio Spurs",
       "away_team": "LA Clippers",
       "predicted_winner": "San Antonio Spurs",
-      "home_win_probability": 0.9026,
-      "away_win_probability": 0.0974,
-      "projected_home_margin": 17.81,
+      "home_win_probability": 0.9023,
+      "away_win_probability": 0.0977,
+      "projected_home_margin": 17.78,
       "confidence": "uncalibrated",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261119&limit=500"
-    },
-    {
-      "sport": "NBA",
-      "game_id": "401909313",
-      "date": "2026-11-21T03:00Z",
-      "home_team": "Los Angeles Lakers",
-      "away_team": "Sacramento Kings",
-      "predicted_winner": "Los Angeles Lakers",
-      "home_win_probability": 0.8974,
-      "away_win_probability": 0.1026,
-      "projected_home_margin": 17.35,
-      "confidence": "uncalibrated",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261120&limit=500"
     },
     {
       "sport": "NBA",
@@ -78,9 +65,9 @@
       "home_team": "Sacramento Kings",
       "away_team": "Boston Celtics",
       "predicted_winner": "Boston Celtics",
-      "home_win_probability": 0.1035,
-      "away_win_probability": 0.8965,
-      "projected_home_margin": -17.27,
+      "home_win_probability": 0.1031,
+      "away_win_probability": 0.8969,
+      "projected_home_margin": -17.31,
       "confidence": "uncalibrated",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261121&limit=500"
     },
@@ -91,11 +78,24 @@
       "home_team": "Sacramento Kings",
       "away_team": "San Antonio Spurs",
       "predicted_winner": "San Antonio Spurs",
-      "home_win_probability": 0.1065,
-      "away_win_probability": 0.8935,
-      "projected_home_margin": -17.02,
+      "home_win_probability": 0.1063,
+      "away_win_probability": 0.8937,
+      "projected_home_margin": -17.03,
       "confidence": "uncalibrated",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261123&limit=500"
+    },
+    {
+      "sport": "NBA",
+      "game_id": "401909313",
+      "date": "2026-11-21T03:00Z",
+      "home_team": "Los Angeles Lakers",
+      "away_team": "Sacramento Kings",
+      "predicted_winner": "Los Angeles Lakers",
+      "home_win_probability": 0.8913,
+      "away_win_probability": 0.1087,
+      "projected_home_margin": 16.83,
+      "confidence": "uncalibrated",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261120&limit=500"
     },
     {
       "sport": "NBA",
@@ -106,7 +106,7 @@
       "predicted_winner": "Oklahoma City Thunder",
       "home_win_probability": 0.8709,
       "away_win_probability": 0.1291,
-      "projected_home_margin": 15.28,
+      "projected_home_margin": 15.27,
       "confidence": "uncalibrated",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261120&limit=500"
     },
@@ -117,24 +117,11 @@
       "home_team": "Philadelphia 76ers",
       "away_team": "Milwaukee Bucks",
       "predicted_winner": "Philadelphia 76ers",
-      "home_win_probability": 0.8582,
-      "away_win_probability": 0.1418,
-      "projected_home_margin": 14.4,
+      "home_win_probability": 0.8586,
+      "away_win_probability": 0.1414,
+      "projected_home_margin": 14.43,
       "confidence": "uncalibrated",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261121&limit=500"
-    },
-    {
-      "sport": "NBA",
-      "game_id": "401910036",
-      "date": "2026-11-24T00:00Z",
-      "home_team": "Charlotte Hornets",
-      "away_team": "Memphis Grizzlies",
-      "predicted_winner": "Memphis Grizzlies",
-      "home_win_probability": 0.1543,
-      "away_win_probability": 0.8457,
-      "projected_home_margin": -13.61,
-      "confidence": "uncalibrated",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261123&limit=500"
     },
     {
       "sport": "NBA",
@@ -143,9 +130,9 @@
       "home_team": "Minnesota Timberwolves",
       "away_team": "Brooklyn Nets",
       "predicted_winner": "Minnesota Timberwolves",
-      "home_win_probability": 0.839,
-      "away_win_probability": 0.161,
-      "projected_home_margin": 13.21,
+      "home_win_probability": 0.8386,
+      "away_win_probability": 0.1614,
+      "projected_home_margin": 13.18,
       "confidence": "uncalibrated",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261123&limit=500"
     },
@@ -156,9 +143,22 @@
       "home_team": "Houston Rockets",
       "away_team": "LA Clippers",
       "predicted_winner": "Houston Rockets",
-      "home_win_probability": 0.8283,
-      "away_win_probability": 0.1717,
-      "projected_home_margin": 12.59,
+      "home_win_probability": 0.8278,
+      "away_win_probability": 0.1722,
+      "projected_home_margin": 12.56,
+      "confidence": "uncalibrated",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261123&limit=500"
+    },
+    {
+      "sport": "NBA",
+      "game_id": "401910036",
+      "date": "2026-11-24T00:00Z",
+      "home_team": "Charlotte Hornets",
+      "away_team": "Memphis Grizzlies",
+      "predicted_winner": "Memphis Grizzlies",
+      "home_win_probability": 0.1751,
+      "away_win_probability": 0.8249,
+      "projected_home_margin": -12.4,
       "confidence": "uncalibrated",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261123&limit=500"
     }
@@ -171,6 +171,16 @@
       "stat": "points",
       "projection": 37.33,
       "date": "2026-11-25T00:00Z",
+      "source": "ESPN public game boxscores (unofficial)",
+      "confidence": "uncalibrated"
+    },
+    {
+      "sport": "NBA",
+      "player": "Luka Doncic",
+      "team": "Los Angeles Lakers",
+      "stat": "points",
+      "projection": 37.0,
+      "date": "2026-11-24T03:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "confidence": "uncalibrated"
     },
@@ -189,7 +199,7 @@
       "player": "Franz Wagner",
       "team": "Orlando Magic",
       "stat": "points",
-      "projection": 31.75,
+      "projection": 31.33,
       "date": "2026-11-25T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "confidence": "uncalibrated"
@@ -271,16 +281,6 @@
       "stat": "points",
       "projection": 26.67,
       "date": "2026-11-24T00:00Z",
-      "source": "ESPN public game boxscores (unofficial)",
-      "confidence": "uncalibrated"
-    },
-    {
-      "sport": "NBA",
-      "player": "Jayson Tatum",
-      "team": "Boston Celtics",
-      "stat": "points",
-      "projection": 26.67,
-      "date": "2026-11-25T01:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "confidence": "uncalibrated"
     }
