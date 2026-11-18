@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T00:56:01.091879+00:00",
+  "generated_at": "2026-11-18T07:00:22.577687+00:00",
   "games": [
     {
       "sport": "NFL",
@@ -3949,6 +3949,83 @@
       "away_score": 117.0,
       "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261116&limit=500"
+    },
+    {
+      "sport": "CFB",
+      "game_id": "401866465",
+      "date": "2026-11-17T23:00Z",
+      "home_team": "Western Michigan Broncos",
+      "away_team": "Eastern Michigan Eagles",
+      "home_score": 34.0,
+      "away_score": 27.0,
+      "status": "STATUS_FINAL",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261117&limit=500&groups=80"
+    },
+    {
+      "sport": "CFB",
+      "game_id": "401866464",
+      "date": "2026-11-18T00:00Z",
+      "home_team": "Ohio Bobcats",
+      "away_team": "Ball State Cardinals",
+      "home_score": 35.0,
+      "away_score": 28.0,
+      "status": "STATUS_FINAL",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261117&limit=500&groups=80"
+    },
+    {
+      "sport": "CFB",
+      "game_id": "401866466",
+      "date": "2026-11-18T00:00Z",
+      "home_team": "Kent State Golden Flashes",
+      "away_team": "Miami (OH) RedHawks",
+      "home_score": 3.0,
+      "away_score": 20.0,
+      "status": "STATUS_FINAL",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261117&limit=500&groups=80"
+    },
+    {
+      "sport": "NBA",
+      "game_id": "401910002",
+      "date": "2026-11-18T00:30Z",
+      "home_team": "Toronto Raptors",
+      "away_team": "New York Knicks",
+      "home_score": 102.0,
+      "away_score": 111.0,
+      "status": "STATUS_FINAL",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261117&limit=500"
+    },
+    {
+      "sport": "NBA",
+      "game_id": "401910003",
+      "date": "2026-11-18T01:00Z",
+      "home_team": "Minnesota Timberwolves",
+      "away_team": "Portland Trail Blazers",
+      "home_score": 106.0,
+      "away_score": 105.0,
+      "status": "STATUS_FINAL",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261117&limit=500"
+    },
+    {
+      "sport": "NBA",
+      "game_id": "401910004",
+      "date": "2026-11-18T01:00Z",
+      "home_team": "San Antonio Spurs",
+      "away_team": "Detroit Pistons",
+      "home_score": 93.0,
+      "away_score": 105.0,
+      "status": "STATUS_FINAL",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261117&limit=500"
+    },
+    {
+      "sport": "NBA",
+      "game_id": "401910006",
+      "date": "2026-11-18T03:30Z",
+      "home_team": "LA Clippers",
+      "away_team": "Utah Jazz",
+      "home_score": 107.0,
+      "away_score": 132.0,
+      "status": "STATUS_FINAL",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261117&limit=500"
     }
   ]
 }
