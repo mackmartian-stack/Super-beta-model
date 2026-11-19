@@ -1,7 +1,7 @@
 {
   "model": "Super Beta Model 2.0",
   "status": "predictions_available",
-  "generated_at": "2026-11-19T00:42:43.228079+00:00",
+  "generated_at": "2026-11-19T00:57:21.664625+00:00",
   "experimental": true,
   "calibrated": false,
   "note": "No proven betting edge. Inputs must be verified and dated.",
@@ -31,19 +31,6 @@
       "projected_home_margin": -18.74,
       "confidence": "uncalibrated",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261124&limit=500"
-    },
-    {
-      "sport": "NBA",
-      "game_id": "401910009",
-      "date": "2026-11-19T00:00Z",
-      "home_team": "Miami Heat",
-      "away_team": "Milwaukee Bucks",
-      "predicted_winner": "Miami Heat",
-      "home_win_probability": 0.9055,
-      "away_win_probability": 0.0945,
-      "projected_home_margin": 18.08,
-      "confidence": "uncalibrated",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261118&limit=500"
     },
     {
       "sport": "NBA",
@@ -161,6 +148,19 @@
       "projected_home_margin": -12.4,
       "confidence": "uncalibrated",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261123&limit=500"
+    },
+    {
+      "sport": "NBA",
+      "game_id": "401910020",
+      "date": "2026-11-20T01:00Z",
+      "home_team": "Milwaukee Bucks",
+      "away_team": "Portland Trail Blazers",
+      "predicted_winner": "Portland Trail Blazers",
+      "home_win_probability": 0.1885,
+      "away_win_probability": 0.8115,
+      "projected_home_margin": -11.68,
+      "confidence": "uncalibrated",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261119&limit=500"
     }
   ],
   "player_predictions": [
@@ -190,7 +190,7 @@
       "team": "Oklahoma City Thunder",
       "stat": "points",
       "projection": 33.5,
-      "date": "2026-11-24T00:30Z",
+      "date": "2026-11-26T00:30Z",
       "source": "ESPN public game boxscores (unofficial)",
       "confidence": "uncalibrated"
     },
@@ -199,7 +199,7 @@
       "player": "Franz Wagner",
       "team": "Orlando Magic",
       "stat": "points",
-      "projection": 31.33,
+      "projection": 31.75,
       "date": "2026-11-25T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "confidence": "uncalibrated"
@@ -210,7 +210,7 @@
       "team": "Miami Heat",
       "stat": "points",
       "projection": 30.33,
-      "date": "2026-11-22T23:00Z",
+      "date": "2026-11-25T22:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "confidence": "uncalibrated"
     },
@@ -220,7 +220,7 @@
       "team": "New York Knicks",
       "stat": "points",
       "projection": 29.75,
-      "date": "2026-11-23T01:00Z",
+      "date": "2026-11-26T00:30Z",
       "source": "ESPN public game boxscores (unofficial)",
       "confidence": "uncalibrated"
     },
@@ -230,7 +230,7 @@
       "team": "Cleveland Cavaliers",
       "stat": "points",
       "projection": 29.0,
-      "date": "2026-11-24T01:00Z",
+      "date": "2026-11-26T00:30Z",
       "source": "ESPN public game boxscores (unofficial)",
       "confidence": "uncalibrated"
     },
@@ -250,7 +250,7 @@
       "team": "Chicago Bulls",
       "stat": "points",
       "projection": 28.0,
-      "date": "2026-11-24T01:00Z",
+      "date": "2026-11-26T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "confidence": "uncalibrated"
     },
@@ -280,7 +280,7 @@
       "team": "Philadelphia 76ers",
       "stat": "points",
       "projection": 26.67,
-      "date": "2026-11-24T00:00Z",
+      "date": "2026-11-25T22:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "confidence": "uncalibrated"
     }
