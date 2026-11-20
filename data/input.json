@@ -2951,7 +2951,7 @@
       "player": "Jaden McDaniels",
       "team": "Minnesota Timberwolves",
       "stat": "rebounds",
-      "per_opportunity_rate": 4.75,
+      "per_opportunity_rate": 5.0,
       "projected_opportunities": 1,
       "date": "2026-11-26T00:30Z",
       "source": "ESPN public game boxscores (unofficial)",
@@ -3191,7 +3191,7 @@
       "player": "Trey Lyles",
       "team": "Minnesota Timberwolves",
       "stat": "rebounds",
-      "per_opportunity_rate": 4.25,
+      "per_opportunity_rate": 4.0,
       "projected_opportunities": 1,
       "date": "2026-11-26T00:30Z",
       "source": "ESPN public game boxscores (unofficial)",
@@ -7799,7 +7799,7 @@
       "player": "Jaron Pierre Jr.",
       "team": "New Orleans Pelicans",
       "stat": "rebounds",
-      "per_opportunity_rate": 1.75,
+      "per_opportunity_rate": 1.5,
       "projected_opportunities": 1,
       "date": "2026-11-24T01:00Z",
       "source": "ESPN public game boxscores (unofficial)",
@@ -14263,7 +14263,7 @@
       "method": "mean of available recent appearances; no minutes/injury adjustment"
     }
   ],
-  "generated_at": "2026-11-20T12:56:06.388697+00:00",
+  "generated_at": "2026-11-20T18:51:11.915342+00:00",
   "method": "Recent scoring margin plus opponent-strength adjustment; experimental, uncalibrated",
   "warnings": [
     "No verified injuries, lineups, coaching adjustments, or player projections.",
