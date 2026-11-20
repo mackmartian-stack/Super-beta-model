@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-20T00:49:19.558904+00:00",
+  "collected_at": "2026-11-20T06:59:34.307970+00:00",
   "games": [
     {
       "sport": "NBA",
@@ -3418,7 +3418,7 @@
       "date": "2026-11-20T00:30Z",
       "home_team": "Temple Owls",
       "away_team": "Rice Owls",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261119&limit=500&groups=80"
     },
     {
@@ -3427,7 +3427,7 @@
       "date": "2026-11-20T01:00Z",
       "home_team": "Memphis Grizzlies",
       "away_team": "Golden State Warriors",
-      "status": "STATUS_SCHEDULED",
+      "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261119&limit=500"
     },
     {
@@ -3436,7 +3436,7 @@
       "date": "2026-11-20T01:00Z",
       "home_team": "Milwaukee Bucks",
       "away_team": "Portland Trail Blazers",
-      "status": "STATUS_SCHEDULED",
+      "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261119&limit=500"
     },
     {
@@ -3445,7 +3445,7 @@
       "date": "2026-11-20T01:00Z",
       "home_team": "Minnesota Timberwolves",
       "away_team": "New York Knicks",
-      "status": "STATUS_SCHEDULED",
+      "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261119&limit=500"
     },
     {
@@ -3454,7 +3454,7 @@
       "date": "2026-11-20T01:00Z",
       "home_team": "San Antonio Spurs",
       "away_team": "LA Clippers",
-      "status": "STATUS_SCHEDULED",
+      "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261119&limit=500"
     },
     {
@@ -3463,7 +3463,7 @@
       "date": "2026-11-20T01:15Z",
       "home_team": "Houston Texans",
       "away_team": "Indianapolis Colts",
-      "status": "STATUS_SCHEDULED",
+      "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261119&limit=500"
     },
     {

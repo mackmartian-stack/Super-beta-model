@@ -1280,7 +1280,13 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261119&limit=500"
       },
       "first_recorded_at": "2026-11-13T06:58:56.998001+00:00",
-      "result": null
+      "result": {
+        "home_score": 124.0,
+        "away_score": 112.0,
+        "correct_winner": true,
+        "actual_home_win": true,
+        "settled_at": "2026-11-20T07:00:43.684601+00:00"
+      }
     },
     "NBA:401910020": {
       "forecast": {
@@ -1297,7 +1303,13 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261119&limit=500"
       },
       "first_recorded_at": "2026-11-13T06:58:56.998001+00:00",
-      "result": null
+      "result": {
+        "home_score": 114.0,
+        "away_score": 124.0,
+        "correct_winner": true,
+        "actual_home_win": false,
+        "settled_at": "2026-11-20T07:00:43.684590+00:00"
+      }
     },
     "NBA:401909310": {
       "forecast": {
@@ -1768,6 +1780,23 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261125&limit=500"
       },
       "first_recorded_at": "2026-11-19T07:01:31.252359+00:00",
+      "result": null
+    },
+    "NBA:401910035": {
+      "forecast": {
+        "sport": "NBA",
+        "game_id": "401910035",
+        "date": "2026-11-23T01:30Z",
+        "home_team": "Golden State Warriors",
+        "away_team": "Boston Celtics",
+        "predicted_winner": "Boston Celtics",
+        "home_win_probability": 0.1795,
+        "away_win_probability": 0.8205,
+        "projected_home_margin": -12.16,
+        "confidence": "uncalibrated",
+        "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261122&limit=500"
+      },
+      "first_recorded_at": "2026-11-20T07:00:43.649803+00:00",
       "result": null
     }
   },
