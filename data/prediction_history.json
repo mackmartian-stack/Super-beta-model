@@ -1326,7 +1326,13 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261120&limit=500"
       },
       "first_recorded_at": "2026-11-14T06:48:02.157226+00:00",
-      "result": null
+      "result": {
+        "home_score": 126.0,
+        "away_score": 120.0,
+        "correct_winner": true,
+        "actual_home_win": true,
+        "settled_at": "2026-11-21T06:57:07.382830+00:00"
+      }
     },
     "NBA:401909313": {
       "forecast": {
@@ -1343,7 +1349,13 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261120&limit=500"
       },
       "first_recorded_at": "2026-11-14T06:48:02.157226+00:00",
-      "result": null
+      "result": {
+        "home_score": 106.0,
+        "away_score": 104.0,
+        "correct_winner": true,
+        "actual_home_win": true,
+        "settled_at": "2026-11-21T06:57:07.382835+00:00"
+      }
     },
     "NBA:401909980": {
       "forecast": {
@@ -1559,7 +1571,13 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261120&limit=500&groups=80"
       },
       "first_recorded_at": "2026-11-16T01:03:11.340842+00:00",
-      "result": null
+      "result": {
+        "home_score": 52.0,
+        "away_score": 3.0,
+        "correct_winner": true,
+        "actual_home_win": true,
+        "settled_at": "2026-11-21T06:57:07.382819+00:00"
+      }
     },
     "CFB:401862835": {
       "forecast": {
@@ -1814,6 +1832,23 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261127&limit=500"
       },
       "first_recorded_at": "2026-11-21T00:53:44.141982+00:00",
+      "result": null
+    },
+    "NBA:401910042": {
+      "forecast": {
+        "sport": "NBA",
+        "game_id": "401910042",
+        "date": "2026-11-24T01:00Z",
+        "home_team": "New Orleans Pelicans",
+        "away_team": "Phoenix Suns",
+        "predicted_winner": "Phoenix Suns",
+        "home_win_probability": 0.184,
+        "away_win_probability": 0.816,
+        "projected_home_margin": -11.92,
+        "confidence": "uncalibrated",
+        "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261123&limit=500"
+      },
+      "first_recorded_at": "2026-11-21T06:57:07.335284+00:00",
       "result": null
     }
   },
