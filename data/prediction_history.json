@@ -1850,6 +1850,23 @@
       },
       "first_recorded_at": "2026-11-21T06:57:07.335284+00:00",
       "result": null
+    },
+    "NBA:401910034": {
+      "forecast": {
+        "sport": "NBA",
+        "game_id": "401910034",
+        "date": "2026-11-23T01:00Z",
+        "home_team": "New York Knicks",
+        "away_team": "Indiana Pacers",
+        "predicted_winner": "New York Knicks",
+        "home_win_probability": 0.8084,
+        "away_win_probability": 0.1916,
+        "projected_home_margin": 11.52,
+        "confidence": "uncalibrated",
+        "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261122&limit=500"
+      },
+      "first_recorded_at": "2026-11-21T18:36:43.055516+00:00",
+      "result": null
     }
   },
   "players": {},

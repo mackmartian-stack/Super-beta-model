@@ -1,28 +1,6 @@
 {
   "games": [
     {
-      "sport": "CFB",
-      "game_id": "401871080",
-      "date": "2026-11-21T18:00Z",
-      "home_team": "Liberty Flames",
-      "away_team": "Western Kentucky Hilltoppers",
-      "home_rating": 114.06,
-      "away_rating": 106.088,
-      "home_advantage_points": 2.5,
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261121&limit=500&groups=80"
-    },
-    {
-      "sport": "NBA",
-      "game_id": "401910023",
-      "date": "2026-11-21T18:00Z",
-      "home_team": "Philadelphia 76ers",
-      "away_team": "Milwaukee Bucks",
-      "home_rating": 102.096,
-      "away_rating": 90.583,
-      "home_advantage_points": 2.0,
-      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261121&limit=500"
-    },
-    {
       "sport": "NBA",
       "game_id": "401910024",
       "date": "2026-11-22T00:30Z",
@@ -516,6 +494,17 @@
       "away_rating": 94.032,
       "home_advantage_points": 2.0,
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261127&limit=500"
+    },
+    {
+      "sport": "CFB",
+      "game_id": "401862837",
+      "date": "2026-11-28T18:00Z",
+      "home_team": "East Carolina Pirates",
+      "away_team": "Florida Atlantic Owls",
+      "home_rating": 97.672,
+      "away_rating": 101.197,
+      "home_advantage_points": 2.5,
+      "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261128&limit=500&groups=80"
     }
   ],
   "players": [
@@ -2792,7 +2781,7 @@
       "player": "Keyonte George",
       "team": "Utah Jazz",
       "stat": "rebounds",
-      "per_opportunity_rate": 2.5,
+      "per_opportunity_rate": 2.25,
       "projected_opportunities": 1,
       "date": "2026-11-28T02:30Z",
       "source": "ESPN public game boxscores (unofficial)",
@@ -4280,7 +4269,7 @@
       "player": "Yves Missi",
       "team": "New Orleans Pelicans",
       "stat": "rebounds",
-      "per_opportunity_rate": 8.6667,
+      "per_opportunity_rate": 9.0,
       "projected_opportunities": 1,
       "date": "2026-11-28T02:30Z",
       "source": "ESPN public game boxscores (unofficial)",
@@ -4328,7 +4317,7 @@
       "player": "Jeremiah Fears",
       "team": "New Orleans Pelicans",
       "stat": "rebounds",
-      "per_opportunity_rate": 7.3333,
+      "per_opportunity_rate": 7.0,
       "projected_opportunities": 1,
       "date": "2026-11-28T02:30Z",
       "source": "ESPN public game boxscores (unofficial)",
@@ -14152,7 +14141,7 @@
       "method": "mean of available recent appearances; no minutes/injury adjustment"
     }
   ],
-  "generated_at": "2026-11-21T12:43:33.864609+00:00",
+  "generated_at": "2026-11-21T18:35:39.843036+00:00",
   "method": "Recent scoring margin plus opponent-strength adjustment; experimental, uncalibrated",
   "warnings": [
     "No verified injuries, lineups, coaching adjustments, or player projections.",
