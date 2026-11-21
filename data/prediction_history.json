@@ -1798,6 +1798,23 @@
       },
       "first_recorded_at": "2026-11-20T07:00:43.649803+00:00",
       "result": null
+    },
+    "NBA:401909327": {
+      "forecast": {
+        "sport": "NBA",
+        "game_id": "401909327",
+        "date": "2026-11-28T00:30Z",
+        "home_team": "Detroit Pistons",
+        "away_team": "Milwaukee Bucks",
+        "predicted_winner": "Detroit Pistons",
+        "home_win_probability": 0.8665,
+        "away_win_probability": 0.1335,
+        "projected_home_margin": 14.96,
+        "confidence": "uncalibrated",
+        "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261127&limit=500"
+      },
+      "first_recorded_at": "2026-11-21T00:53:44.141982+00:00",
+      "result": null
     }
   },
   "players": {},

@@ -1,7 +1,7 @@
 {
   "model": "Super Beta Model 2.0",
   "status": "predictions_available",
-  "generated_at": "2026-11-21T00:36:18.370638+00:00",
+  "generated_at": "2026-11-21T00:53:44.141982+00:00",
   "experimental": true,
   "calibrated": false,
   "note": "No proven betting edge. Inputs must be verified and dated.",
@@ -112,6 +112,19 @@
     },
     {
       "sport": "NBA",
+      "game_id": "401909327",
+      "date": "2026-11-28T00:30Z",
+      "home_team": "Detroit Pistons",
+      "away_team": "Milwaukee Bucks",
+      "predicted_winner": "Detroit Pistons",
+      "home_win_probability": 0.8665,
+      "away_win_probability": 0.1335,
+      "projected_home_margin": 14.96,
+      "confidence": "uncalibrated",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261127&limit=500"
+    },
+    {
+      "sport": "NBA",
       "game_id": "401910036",
       "date": "2026-11-24T00:00Z",
       "home_team": "Charlotte Hornets",
@@ -148,19 +161,6 @@
       "projected_home_margin": 13.53,
       "confidence": "uncalibrated",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261123&limit=500"
-    },
-    {
-      "sport": "NBA",
-      "game_id": "401910035",
-      "date": "2026-11-23T01:30Z",
-      "home_team": "Golden State Warriors",
-      "away_team": "Boston Celtics",
-      "predicted_winner": "Boston Celtics",
-      "home_win_probability": 0.1795,
-      "away_win_probability": 0.8205,
-      "projected_home_margin": -12.16,
-      "confidence": "uncalibrated",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261122&limit=500"
     }
   ],
   "player_predictions": [
@@ -210,7 +210,7 @@
       "team": "Miami Heat",
       "stat": "points",
       "projection": 29.5,
-      "date": "2026-11-25T22:00Z",
+      "date": "2026-11-28T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "confidence": "uncalibrated"
     },
@@ -220,17 +220,7 @@
       "team": "New York Knicks",
       "stat": "points",
       "projection": 28.25,
-      "date": "2026-11-26T00:30Z",
-      "source": "ESPN public game boxscores (unofficial)",
-      "confidence": "uncalibrated"
-    },
-    {
-      "sport": "NBA",
-      "player": "Franz Wagner",
-      "team": "Orlando Magic",
-      "stat": "points",
-      "projection": 27.67,
-      "date": "2026-11-25T00:00Z",
+      "date": "2026-11-28T00:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "confidence": "uncalibrated"
     },
@@ -281,6 +271,16 @@
       "stat": "points",
       "projection": 25.0,
       "date": "2026-11-24T03:00Z",
+      "source": "ESPN public game boxscores (unofficial)",
+      "confidence": "uncalibrated"
+    },
+    {
+      "sport": "NBA",
+      "player": "Pascal Siakam",
+      "team": "Indiana Pacers",
+      "stat": "points",
+      "projection": 24.67,
+      "date": "2026-11-28T00:30Z",
       "source": "ESPN public game boxscores (unofficial)",
       "confidence": "uncalibrated"
     }
