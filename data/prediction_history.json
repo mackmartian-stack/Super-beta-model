@@ -1441,7 +1441,13 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261121&limit=500"
       },
       "first_recorded_at": "2026-11-15T06:52:14.970600+00:00",
-      "result": null
+      "result": {
+        "home_score": 114.0,
+        "away_score": 91.0,
+        "correct_winner": true,
+        "actual_home_win": true,
+        "settled_at": "2026-11-22T06:56:36.030604+00:00"
+      }
     },
     "NBA:401910028": {
       "forecast": {
@@ -1458,7 +1464,13 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261121&limit=500"
       },
       "first_recorded_at": "2026-11-15T06:52:14.970600+00:00",
-      "result": null
+      "result": {
+        "home_score": 97.0,
+        "away_score": 96.0,
+        "correct_winner": false,
+        "actual_home_win": true,
+        "settled_at": "2026-11-22T06:56:36.030607+00:00"
+      }
     },
     "NBA:401910004": {
       "forecast": {
@@ -1544,7 +1556,13 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261121&limit=500&groups=80"
       },
       "first_recorded_at": "2026-11-16T01:03:11.340842+00:00",
-      "result": null
+      "result": {
+        "home_score": 49.0,
+        "away_score": 42.0,
+        "correct_winner": true,
+        "actual_home_win": true,
+        "settled_at": "2026-11-22T06:56:36.030599+00:00"
+      }
     },
     "CFB:401858532": {
       "forecast": {
@@ -1653,7 +1671,13 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261121&limit=500&groups=80"
       },
       "first_recorded_at": "2026-11-16T01:03:11.340842+00:00",
-      "result": null
+      "result": {
+        "home_score": 24.0,
+        "away_score": 3.0,
+        "correct_winner": true,
+        "actual_home_win": true,
+        "settled_at": "2026-11-22T06:56:36.030590+00:00"
+      }
     },
     "CFB:401862834": {
       "forecast": {
@@ -1937,6 +1961,23 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261128&limit=500&groups=80"
       },
       "first_recorded_at": "2026-11-22T00:46:33.928183+00:00",
+      "result": null
+    },
+    "NBA:401909336": {
+      "forecast": {
+        "sport": "NBA",
+        "game_id": "401909336",
+        "date": "2026-11-28T02:30Z",
+        "home_team": "Portland Trail Blazers",
+        "away_team": "Golden State Warriors",
+        "predicted_winner": "Portland Trail Blazers",
+        "home_win_probability": 0.7989,
+        "away_win_probability": 0.2011,
+        "projected_home_margin": 11.04,
+        "confidence": "uncalibrated",
+        "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261127&limit=500"
+      },
+      "first_recorded_at": "2026-11-22T06:56:35.984976+00:00",
       "result": null
     }
   },
