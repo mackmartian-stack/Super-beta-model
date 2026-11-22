@@ -1395,7 +1395,13 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261121&limit=500&groups=80"
       },
       "first_recorded_at": "2026-11-14T18:31:43.688924+00:00",
-      "result": null
+      "result": {
+        "home_score": 45.0,
+        "away_score": 14.0,
+        "correct_winner": true,
+        "actual_home_win": true,
+        "settled_at": "2026-11-22T00:46:33.975349+00:00"
+      }
     },
     "NBA:401910023": {
       "forecast": {
@@ -1412,7 +1418,13 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261121&limit=500"
       },
       "first_recorded_at": "2026-11-15T00:45:14.300083+00:00",
-      "result": null
+      "result": {
+        "home_score": 132.0,
+        "away_score": 129.0,
+        "correct_winner": true,
+        "actual_home_win": true,
+        "settled_at": "2026-11-22T00:46:33.975352+00:00"
+      }
     },
     "NBA:401910027": {
       "forecast": {
@@ -1486,7 +1498,13 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261121&limit=500&groups=80"
       },
       "first_recorded_at": "2026-11-16T01:03:11.340842+00:00",
-      "result": null
+      "result": {
+        "home_score": 29.0,
+        "away_score": 50.0,
+        "correct_winner": true,
+        "actual_home_win": false,
+        "settled_at": "2026-11-22T00:46:33.975331+00:00"
+      }
     },
     "CFB:401862832": {
       "forecast": {
@@ -1503,7 +1521,13 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261121&limit=500&groups=80"
       },
       "first_recorded_at": "2026-11-16T01:03:11.340842+00:00",
-      "result": null
+      "result": {
+        "home_score": 42.0,
+        "away_score": 14.0,
+        "correct_winner": true,
+        "actual_home_win": true,
+        "settled_at": "2026-11-22T00:46:33.975354+00:00"
+      }
     },
     "CFB:401860918": {
       "forecast": {
@@ -1537,7 +1561,13 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261121&limit=500&groups=80"
       },
       "first_recorded_at": "2026-11-16T01:03:11.340842+00:00",
-      "result": null
+      "result": {
+        "home_score": 24.0,
+        "away_score": 25.0,
+        "correct_winner": false,
+        "actual_home_win": false,
+        "settled_at": "2026-11-22T00:46:33.975360+00:00"
+      }
     },
     "CFB:401864543": {
       "forecast": {
@@ -1554,7 +1584,13 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261121&limit=500&groups=80"
       },
       "first_recorded_at": "2026-11-16T01:03:11.340842+00:00",
-      "result": null
+      "result": {
+        "home_score": 31.0,
+        "away_score": 25.0,
+        "correct_winner": true,
+        "actual_home_win": true,
+        "settled_at": "2026-11-22T00:46:33.975363+00:00"
+      }
     },
     "CFB:401864545": {
       "forecast": {
@@ -1594,7 +1630,13 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261121&limit=500&groups=80"
       },
       "first_recorded_at": "2026-11-16T01:03:11.340842+00:00",
-      "result": null
+      "result": {
+        "home_score": 28.0,
+        "away_score": 24.0,
+        "correct_winner": false,
+        "actual_home_win": true,
+        "settled_at": "2026-11-22T00:46:33.975345+00:00"
+      }
     },
     "CFB:401858307": {
       "forecast": {
@@ -1628,7 +1670,13 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261121&limit=500&groups=80"
       },
       "first_recorded_at": "2026-11-16T01:03:11.340842+00:00",
-      "result": null
+      "result": {
+        "home_score": 38.0,
+        "away_score": 34.0,
+        "correct_winner": false,
+        "actual_home_win": true,
+        "settled_at": "2026-11-22T00:46:33.975341+00:00"
+      }
     },
     "CFB:401869953": {
       "forecast": {
@@ -1645,7 +1693,13 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261121&limit=500&groups=80"
       },
       "first_recorded_at": "2026-11-16T01:03:11.340842+00:00",
-      "result": null
+      "result": {
+        "home_score": 7.0,
+        "away_score": 45.0,
+        "correct_winner": true,
+        "actual_home_win": false,
+        "settled_at": "2026-11-22T00:46:33.975365+00:00"
+      }
     },
     "NFL:401873067": {
       "forecast": {
@@ -1866,6 +1920,23 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261122&limit=500"
       },
       "first_recorded_at": "2026-11-21T18:36:43.055516+00:00",
+      "result": null
+    },
+    "CFB:401858537": {
+      "forecast": {
+        "sport": "CFB",
+        "game_id": "401858537",
+        "date": "2026-11-28T17:30Z",
+        "home_team": "Northwestern Wildcats",
+        "away_team": "Illinois Fighting Illini",
+        "predicted_winner": "Northwestern Wildcats",
+        "home_win_probability": 0.823,
+        "away_win_probability": 0.177,
+        "projected_home_margin": 12.3,
+        "confidence": "uncalibrated",
+        "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261128&limit=500&groups=80"
+      },
+      "first_recorded_at": "2026-11-22T00:46:33.928183+00:00",
       "result": null
     }
   },

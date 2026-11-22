@@ -1,7 +1,7 @@
 {
   "model": "Super Beta Model 2.0",
   "status": "predictions_available",
-  "generated_at": "2026-11-22T00:27:46.694243+00:00",
+  "generated_at": "2026-11-22T00:46:33.928183+00:00",
   "experimental": true,
   "calibrated": false,
   "note": "No proven betting edge. Inputs must be verified and dated.",
@@ -15,7 +15,7 @@
       "predicted_winner": "San Antonio Spurs",
       "home_win_probability": 0.9323,
       "away_win_probability": 0.0677,
-      "projected_home_margin": 20.98,
+      "projected_home_margin": 20.99,
       "confidence": "uncalibrated",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261121&limit=500"
     },
@@ -41,7 +41,7 @@
       "predicted_winner": "San Antonio Spurs",
       "home_win_probability": 0.1145,
       "away_win_probability": 0.8855,
-      "projected_home_margin": -16.37,
+      "projected_home_margin": -16.36,
       "confidence": "uncalibrated",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261123&limit=500"
     },
@@ -52,9 +52,9 @@
       "home_team": "Sacramento Kings",
       "away_team": "Boston Celtics",
       "predicted_winner": "Boston Celtics",
-      "home_win_probability": 0.1319,
-      "away_win_probability": 0.8681,
-      "projected_home_margin": -15.07,
+      "home_win_probability": 0.1314,
+      "away_win_probability": 0.8686,
+      "projected_home_margin": -15.11,
       "confidence": "uncalibrated",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261121&limit=500"
     },
@@ -78,24 +78,11 @@
       "home_team": "Minnesota Timberwolves",
       "away_team": "Brooklyn Nets",
       "predicted_winner": "Minnesota Timberwolves",
-      "home_win_probability": 0.8557,
-      "away_win_probability": 0.1443,
-      "projected_home_margin": 14.24,
+      "home_win_probability": 0.856,
+      "away_win_probability": 0.144,
+      "projected_home_margin": 14.26,
       "confidence": "uncalibrated",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261123&limit=500"
-    },
-    {
-      "sport": "NBA",
-      "game_id": "401909327",
-      "date": "2026-11-28T00:30Z",
-      "home_team": "Detroit Pistons",
-      "away_team": "Milwaukee Bucks",
-      "predicted_winner": "Detroit Pistons",
-      "home_win_probability": 0.8502,
-      "away_win_probability": 0.1498,
-      "projected_home_margin": 13.89,
-      "confidence": "uncalibrated",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261127&limit=500"
     },
     {
       "sport": "NBA",
@@ -104,11 +91,37 @@
       "home_team": "Washington Wizards",
       "away_team": "Boston Celtics",
       "predicted_winner": "Boston Celtics",
-      "home_win_probability": 0.1548,
-      "away_win_probability": 0.8452,
-      "projected_home_margin": -13.58,
+      "home_win_probability": 0.1541,
+      "away_win_probability": 0.8459,
+      "projected_home_margin": -13.62,
       "confidence": "uncalibrated",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261124&limit=500"
+    },
+    {
+      "sport": "NBA",
+      "game_id": "401909327",
+      "date": "2026-11-28T00:30Z",
+      "home_team": "Detroit Pistons",
+      "away_team": "Milwaukee Bucks",
+      "predicted_winner": "Detroit Pistons",
+      "home_win_probability": 0.8251,
+      "away_win_probability": 0.1749,
+      "projected_home_margin": 12.41,
+      "confidence": "uncalibrated",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261127&limit=500"
+    },
+    {
+      "sport": "CFB",
+      "game_id": "401858537",
+      "date": "2026-11-28T17:30Z",
+      "home_team": "Northwestern Wildcats",
+      "away_team": "Illinois Fighting Illini",
+      "predicted_winner": "Northwestern Wildcats",
+      "home_win_probability": 0.823,
+      "away_win_probability": 0.177,
+      "projected_home_margin": 12.3,
+      "confidence": "uncalibrated",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261128&limit=500&groups=80"
     },
     {
       "sport": "NBA",
@@ -117,9 +130,9 @@
       "home_team": "Golden State Warriors",
       "away_team": "Boston Celtics",
       "predicted_winner": "Boston Celtics",
-      "home_win_probability": 0.1787,
-      "away_win_probability": 0.8213,
-      "projected_home_margin": -12.2,
+      "home_win_probability": 0.1779,
+      "away_win_probability": 0.8221,
+      "projected_home_margin": -12.25,
       "confidence": "uncalibrated",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261122&limit=500"
     },
@@ -138,27 +151,14 @@
     },
     {
       "sport": "NBA",
-      "game_id": "401910043",
-      "date": "2026-11-24T01:30Z",
-      "home_team": "Houston Rockets",
-      "away_team": "LA Clippers",
-      "predicted_winner": "Houston Rockets",
-      "home_win_probability": 0.8085,
-      "away_win_probability": 0.1915,
-      "projected_home_margin": 11.52,
-      "confidence": "uncalibrated",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261123&limit=500"
-    },
-    {
-      "sport": "NBA",
       "game_id": "401910034",
       "date": "2026-11-23T01:00Z",
       "home_team": "New York Knicks",
       "away_team": "Indiana Pacers",
       "predicted_winner": "New York Knicks",
-      "home_win_probability": 0.8084,
-      "away_win_probability": 0.1916,
-      "projected_home_margin": 11.52,
+      "home_win_probability": 0.8089,
+      "away_win_probability": 0.1911,
+      "projected_home_margin": 11.54,
       "confidence": "uncalibrated",
       "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261122&limit=500"
     }
@@ -196,11 +196,21 @@
     },
     {
       "sport": "NBA",
+      "player": "Joel Embiid",
+      "team": "Philadelphia 76ers",
+      "stat": "points",
+      "projection": 29.67,
+      "date": "2026-11-28T00:30Z",
+      "source": "ESPN public game boxscores (unofficial)",
+      "confidence": "uncalibrated"
+    },
+    {
+      "sport": "NBA",
       "player": "Franz Wagner",
       "team": "Orlando Magic",
       "stat": "points",
       "projection": 27.67,
-      "date": "2026-11-25T00:00Z",
+      "date": "2026-11-28T22:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "confidence": "uncalibrated"
     },
@@ -271,16 +281,6 @@
       "stat": "points",
       "projection": 26.33,
       "date": "2026-11-28T00:30Z",
-      "source": "ESPN public game boxscores (unofficial)",
-      "confidence": "uncalibrated"
-    },
-    {
-      "sport": "NBA",
-      "player": "Nikola Jokic",
-      "team": "Denver Nuggets",
-      "stat": "points",
-      "projection": 26.0,
-      "date": "2026-11-28T02:30Z",
       "source": "ESPN public game boxscores (unofficial)",
       "confidence": "uncalibrated"
     }
