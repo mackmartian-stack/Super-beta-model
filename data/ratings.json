@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T06:55:49.800328+00:00",
+  "generated_at": "2026-11-22T12:42:26.859622+00:00",
   "ratings": {
     "NFL": {
       "Detroit Lions": {
@@ -499,25 +499,25 @@
         "avg_allowed": 20.5
       },
       "Utah State Aggies": {
-        "rating": 98.216,
-        "games": 1,
-        "avg_scored": 17.0,
-        "avg_allowed": 16.0
+        "rating": 96.314,
+        "games": 2,
+        "avg_scored": 20.5,
+        "avg_allowed": 23.5
       },
       "Washington State Cougars": {
-        "rating": 87.384,
+        "rating": 87.232,
         "games": 2,
         "avg_scored": 15.0,
         "avg_allowed": 29.5
       },
       "San Jos\u00e9 State Spartans": {
-        "rating": 98.527,
+        "rating": 98.538,
         "games": 2,
         "avg_scored": 17.5,
         "avg_allowed": 20.0
       },
       "Wyoming Cowboys": {
-        "rating": 103.551,
+        "rating": 103.659,
         "games": 3,
         "avg_scored": 20.33,
         "avg_allowed": 17.0
@@ -595,7 +595,7 @@
         "avg_allowed": 26.0
       },
       "Air Force Falcons": {
-        "rating": 117.82,
+        "rating": 117.83,
         "games": 2,
         "avg_scored": 33.0,
         "avg_allowed": 15.5
@@ -673,13 +673,13 @@
         "avg_allowed": 26.0
       },
       "Nevada Wolf Pack": {
-        "rating": 79.699,
-        "games": 1,
-        "avg_scored": 3.0,
-        "avg_allowed": 31.0
+        "rating": 96.63,
+        "games": 2,
+        "avg_scored": 9.5,
+        "avg_allowed": 19.5
       },
       "New Mexico Lobos": {
-        "rating": 110.275,
+        "rating": 111.434,
         "games": 2,
         "avg_scored": 27.5,
         "avg_allowed": 10.0
@@ -1075,7 +1075,7 @@
         "avg_allowed": 35.0
       },
       "Texas State Bobcats": {
-        "rating": 119.816,
+        "rating": 119.805,
         "games": 1,
         "avg_scored": 42.0,
         "avg_allowed": 14.0
@@ -1181,6 +1181,30 @@
         "games": 1,
         "avg_scored": 22.0,
         "avg_allowed": 20.0
+      },
+      "Arizona State Sun Devils": {
+        "rating": 98.008,
+        "games": 1,
+        "avg_scored": 27.0,
+        "avg_allowed": 30.0
+      },
+      "Oklahoma State Cowboys": {
+        "rating": 101.992,
+        "games": 1,
+        "avg_scored": 30.0,
+        "avg_allowed": 27.0
+      },
+      "Oregon State Beavers": {
+        "rating": 104.876,
+        "games": 1,
+        "avg_scored": 31.0,
+        "avg_allowed": 24.0
+      },
+      "Hawai'i Rainbow Warriors": {
+        "rating": 92.917,
+        "games": 1,
+        "avg_scored": 8.0,
+        "avg_allowed": 16.0
       }
     }
   },
