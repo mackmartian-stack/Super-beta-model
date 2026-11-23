@@ -1905,7 +1905,13 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261122&limit=500"
       },
       "first_recorded_at": "2026-11-20T07:00:43.649803+00:00",
-      "result": null
+      "result": {
+        "home_score": 88.0,
+        "away_score": 87.0,
+        "correct_winner": false,
+        "actual_home_win": true,
+        "settled_at": "2026-11-23T07:18:38.209511+00:00"
+      }
     },
     "NBA:401909327": {
       "forecast": {
@@ -1956,7 +1962,13 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261122&limit=500"
       },
       "first_recorded_at": "2026-11-21T18:36:43.055516+00:00",
-      "result": null
+      "result": {
+        "home_score": 113.0,
+        "away_score": 106.0,
+        "correct_winner": true,
+        "actual_home_win": true,
+        "settled_at": "2026-11-23T07:18:38.209500+00:00"
+      }
     },
     "CFB:401858537": {
       "forecast": {

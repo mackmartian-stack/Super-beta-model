@@ -1,7 +1,7 @@
 {
   "model": "Super Beta Model 2.0",
   "status": "predictions_available",
-  "generated_at": "2026-11-23T06:59:43.012129+00:00",
+  "generated_at": "2026-11-23T07:18:38.175734+00:00",
   "experimental": true,
   "calibrated": false,
   "note": "No proven betting edge. Inputs must be verified and dated.",
@@ -179,17 +179,7 @@
       "player": "Victor Wembanyama",
       "team": "San Antonio Spurs",
       "stat": "points",
-      "projection": 33.25,
-      "date": "2026-11-29T21:00Z",
-      "source": "ESPN public game boxscores (unofficial)",
-      "confidence": "uncalibrated"
-    },
-    {
-      "sport": "NBA",
-      "player": "Luka Doncic",
-      "team": "Los Angeles Lakers",
-      "stat": "points",
-      "projection": 33.25,
+      "projection": 35.67,
       "date": "2026-11-29T21:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "confidence": "uncalibrated"
@@ -206,6 +196,16 @@
     },
     {
       "sport": "NBA",
+      "player": "Luka Doncic",
+      "team": "Los Angeles Lakers",
+      "stat": "points",
+      "projection": 30.0,
+      "date": "2026-11-29T21:00Z",
+      "source": "ESPN public game boxscores (unofficial)",
+      "confidence": "uncalibrated"
+    },
+    {
+      "sport": "NBA",
       "player": "Joel Embiid",
       "team": "Philadelphia 76ers",
       "stat": "points",
@@ -216,38 +216,38 @@
     },
     {
       "sport": "NBA",
-      "player": "Franz Wagner",
-      "team": "Orlando Magic",
+      "player": "Nikola Jokic",
+      "team": "Denver Nuggets",
+      "stat": "points",
+      "projection": 28.75,
+      "date": "2026-11-29T23:00Z",
+      "source": "ESPN public game boxscores (unofficial)",
+      "confidence": "uncalibrated"
+    },
+    {
+      "sport": "NBA",
+      "player": "Cooper Flagg",
+      "team": "Dallas Mavericks",
       "stat": "points",
       "projection": 27.67,
-      "date": "2026-11-29T23:00Z",
+      "date": "2026-11-28T02:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "confidence": "uncalibrated"
     },
     {
       "sport": "NBA",
-      "player": "Jalen Brunson",
-      "team": "New York Knicks",
-      "stat": "points",
-      "projection": 27.5,
-      "date": "2026-11-29T23:00Z",
-      "source": "ESPN public game boxscores (unofficial)",
-      "confidence": "uncalibrated"
-    },
-    {
-      "sport": "NBA",
-      "player": "Giannis Antetokounmpo",
-      "team": "Miami Heat",
+      "player": "Jamal Murray",
+      "team": "Denver Nuggets",
       "stat": "points",
       "projection": 27.0,
-      "date": "2026-11-29T20:30Z",
+      "date": "2026-11-29T23:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "confidence": "uncalibrated"
     },
     {
       "sport": "NBA",
-      "player": "Jayson Tatum",
-      "team": "Boston Celtics",
+      "player": "Quentin Grimes",
+      "team": "Los Angeles Lakers",
       "stat": "points",
       "projection": 26.67,
       "date": "2026-11-29T21:00Z",
@@ -256,18 +256,8 @@
     },
     {
       "sport": "NBA",
-      "player": "Scottie Barnes",
-      "team": "Toronto Raptors",
-      "stat": "points",
-      "projection": 26.33,
-      "date": "2026-11-29T23:00Z",
-      "source": "ESPN public game boxscores (unofficial)",
-      "confidence": "uncalibrated"
-    },
-    {
-      "sport": "NBA",
-      "player": "Nikola Jokic",
-      "team": "Denver Nuggets",
+      "player": "Jalen Brunson",
+      "team": "New York Knicks",
       "stat": "points",
       "projection": 26.0,
       "date": "2026-11-29T23:00Z",
@@ -281,6 +271,16 @@
       "stat": "points",
       "projection": 25.67,
       "date": "2026-11-28T23:00Z",
+      "source": "ESPN public game boxscores (unofficial)",
+      "confidence": "uncalibrated"
+    },
+    {
+      "sport": "NBA",
+      "player": "Darius Acuff Jr.",
+      "team": "Sacramento Kings",
+      "stat": "points",
+      "projection": 25.25,
+      "date": "2026-11-30T02:00Z",
       "source": "ESPN public game boxscores (unofficial)",
       "confidence": "uncalibrated"
     }
