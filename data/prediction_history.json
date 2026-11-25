@@ -1855,7 +1855,13 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261124&limit=500"
       },
       "first_recorded_at": "2026-11-18T07:01:08.412506+00:00",
-      "result": null
+      "result": {
+        "home_score": 116.0,
+        "away_score": 131.0,
+        "correct_winner": true,
+        "actual_home_win": false,
+        "settled_at": "2026-11-25T07:05:32.022876+00:00"
+      }
     },
     "NBA:401910036": {
       "forecast": {
@@ -2514,6 +2520,57 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261127&limit=500"
       },
       "first_recorded_at": "2026-11-25T00:57:23.898458+00:00",
+      "result": null
+    },
+    "NBA:401910073": {
+      "forecast": {
+        "sport": "NBA",
+        "game_id": "401910073",
+        "date": "2026-12-02T02:00Z",
+        "home_team": "Phoenix Suns",
+        "away_team": "LA Clippers",
+        "predicted_winner": "Phoenix Suns",
+        "home_win_probability": 0.8342,
+        "away_win_probability": 0.1658,
+        "projected_home_margin": 12.92,
+        "confidence": "uncalibrated",
+        "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261201&limit=500"
+      },
+      "first_recorded_at": "2026-11-25T07:05:31.975802+00:00",
+      "result": null
+    },
+    "NBA:401910072": {
+      "forecast": {
+        "sport": "NBA",
+        "game_id": "401910072",
+        "date": "2026-12-02T01:30Z",
+        "home_team": "Houston Rockets",
+        "away_team": "Toronto Raptors",
+        "predicted_winner": "Houston Rockets",
+        "home_win_probability": 0.7691,
+        "away_win_probability": 0.2309,
+        "projected_home_margin": 9.63,
+        "confidence": "uncalibrated",
+        "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261201&limit=500"
+      },
+      "first_recorded_at": "2026-11-25T07:05:31.975802+00:00",
+      "result": null
+    },
+    "NBA:401910055": {
+      "forecast": {
+        "sport": "NBA",
+        "game_id": "401910055",
+        "date": "2026-11-29T23:00Z",
+        "home_team": "Detroit Pistons",
+        "away_team": "Orlando Magic",
+        "predicted_winner": "Detroit Pistons",
+        "home_win_probability": 0.7338,
+        "away_win_probability": 0.2662,
+        "projected_home_margin": 8.11,
+        "confidence": "uncalibrated",
+        "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261129&limit=500"
+      },
+      "first_recorded_at": "2026-11-25T07:05:31.975802+00:00",
       "result": null
     }
   },
