@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-26T13:04:08.811655+00:00",
+  "collected_at": "2026-11-26T18:50:02.712452+00:00",
   "games": [
     {
       "sport": "NBA",
@@ -3913,7 +3913,7 @@
       "date": "2026-11-26T18:00Z",
       "home_team": "Detroit Lions",
       "away_team": "Chicago Bears",
-      "status": "STATUS_SCHEDULED",
+      "status": "STATUS_IN_PROGRESS",
       "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261126&limit=500"
     },
     {
