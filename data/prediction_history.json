@@ -1924,7 +1924,13 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261125&limit=500"
       },
       "first_recorded_at": "2026-11-19T07:01:31.252359+00:00",
-      "result": null
+      "result": {
+        "home_score": 115.0,
+        "away_score": 97.0,
+        "correct_winner": true,
+        "actual_home_win": true,
+        "settled_at": "2026-11-26T07:03:15.093396+00:00"
+      }
     },
     "NBA:401910035": {
       "forecast": {
@@ -2486,7 +2492,13 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261125&limit=500"
       },
       "first_recorded_at": "2026-11-25T00:57:23.898458+00:00",
-      "result": null
+      "result": {
+        "home_score": 105.0,
+        "away_score": 107.0,
+        "correct_winner": true,
+        "actual_home_win": false,
+        "settled_at": "2026-11-26T07:03:15.093387+00:00"
+      }
     },
     "NBA:401910052": {
       "forecast": {
@@ -2588,6 +2600,74 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261202&limit=500"
       },
       "first_recorded_at": "2026-11-26T00:57:35.070443+00:00",
+      "result": null
+    },
+    "NBA:401910083": {
+      "forecast": {
+        "sport": "NBA",
+        "game_id": "401910083",
+        "date": "2026-12-03T02:00Z",
+        "home_team": "Phoenix Suns",
+        "away_team": "Sacramento Kings",
+        "predicted_winner": "Phoenix Suns",
+        "home_win_probability": 0.8443,
+        "away_win_probability": 0.1557,
+        "projected_home_margin": 13.53,
+        "confidence": "uncalibrated",
+        "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261202&limit=500"
+      },
+      "first_recorded_at": "2026-11-26T07:03:15.053654+00:00",
+      "result": null
+    },
+    "NBA:401910084": {
+      "forecast": {
+        "sport": "NBA",
+        "game_id": "401910084",
+        "date": "2026-12-03T03:30Z",
+        "home_team": "LA Clippers",
+        "away_team": "Minnesota Timberwolves",
+        "predicted_winner": "Minnesota Timberwolves",
+        "home_win_probability": 0.1579,
+        "away_win_probability": 0.8421,
+        "projected_home_margin": -13.39,
+        "confidence": "uncalibrated",
+        "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261202&limit=500"
+      },
+      "first_recorded_at": "2026-11-26T07:03:15.053654+00:00",
+      "result": null
+    },
+    "NBA:401910081": {
+      "forecast": {
+        "sport": "NBA",
+        "game_id": "401910081",
+        "date": "2026-12-03T01:00Z",
+        "home_team": "New Orleans Pelicans",
+        "away_team": "Los Angeles Lakers",
+        "predicted_winner": "Los Angeles Lakers",
+        "home_win_probability": 0.1837,
+        "away_win_probability": 0.8163,
+        "projected_home_margin": -11.93,
+        "confidence": "uncalibrated",
+        "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261202&limit=500"
+      },
+      "first_recorded_at": "2026-11-26T07:03:15.053654+00:00",
+      "result": null
+    },
+    "NBA:401910080": {
+      "forecast": {
+        "sport": "NBA",
+        "game_id": "401910080",
+        "date": "2026-12-03T01:00Z",
+        "home_team": "Milwaukee Bucks",
+        "away_team": "New York Knicks",
+        "predicted_winner": "New York Knicks",
+        "home_win_probability": 0.218,
+        "away_win_probability": 0.782,
+        "projected_home_margin": -10.22,
+        "confidence": "uncalibrated",
+        "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261202&limit=500"
+      },
+      "first_recorded_at": "2026-11-26T07:03:15.053654+00:00",
       "result": null
     }
   },
