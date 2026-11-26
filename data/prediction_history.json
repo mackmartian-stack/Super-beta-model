@@ -2572,6 +2572,23 @@
       },
       "first_recorded_at": "2026-11-25T07:05:31.975802+00:00",
       "result": null
+    },
+    "NBA:401910078": {
+      "forecast": {
+        "sport": "NBA",
+        "game_id": "401910078",
+        "date": "2026-12-03T00:30Z",
+        "home_team": "Boston Celtics",
+        "away_team": "Charlotte Hornets",
+        "predicted_winner": "Boston Celtics",
+        "home_win_probability": 0.8718,
+        "away_win_probability": 0.1282,
+        "projected_home_margin": 15.33,
+        "confidence": "uncalibrated",
+        "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261202&limit=500"
+      },
+      "first_recorded_at": "2026-11-26T00:57:35.070443+00:00",
+      "result": null
     }
   },
   "players": {},

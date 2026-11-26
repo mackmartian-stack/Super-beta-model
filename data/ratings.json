@@ -1,91 +1,7 @@
 {
-  "generated_at": "2026-11-25T18:43:30.604774+00:00",
+  "generated_at": "2026-11-26T00:56:41.124103+00:00",
   "ratings": {
     "NFL": {
-      "Los Angeles Rams": {
-        "rating": 105.358,
-        "games": 2,
-        "avg_scored": 31.0,
-        "avg_allowed": 21.5
-      },
-      "New York Giants": {
-        "rating": 96.519,
-        "games": 2,
-        "avg_scored": 14.5,
-        "avg_allowed": 23.0
-      },
-      "Chicago Bears": {
-        "rating": 108.633,
-        "games": 3,
-        "avg_scored": 27.33,
-        "avg_allowed": 12.33
-      },
-      "Philadelphia Eagles": {
-        "rating": 94.878,
-        "games": 3,
-        "avg_scored": 15.67,
-        "avg_allowed": 27.0
-      },
-      "New Orleans Saints": {
-        "rating": 92.342,
-        "games": 2,
-        "avg_scored": 18.5,
-        "avg_allowed": 33.0
-      },
-      "Atlanta Falcons": {
-        "rating": 115.225,
-        "games": 1,
-        "avg_scored": 45.0,
-        "avg_allowed": 24.0
-      },
-      "Buffalo Bills": {
-        "rating": 109.674,
-        "games": 3,
-        "avg_scored": 28.67,
-        "avg_allowed": 16.33
-      },
-      "San Francisco 49ers": {
-        "rating": 112.842,
-        "games": 2,
-        "avg_scored": 29.0,
-        "avg_allowed": 13.5
-      },
-      "Washington Commanders": {
-        "rating": 100.135,
-        "games": 2,
-        "avg_scored": 19.5,
-        "avg_allowed": 21.5
-      },
-      "Dallas Cowboys": {
-        "rating": 113.471,
-        "games": 2,
-        "avg_scored": 44.5,
-        "avg_allowed": 25.5
-      },
-      "Seattle Seahawks": {
-        "rating": 88.168,
-        "games": 1,
-        "avg_scored": 17.0,
-        "avg_allowed": 34.0
-      },
-      "Minnesota Vikings": {
-        "rating": 84.533,
-        "games": 2,
-        "avg_scored": 8.0,
-        "avg_allowed": 29.0
-      },
-      "Baltimore Ravens": {
-        "rating": 98.261,
-        "games": 2,
-        "avg_scored": 26.5,
-        "avg_allowed": 29.0
-      },
-      "Los Angeles Chargers": {
-        "rating": 99.388,
-        "games": 2,
-        "avg_scored": 23.5,
-        "avg_allowed": 23.5
-      },
       "Houston Texans": {
         "rating": 115.272,
         "games": 1,
@@ -98,14 +14,38 @@
         "avg_scored": 3.0,
         "avg_allowed": 26.0
       },
+      "Buffalo Bills": {
+        "rating": 111.288,
+        "games": 1,
+        "avg_scored": 26.0,
+        "avg_allowed": 9.0
+      },
       "Miami Dolphins": {
-        "rating": 88.381,
+        "rating": 88.712,
         "games": 1,
         "avg_scored": 9.0,
         "avg_allowed": 26.0
       },
+      "Chicago Bears": {
+        "rating": 105.312,
+        "games": 1,
+        "avg_scored": 21.0,
+        "avg_allowed": 13.0
+      },
+      "New Orleans Saints": {
+        "rating": 94.688,
+        "games": 1,
+        "avg_scored": 13.0,
+        "avg_allowed": 21.0
+      },
+      "Dallas Cowboys": {
+        "rating": 113.944,
+        "games": 1,
+        "avg_scored": 51.0,
+        "avg_allowed": 30.0
+      },
       "Tennessee Titans": {
-        "rating": 85.943,
+        "rating": 86.056,
         "games": 1,
         "avg_scored": 30.0,
         "avg_allowed": 51.0
@@ -134,20 +74,38 @@
         "avg_scored": 7.0,
         "avg_allowed": 34.0
       },
+      "Philadelphia Eagles": {
+        "rating": 101.992,
+        "games": 1,
+        "avg_scored": 19.0,
+        "avg_allowed": 16.0
+      },
       "Pittsburgh Steelers": {
-        "rating": 96.54,
+        "rating": 98.008,
         "games": 1,
         "avg_scored": 16.0,
         "avg_allowed": 19.0
       },
       "Carolina Panthers": {
-        "rating": 101.249,
+        "rating": 101.328,
         "games": 1,
         "avg_scored": 35.0,
         "avg_allowed": 33.0
       },
+      "Baltimore Ravens": {
+        "rating": 98.672,
+        "games": 1,
+        "avg_scored": 33.0,
+        "avg_allowed": 35.0
+      },
+      "Los Angeles Chargers": {
+        "rating": 98.008,
+        "games": 1,
+        "avg_scored": 24.0,
+        "avg_allowed": 27.0
+      },
       "New York Jets": {
-        "rating": 102.276,
+        "rating": 101.992,
         "games": 1,
         "avg_scored": 27.0,
         "avg_allowed": 24.0
@@ -164,14 +122,38 @@
         "avg_scored": 24.0,
         "avg_allowed": 38.0
       },
+      "New York Giants": {
+        "rating": 103.32,
+        "games": 1,
+        "avg_scored": 23.0,
+        "avg_allowed": 18.0
+      },
       "Jacksonville Jaguars": {
-        "rating": 95.311,
+        "rating": 96.68,
         "games": 1,
         "avg_scored": 18.0,
         "avg_allowed": 23.0
       },
+      "San Francisco 49ers": {
+        "rating": 116.6,
+        "games": 1,
+        "avg_scored": 35.0,
+        "avg_allowed": 10.0
+      },
+      "Minnesota Vikings": {
+        "rating": 83.4,
+        "games": 1,
+        "avg_scored": 10.0,
+        "avg_allowed": 35.0
+      },
+      "Washington Commanders": {
+        "rating": 101.328,
+        "games": 1,
+        "avg_scored": 22.0,
+        "avg_allowed": 20.0
+      },
       "Cincinnati Bengals": {
-        "rating": 98.406,
+        "rating": 98.672,
         "games": 1,
         "avg_scored": 20.0,
         "avg_allowed": 22.0
@@ -179,43 +161,43 @@
     },
     "NBA": {
       "Toronto Raptors": {
-        "rating": 96.372,
+        "rating": 96.388,
         "games": 22,
         "avg_scored": 109.33,
         "avg_allowed": 113.92
       },
       "Miami Heat": {
-        "rating": 106.161,
-        "games": 21,
-        "avg_scored": 124.58,
-        "avg_allowed": 118.67
+        "rating": 104.62,
+        "games": 22,
+        "avg_scored": 122.5,
+        "avg_allowed": 118.17
       },
       "Denver Nuggets": {
-        "rating": 100.369,
+        "rating": 100.368,
         "games": 21,
         "avg_scored": 117.75,
         "avg_allowed": 116.0
       },
       "Utah Jazz": {
-        "rating": 97.814,
+        "rating": 97.796,
         "games": 23,
         "avg_scored": 108.33,
         "avg_allowed": 113.33
       },
       "LA Clippers": {
-        "rating": 93.431,
+        "rating": 93.413,
         "games": 19,
         "avg_scored": 112.08,
         "avg_allowed": 120.67
       },
       "Golden State Warriors": {
-        "rating": 94.309,
+        "rating": 94.292,
         "games": 23,
         "avg_scored": 108.58,
         "avg_allowed": 109.0
       },
       "Atlanta Hawks": {
-        "rating": 103.011,
+        "rating": 103.01,
         "games": 22,
         "avg_scored": 115.25,
         "avg_allowed": 112.92
@@ -227,168 +209,264 @@
         "avg_allowed": 114.17
       },
       "Detroit Pistons": {
-        "rating": 102.625,
+        "rating": 102.605,
         "games": 21,
         "avg_scored": 114.08,
         "avg_allowed": 108.83
       },
       "Phoenix Suns": {
-        "rating": 104.355,
+        "rating": 104.353,
         "games": 21,
         "avg_scored": 115.25,
         "avg_allowed": 111.83
       },
       "Philadelphia 76ers": {
-        "rating": 99.506,
-        "games": 22,
-        "avg_scored": 118.58,
+        "rating": 100.439,
+        "games": 23,
+        "avg_scored": 118.75,
         "avg_allowed": 117.67
       },
       "New York Knicks": {
-        "rating": 105.022,
+        "rating": 105.027,
         "games": 22,
         "avg_scored": 108.58,
         "avg_allowed": 100.58
       },
       "Milwaukee Bucks": {
-        "rating": 93.963,
+        "rating": 93.956,
         "games": 23,
         "avg_scored": 108.08,
         "avg_allowed": 118.58
       },
       "Minnesota Timberwolves": {
-        "rating": 107.906,
+        "rating": 107.907,
         "games": 24,
         "avg_scored": 113.83,
         "avg_allowed": 105.33
       },
       "Sacramento Kings": {
-        "rating": 92.491,
+        "rating": 92.471,
         "games": 22,
         "avg_scored": 105.42,
         "avg_allowed": 116.25
       },
       "Los Angeles Lakers": {
-        "rating": 104.226,
+        "rating": 104.216,
         "games": 23,
         "avg_scored": 119.83,
         "avg_allowed": 112.42
       },
       "Charlotte Hornets": {
-        "rating": 92.461,
+        "rating": 92.467,
         "games": 20,
         "avg_scored": 99.5,
         "avg_allowed": 110.83
       },
       "Brooklyn Nets": {
-        "rating": 90.998,
+        "rating": 91.021,
         "games": 20,
         "avg_scored": 110.17,
         "avg_allowed": 119.0
       },
       "Oklahoma City Thunder": {
-        "rating": 101.044,
+        "rating": 101.001,
         "games": 23,
         "avg_scored": 116.83,
         "avg_allowed": 111.83
       },
       "New Orleans Pelicans": {
-        "rating": 90.276,
+        "rating": 90.274,
         "games": 23,
         "avg_scored": 110.25,
         "avg_allowed": 123.92
       },
       "Indiana Pacers": {
-        "rating": 97.539,
+        "rating": 97.556,
         "games": 22,
         "avg_scored": 110.25,
         "avg_allowed": 113.67
       },
       "Orlando Magic": {
-        "rating": 96.515,
+        "rating": 96.536,
         "games": 21,
         "avg_scored": 106.42,
         "avg_allowed": 109.83
       },
       "Chicago Bulls": {
-        "rating": 101.889,
+        "rating": 101.903,
         "games": 22,
         "avg_scored": 118.17,
         "avg_allowed": 120.83
       },
       "Portland Trail Blazers": {
-        "rating": 104.468,
+        "rating": 104.495,
         "games": 21,
         "avg_scored": 115.25,
         "avg_allowed": 110.83
       },
       "Cleveland Cavaliers": {
-        "rating": 100.229,
+        "rating": 100.21,
         "games": 21,
         "avg_scored": 116.83,
         "avg_allowed": 117.17
       },
       "Boston Celtics": {
-        "rating": 105.788,
+        "rating": 105.8,
         "games": 22,
         "avg_scored": 109.17,
         "avg_allowed": 99.75
       },
       "Washington Wizards": {
-        "rating": 95.317,
+        "rating": 95.318,
         "games": 23,
         "avg_scored": 111.33,
         "avg_allowed": 121.33
       },
       "San Antonio Spurs": {
-        "rating": 110.633,
+        "rating": 110.631,
         "games": 23,
         "avg_scored": 117.75,
         "avg_allowed": 103.08
       },
       "Dallas Mavericks": {
-        "rating": 101.12,
+        "rating": 101.119,
         "games": 22,
         "avg_scored": 112.08,
         "avg_allowed": 111.83
       },
       "Houston Rockets": {
-        "rating": 104.0,
+        "rating": 103.964,
         "games": 21,
         "avg_scored": 116.67,
         "avg_allowed": 110.33
       },
       "London Lions": {
-        "rating": 58.493,
+        "rating": 58.499,
         "games": 1,
         "avg_scored": 66.0,
         "avg_allowed": 119.0
       }
     },
     "CFB": {
-      "Massachusetts Minutemen": {
-        "rating": 99.336,
-        "games": 1,
-        "avg_scored": 33.0,
-        "avg_allowed": 34.0
+      "Troy Trojans": {
+        "rating": 88.512,
+        "games": 2,
+        "avg_scored": 31.0,
+        "avg_allowed": 39.5
+      },
+      "Southern Miss Golden Eagles": {
+        "rating": 90.913,
+        "games": 2,
+        "avg_scored": 34.5,
+        "avg_allowed": 47.5
+      },
+      "Middle Tennessee Blue Raiders": {
+        "rating": 101.702,
+        "games": 3,
+        "avg_scored": 30.0,
+        "avg_allowed": 27.0
+      },
+      "Delaware Blue Hens": {
+        "rating": 109.04,
+        "games": 4,
+        "avg_scored": 42.0,
+        "avg_allowed": 30.5
+      },
+      "Jacksonville State Gamecocks": {
+        "rating": 103.245,
+        "games": 2,
+        "avg_scored": 26.0,
+        "avg_allowed": 22.0
+      },
+      "Florida International Panthers": {
+        "rating": 95.422,
+        "games": 3,
+        "avg_scored": 23.67,
+        "avg_allowed": 29.33
+      },
+      "Missouri State Bears": {
+        "rating": 100.708,
+        "games": 3,
+        "avg_scored": 27.33,
+        "avg_allowed": 29.67
+      },
+      "Marshall Thundering Herd": {
+        "rating": 102.336,
+        "games": 2,
+        "avg_scored": 24.0,
+        "avg_allowed": 20.0
+      },
+      "South Alabama Jaguars": {
+        "rating": 99.756,
+        "games": 2,
+        "avg_scored": 26.5,
+        "avg_allowed": 27.5
+      },
+      "Western Kentucky Hilltoppers": {
+        "rating": 83.249,
+        "games": 2,
+        "avg_scored": 17.5,
+        "avg_allowed": 40.0
+      },
+      "Sam Houston Bearkats": {
+        "rating": 93.074,
+        "games": 2,
+        "avg_scored": 15.5,
+        "avg_allowed": 27.5
       },
       "Akron Zips": {
-        "rating": 100.664,
-        "games": 1,
-        "avg_scored": 34.0,
-        "avg_allowed": 33.0
+        "rating": 83.411,
+        "games": 2,
+        "avg_scored": 17.0,
+        "avg_allowed": 35.0
+      },
+      "Ohio Bobcats": {
+        "rating": 98.713,
+        "games": 3,
+        "avg_scored": 26.67,
+        "avg_allowed": 27.33
+      },
+      "Miami (OH) RedHawks": {
+        "rating": 107.79,
+        "games": 4,
+        "avg_scored": 28.25,
+        "avg_allowed": 19.5
       },
       "Buffalo Bulls": {
-        "rating": 112.616,
+        "rating": 103.962,
         "games": 1,
-        "avg_scored": 40.0,
-        "avg_allowed": 21.0
+        "avg_scored": 34.0,
+        "avg_allowed": 31.0
       },
-      "Central Michigan Chippewas": {
-        "rating": 87.384,
+      "Western Michigan Broncos": {
+        "rating": 104.24,
+        "games": 3,
+        "avg_scored": 33.33,
+        "avg_allowed": 23.0
+      },
+      "Bowling Green Falcons": {
+        "rating": 92.582,
+        "games": 2,
+        "avg_scored": 16.5,
+        "avg_allowed": 23.5
+      },
+      "Kent State Golden Flashes": {
+        "rating": 93.088,
+        "games": 3,
+        "avg_scored": 14.33,
+        "avg_allowed": 23.33
+      },
+      "Eastern Michigan Eagles": {
+        "rating": 100.159,
+        "games": 2,
+        "avg_scored": 22.0,
+        "avg_allowed": 23.0
+      },
+      "Ball State Cardinals": {
+        "rating": 94.145,
         "games": 1,
-        "avg_scored": 21.0,
-        "avg_allowed": 40.0
+        "avg_scored": 28.0,
+        "avg_allowed": 35.0
       },
       "Temple Owls": {
         "rating": 97.344,
@@ -427,16 +505,10 @@
         "avg_allowed": 10.0
       },
       "Toledo Rockets": {
-        "rating": 112.616,
+        "rating": 113.696,
         "games": 1,
         "avg_scored": 19.0,
         "avg_allowed": 0.0
-      },
-      "Bowling Green Falcons": {
-        "rating": 87.384,
-        "games": 1,
-        "avg_scored": 0.0,
-        "avg_allowed": 19.0
       },
       "Michigan State Spartans": {
         "rating": 74.768,
@@ -655,16 +727,10 @@
         "avg_allowed": 34.0
       },
       "Liberty Flames": {
-        "rating": 120.584,
+        "rating": 121.383,
         "games": 1,
         "avg_scored": 45.0,
         "avg_allowed": 14.0
-      },
-      "Western Kentucky Hilltoppers": {
-        "rating": 79.416,
-        "games": 1,
-        "avg_scored": 14.0,
-        "avg_allowed": 45.0
       },
       "Alabama Crimson Tide": {
         "rating": 131.208,
@@ -689,30 +755,6 @@
         "games": 1,
         "avg_scored": 14.0,
         "avg_allowed": 42.0
-      },
-      "Jacksonville State Gamecocks": {
-        "rating": 103.32,
-        "games": 1,
-        "avg_scored": 25.0,
-        "avg_allowed": 20.0
-      },
-      "Missouri State Bears": {
-        "rating": 96.68,
-        "games": 1,
-        "avg_scored": 20.0,
-        "avg_allowed": 25.0
-      },
-      "Sam Houston Bearkats": {
-        "rating": 98.008,
-        "games": 1,
-        "avg_scored": 28.0,
-        "avg_allowed": 31.0
-      },
-      "Middle Tennessee Blue Raiders": {
-        "rating": 101.992,
-        "games": 1,
-        "avg_scored": 31.0,
-        "avg_allowed": 28.0
       },
       "Illinois Fighting Illini": {
         "rating": 88.712,
@@ -763,28 +805,16 @@
         "avg_allowed": 38.0
       },
       "New Mexico State Aggies": {
-        "rating": 92.032,
+        "rating": 92.246,
         "games": 1,
         "avg_scored": 30.0,
         "avg_allowed": 42.0
       },
-      "Delaware Blue Hens": {
-        "rating": 107.968,
-        "games": 1,
-        "avg_scored": 42.0,
-        "avg_allowed": 30.0
-      },
       "Kennesaw State Owls": {
-        "rating": 107.304,
+        "rating": 107.868,
         "games": 1,
         "avg_scored": 35.0,
         "avg_allowed": 24.0
-      },
-      "Florida International Panthers": {
-        "rating": 92.696,
-        "games": 1,
-        "avg_scored": 24.0,
-        "avg_allowed": 35.0
       },
       "Michigan Wolverines": {
         "rating": 101.328,
@@ -918,41 +948,17 @@
         "avg_scored": 25.0,
         "avg_allowed": 31.0
       },
-      "Troy Trojans": {
-        "rating": 74.768,
-        "games": 1,
-        "avg_scored": 7.0,
-        "avg_allowed": 45.0
-      },
       "Georgia Southern Eagles": {
-        "rating": 125.232,
+        "rating": 128.055,
         "games": 1,
         "avg_scored": 45.0,
         "avg_allowed": 7.0
       },
-      "Marshall Thundering Herd": {
-        "rating": 100.664,
-        "games": 1,
-        "avg_scored": 28.0,
-        "avg_allowed": 27.0
-      },
       "Georgia State Panthers": {
-        "rating": 99.336,
+        "rating": 99.67,
         "games": 1,
         "avg_scored": 27.0,
         "avg_allowed": 28.0
-      },
-      "Southern Miss Golden Eagles": {
-        "rating": 96.68,
-        "games": 1,
-        "avg_scored": 35.0,
-        "avg_allowed": 40.0
-      },
-      "South Alabama Jaguars": {
-        "rating": 103.32,
-        "games": 1,
-        "avg_scored": 40.0,
-        "avg_allowed": 35.0
       },
       "Texas State Bobcats": {
         "rating": 118.592,
@@ -1169,30 +1175,6 @@
         "games": 1,
         "avg_scored": 8.0,
         "avg_allowed": 16.0
-      },
-      "Eastern Michigan Eagles": {
-        "rating": 103.32,
-        "games": 1,
-        "avg_scored": 17.0,
-        "avg_allowed": 12.0
-      },
-      "Kent State Golden Flashes": {
-        "rating": 96.68,
-        "games": 1,
-        "avg_scored": 12.0,
-        "avg_allowed": 17.0
-      },
-      "Western Michigan Broncos": {
-        "rating": 97.344,
-        "games": 1,
-        "avg_scored": 24.0,
-        "avg_allowed": 28.0
-      },
-      "Miami (OH) RedHawks": {
-        "rating": 102.656,
-        "games": 1,
-        "avg_scored": 28.0,
-        "avg_allowed": 24.0
       }
     }
   },
