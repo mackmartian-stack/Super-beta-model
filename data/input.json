@@ -13280,7 +13280,7 @@
       "method": "mean of available recent appearances; no minutes/injury adjustment"
     }
   ],
-  "generated_at": "2026-11-27T13:00:11.244948+00:00",
+  "generated_at": "2026-11-27T18:48:01.150725+00:00",
   "method": "Recent scoring margin plus opponent-strength adjustment; experimental, uncalibrated",
   "warnings": [
     "No verified injuries, lineups, coaching adjustments, or player projections.",

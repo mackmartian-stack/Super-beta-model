@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-27T13:00:11.244948+00:00",
+  "collected_at": "2026-11-27T18:48:01.150725+00:00",
   "games": [
     {
       "sport": "NBA",
@@ -3922,7 +3922,7 @@
       "date": "2026-11-27T17:00Z",
       "home_team": "Ole Miss Rebels",
       "away_team": "Mississippi State Bulldogs",
-      "status": "STATUS_SCHEDULED",
+      "status": "STATUS_HALFTIME",
       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261127&limit=500&groups=80"
     },
     {
@@ -3931,7 +3931,7 @@
       "date": "2026-11-27T17:00Z",
       "home_team": "UTSA Roadrunners",
       "away_team": "Tulsa Golden Hurricane",
-      "status": "STATUS_SCHEDULED",
+      "status": "STATUS_HALFTIME",
       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261127&limit=500&groups=80"
     },
     {
@@ -3940,7 +3940,7 @@
       "date": "2026-11-27T17:00Z",
       "home_team": "Akron Zips",
       "away_team": "Buffalo Bulls",
-      "status": "STATUS_SCHEDULED",
+      "status": "STATUS_IN_PROGRESS",
       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261127&limit=500&groups=80"
     },
     {
@@ -3949,7 +3949,7 @@
       "date": "2026-11-27T17:00Z",
       "home_team": "Ohio Bobcats",
       "away_team": "Toledo Rockets",
-      "status": "STATUS_SCHEDULED",
+      "status": "STATUS_HALFTIME",
       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261127&limit=500&groups=80"
     },
     {
@@ -3958,7 +3958,7 @@
       "date": "2026-11-27T17:08Z",
       "home_team": "Iowa Hawkeyes",
       "away_team": "Nebraska Cornhuskers",
-      "status": "STATUS_SCHEDULED",
+      "status": "STATUS_HALFTIME",
       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261127&limit=500&groups=80"
     },
     {
