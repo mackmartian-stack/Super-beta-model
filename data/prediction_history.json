@@ -2692,6 +2692,23 @@
       },
       "first_recorded_at": "2026-11-27T01:00:16.833870+00:00",
       "result": null
+    },
+    "NBA:401910088": {
+      "forecast": {
+        "sport": "NBA",
+        "game_id": "401910088",
+        "date": "2026-12-04T01:00Z",
+        "home_team": "San Antonio Spurs",
+        "away_team": "Toronto Raptors",
+        "predicted_winner": "San Antonio Spurs",
+        "home_win_probability": 0.8504,
+        "away_win_probability": 0.1496,
+        "projected_home_margin": 13.91,
+        "confidence": "uncalibrated",
+        "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261203&limit=500"
+      },
+      "first_recorded_at": "2026-11-27T07:05:05.067277+00:00",
+      "result": null
     }
   },
   "players": {},

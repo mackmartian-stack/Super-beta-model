@@ -1,5 +1,5 @@
 {
-  "collected_at": "2026-11-27T00:59:21.325785+00:00",
+  "collected_at": "2026-11-27T07:03:55.684162+00:00",
   "games": [
     {
       "sport": "NBA",
@@ -3895,7 +3895,7 @@
       "date": "2026-11-26T21:30Z",
       "home_team": "Dallas Cowboys",
       "away_team": "Philadelphia Eagles",
-      "status": "STATUS_IN_PROGRESS",
+      "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261126&limit=500"
     },
     {
@@ -3904,7 +3904,7 @@
       "date": "2026-11-27T01:00Z",
       "home_team": "Texas Tech Red Raiders",
       "away_team": "TCU Horned Frogs",
-      "status": "STATUS_SCHEDULED",
+      "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261126&limit=500&groups=80"
     },
     {
@@ -3913,17 +3913,8 @@
       "date": "2026-11-27T01:20Z",
       "home_team": "Buffalo Bills",
       "away_team": "Kansas City Chiefs",
-      "status": "STATUS_SCHEDULED",
+      "status": "STATUS_FINAL",
       "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261126&limit=500"
-    },
-    {
-      "sport": "CFB",
-      "game_id": "401858536",
-      "date": "2026-11-27T17:00Z",
-      "home_team": "Iowa Hawkeyes",
-      "away_team": "Nebraska Cornhuskers",
-      "status": "STATUS_SCHEDULED",
-      "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261127&limit=500&groups=80"
     },
     {
       "sport": "CFB",
@@ -3958,6 +3949,15 @@
       "date": "2026-11-27T17:00Z",
       "home_team": "Ohio Bobcats",
       "away_team": "Toledo Rockets",
+      "status": "STATUS_SCHEDULED",
+      "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261127&limit=500&groups=80"
+    },
+    {
+      "sport": "CFB",
+      "game_id": "401858536",
+      "date": "2026-11-27T17:08Z",
+      "home_team": "Iowa Hawkeyes",
+      "away_team": "Nebraska Cornhuskers",
       "status": "STATUS_SCHEDULED",
       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261127&limit=500&groups=80"
     },
@@ -5162,8 +5162,8 @@
       "sport": "CFB",
       "game_id": "401869533",
       "date": "2026-12-05T01:00Z",
-      "home_team": "Utah",
-      "away_team": "TBD",
+      "home_team": "Utah Utes",
+      "away_team": "Texas Tech Red Raiders",
       "status": "STATUS_SCHEDULED",
       "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261204&limit=500&groups=80"
     },

@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-27T00:59:21.325785+00:00",
+  "generated_at": "2026-11-27T07:03:55.684162+00:00",
   "ratings": {
     "NFL": {
       "Buffalo Bills": {
-        "rating": 111.288,
-        "games": 1,
-        "avg_scored": 26.0,
-        "avg_allowed": 9.0
+        "rating": 105.978,
+        "games": 2,
+        "avg_scored": 19.5,
+        "avg_allowed": 9.5
       },
       "Miami Dolphins": {
-        "rating": 88.712,
+        "rating": 87.594,
         "games": 1,
         "avg_scored": 9.0,
         "avg_allowed": 26.0
@@ -27,13 +27,13 @@
         "avg_allowed": 21.0
       },
       "Dallas Cowboys": {
-        "rating": 113.944,
-        "games": 1,
-        "avg_scored": 51.0,
-        "avg_allowed": 30.0
+        "rating": 104.227,
+        "games": 2,
+        "avg_scored": 44.5,
+        "avg_allowed": 34.5
       },
       "Tennessee Titans": {
-        "rating": 86.056,
+        "rating": 84.059,
         "games": 1,
         "avg_scored": 30.0,
         "avg_allowed": 51.0
@@ -51,25 +51,25 @@
         "avg_allowed": 31.0
       },
       "Kansas City Chiefs": {
-        "rating": 117.928,
-        "games": 1,
-        "avg_scored": 34.0,
-        "avg_allowed": 7.0
+        "rating": 105.021,
+        "games": 2,
+        "avg_scored": 22.0,
+        "avg_allowed": 10.0
       },
       "Arizona Cardinals": {
-        "rating": 82.072,
+        "rating": 79.409,
         "games": 1,
         "avg_scored": 7.0,
         "avg_allowed": 34.0
       },
       "Philadelphia Eagles": {
-        "rating": 101.992,
-        "games": 1,
-        "avg_scored": 19.0,
-        "avg_allowed": 16.0
+        "rating": 101.772,
+        "games": 2,
+        "avg_scored": 29.0,
+        "avg_allowed": 27.0
       },
       "Pittsburgh Steelers": {
-        "rating": 98.008,
+        "rating": 97.943,
         "games": 1,
         "avg_scored": 16.0,
         "avg_allowed": 19.0
@@ -823,16 +823,16 @@
         "avg_allowed": 27.0
       },
       "Baylor Bears": {
-        "rating": 93.36,
+        "rating": 94.364,
         "games": 1,
         "avg_scored": 10.0,
         "avg_allowed": 20.0
       },
       "Texas Tech Red Raiders": {
-        "rating": 106.64,
-        "games": 1,
-        "avg_scored": 20.0,
-        "avg_allowed": 10.0
+        "rating": 111.529,
+        "games": 2,
+        "avg_scored": 34.0,
+        "avg_allowed": 18.5
       },
       "Auburn Tigers": {
         "rating": 127.888,
@@ -1099,13 +1099,13 @@
         "avg_allowed": 17.0
       },
       "TCU Horned Frogs": {
-        "rating": 86.056,
-        "games": 1,
-        "avg_scored": 17.0,
-        "avg_allowed": 38.0
+        "rating": 85.721,
+        "games": 2,
+        "avg_scored": 22.0,
+        "avg_allowed": 43.0
       },
       "Utah Utes": {
-        "rating": 113.944,
+        "rating": 113.885,
         "games": 1,
         "avg_scored": 38.0,
         "avg_allowed": 17.0
