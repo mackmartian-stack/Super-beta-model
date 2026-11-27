@@ -2424,7 +2424,13 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?dates=20261126&limit=500"
       },
       "first_recorded_at": "2026-11-24T07:00:57.810310+00:00",
-      "result": null
+      "result": {
+        "home_score": 35.0,
+        "away_score": 39.0,
+        "correct_winner": false,
+        "actual_home_win": false,
+        "settled_at": "2026-11-27T01:00:16.881174+00:00"
+      }
     },
     "NBA:401909333": {
       "forecast": {
@@ -2668,6 +2674,23 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261202&limit=500"
       },
       "first_recorded_at": "2026-11-26T07:03:15.053654+00:00",
+      "result": null
+    },
+    "NBA:401910086": {
+      "forecast": {
+        "sport": "NBA",
+        "game_id": "401910086",
+        "date": "2026-12-04T00:30Z",
+        "home_team": "Miami Heat",
+        "away_team": "Washington Wizards",
+        "predicted_winner": "Miami Heat",
+        "home_win_probability": 0.8022,
+        "away_win_probability": 0.1978,
+        "projected_home_margin": 11.2,
+        "confidence": "uncalibrated",
+        "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261203&limit=500"
+      },
+      "first_recorded_at": "2026-11-27T01:00:16.833870+00:00",
       "result": null
     }
   },
