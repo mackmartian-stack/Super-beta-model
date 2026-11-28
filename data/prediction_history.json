@@ -1970,7 +1970,13 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261127&limit=500"
       },
       "first_recorded_at": "2026-11-21T00:53:44.141982+00:00",
-      "result": null
+      "result": {
+        "home_score": 113.0,
+        "away_score": 98.0,
+        "correct_winner": true,
+        "actual_home_win": true,
+        "settled_at": "2026-11-28T06:58:52.954330+00:00"
+      }
     },
     "NBA:401910042": {
       "forecast": {
@@ -2050,7 +2056,13 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261127&limit=500"
       },
       "first_recorded_at": "2026-11-22T06:56:35.984976+00:00",
-      "result": null
+      "result": {
+        "home_score": 116.0,
+        "away_score": 94.0,
+        "correct_winner": true,
+        "actual_home_win": true,
+        "settled_at": "2026-11-28T06:58:52.954366+00:00"
+      }
     },
     "CFB:401856760": {
       "forecast": {
@@ -2181,7 +2193,13 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261127&limit=500&groups=80"
       },
       "first_recorded_at": "2026-11-23T00:50:41.755386+00:00",
-      "result": null
+      "result": {
+        "home_score": 52.0,
+        "away_score": 28.0,
+        "correct_winner": true,
+        "actual_home_win": true,
+        "settled_at": "2026-11-28T06:58:52.954359+00:00"
+      }
     },
     "CFB:401858311": {
       "forecast": {
@@ -2459,7 +2477,13 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261127&limit=500"
       },
       "first_recorded_at": "2026-11-25T00:57:23.898458+00:00",
-      "result": null
+      "result": {
+        "home_score": 99.0,
+        "away_score": 96.0,
+        "correct_winner": true,
+        "actual_home_win": true,
+        "settled_at": "2026-11-28T06:58:52.954363+00:00"
+      }
     },
     "NBA:401910063": {
       "forecast": {
@@ -2493,7 +2517,13 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261127&limit=500"
       },
       "first_recorded_at": "2026-11-25T00:57:23.898458+00:00",
-      "result": null
+      "result": {
+        "home_score": 109.0,
+        "away_score": 113.0,
+        "correct_winner": false,
+        "actual_home_win": false,
+        "settled_at": "2026-11-28T06:58:52.954361+00:00"
+      }
     },
     "NBA:401909318": {
       "forecast": {
@@ -2550,7 +2580,13 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261127&limit=500"
       },
       "first_recorded_at": "2026-11-25T00:57:23.898458+00:00",
-      "result": null
+      "result": {
+        "home_score": 124.0,
+        "away_score": 100.0,
+        "correct_winner": true,
+        "actual_home_win": true,
+        "settled_at": "2026-11-28T06:58:52.954354+00:00"
+      }
     },
     "NBA:401910073": {
       "forecast": {
@@ -2737,6 +2773,57 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261128&limit=500&groups=80"
       },
       "first_recorded_at": "2026-11-28T00:57:24.595907+00:00",
+      "result": null
+    },
+    "NBA:401910089": {
+      "forecast": {
+        "sport": "NBA",
+        "game_id": "401910089",
+        "date": "2026-12-04T03:00Z",
+        "home_team": "Portland Trail Blazers",
+        "away_team": "Utah Jazz",
+        "predicted_winner": "Portland Trail Blazers",
+        "home_win_probability": 0.8163,
+        "away_win_probability": 0.1837,
+        "projected_home_margin": 11.93,
+        "confidence": "uncalibrated",
+        "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261203&limit=500"
+      },
+      "first_recorded_at": "2026-11-28T06:58:52.914762+00:00",
+      "result": null
+    },
+    "NBA:401910082": {
+      "forecast": {
+        "sport": "NBA",
+        "game_id": "401910082",
+        "date": "2026-12-03T01:00Z",
+        "home_team": "Oklahoma City Thunder",
+        "away_team": "Brooklyn Nets",
+        "predicted_winner": "Oklahoma City Thunder",
+        "home_win_probability": 0.7981,
+        "away_win_probability": 0.2019,
+        "projected_home_margin": 11.0,
+        "confidence": "uncalibrated",
+        "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261202&limit=500"
+      },
+      "first_recorded_at": "2026-11-28T06:58:52.914762+00:00",
+      "result": null
+    },
+    "NBA:401910085": {
+      "forecast": {
+        "sport": "NBA",
+        "game_id": "401910085",
+        "date": "2026-12-03T01:00Z",
+        "home_team": "Atlanta Hawks",
+        "away_team": "Indiana Pacers",
+        "predicted_winner": "Atlanta Hawks",
+        "home_win_probability": 0.7773,
+        "away_win_probability": 0.2227,
+        "projected_home_margin": 10.0,
+        "confidence": "uncalibrated",
+        "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261202&limit=500"
+      },
+      "first_recorded_at": "2026-11-28T06:58:52.914762+00:00",
       "result": null
     }
   },
