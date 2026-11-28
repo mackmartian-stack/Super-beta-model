@@ -2084,7 +2084,13 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261127&limit=500&groups=80"
       },
       "first_recorded_at": "2026-11-23T00:50:41.755386+00:00",
-      "result": null
+      "result": {
+        "home_score": 31.0,
+        "away_score": 35.0,
+        "correct_winner": false,
+        "actual_home_win": false,
+        "settled_at": "2026-11-28T00:57:24.628107+00:00"
+      }
     },
     "CFB:401860926": {
       "forecast": {
@@ -2152,7 +2158,13 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261127&limit=500&groups=80"
       },
       "first_recorded_at": "2026-11-23T00:50:41.755386+00:00",
-      "result": null
+      "result": {
+        "home_score": 41.0,
+        "away_score": 17.0,
+        "correct_winner": true,
+        "actual_home_win": true,
+        "settled_at": "2026-11-28T00:57:24.628100+00:00"
+      }
     },
     "CFB:401856880": {
       "forecast": {
@@ -2708,6 +2720,23 @@
         "source": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?dates=20261203&limit=500"
       },
       "first_recorded_at": "2026-11-27T07:05:05.067277+00:00",
+      "result": null
+    },
+    "CFB:401862837": {
+      "forecast": {
+        "sport": "CFB",
+        "game_id": "401862837",
+        "date": "2026-11-28T18:00Z",
+        "home_team": "East Carolina Pirates",
+        "away_team": "Florida Atlantic Owls",
+        "predicted_winner": "Florida Atlantic Owls",
+        "home_win_probability": 0.1416,
+        "away_win_probability": 0.8584,
+        "projected_home_margin": -14.41,
+        "confidence": "uncalibrated",
+        "source": "https://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?dates=20261128&limit=500&groups=80"
+      },
+      "first_recorded_at": "2026-11-28T00:57:24.595907+00:00",
       "result": null
     }
   },
